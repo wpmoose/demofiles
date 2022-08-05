@@ -1,0 +1,40 @@
+{
+    "homepage": "https://kenta.wpmoose.com/pricing/?utm_source=starter-site-screen&utm_medium=buy-now-link&utm_campaign=kenta-pricing",
+    "categories": {
+        "all": "All",
+        "blog": "Blog",
+        "business": "Business",
+        "ecommerce": "eCommerce",
+        "non-profit": "Non Profit",
+        "portfolio": "Portfolio",
+        "others": "Others"
+    },
+    "pagebuilders": {
+        "all": "All",
+        "elementor": "Elementor",
+        "gutenberg": "Gutenberg"
+    },
+    "demos": {
+        "travel": {
+            "name": "Travel",
+            "preview": "https://kenta.wpmoose.com/travel",
+            "screenshot": "screenshot.webp",
+            "category": [
+                "all",
+                "blog",
+                "business",
+                "others"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "font-awesome": {
+                    "name": "Font Awesome",
+                    "slug": "font-awesome/font-awesome.php"
+                }
+            }
+        }
+    }
+}

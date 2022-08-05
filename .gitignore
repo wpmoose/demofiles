@@ -1,0 +1,9 @@
+# misc
+._*
+.DS_Store
+Thumbs.db
+project.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build-errors.log*
