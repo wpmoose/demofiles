@@ -19,6 +19,11 @@
             "name": "Travel",
             "preview": "https://kenta.wpmoose.com/travel",
             "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "data": "data.xml",
+                "widgets": "widgets.wie"
+            },
             "category": [
                 "all",
                 "blog",
