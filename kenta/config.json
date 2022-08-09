@@ -25,6 +25,17 @@
                 "content": "content.xml",
                 "widgets": "widgets.wie"
             },
+            "core": {
+              "blogname": "Kenta Travel",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
             "category": [
                 "all",
                 "blog",
