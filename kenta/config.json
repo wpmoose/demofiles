@@ -22,7 +22,7 @@
             "screenshot": "screenshot.webp",
             "dummy": {
                 "customizer": "customizer.dat",
-                "data": "data.xml",
+                "content": "content.xml",
                 "widgets": "widgets.wie"
             },
             "category": [
