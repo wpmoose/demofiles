@@ -52,6 +52,43 @@
                     "slug": "font-awesome/font-awesome.php"
                 }
             }
+        },
+        "hope": {
+            "name": "Hope",
+            "preview": "https://kenta.wpmoose.com/hope",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie",
+                "site_settings": "site-settings.json"
+            },
+            "core": {
+              "blogname": "Kenta Hope",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_menu_2": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "elementor"
+            ],
+            "plugins": {
+                "elementor": {
+                    "name": "Elementor Page Builder",
+                    "slug": "elementor/elementor.php"
+                }
+            }
         }
     }
 }
