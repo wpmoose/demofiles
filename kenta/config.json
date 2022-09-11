@@ -1,6 +1,6 @@
 {
     "slug": "kenta",
-    "homepage": "https://kenta.wpmoose.com/pricing/?utm_source=starter-site-screen&utm_medium=buy-now-link&utm_campaign=kenta-pricing",
+    "homepage": "https://kentatheme.com/pricing/?utm_source=starter-site-screen&utm_medium=buy-now-link&utm_campaign=kenta-pricing",
     "categories": {
         "all": "All",
         "blog": "Blog",
@@ -12,13 +12,12 @@
     },
     "pagebuilders": {
         "all": "All",
-        "elementor": "Elementor",
         "gutenberg": "Gutenberg"
     },
     "demos": {
-        "travel": {
-            "name": "Travel",
-            "preview": "https://kenta.wpmoose.com/travel",
+        "gird-blog": {
+            "name": "Hope",
+            "preview": "https://kentatheme.com/grid-blog",
             "screenshot": "screenshot.webp",
             "dummy": {
                 "customizer": "customizer.dat",
@@ -26,67 +25,26 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Kenta Travel",
-              "page_on_front": "Home",
-              "page_for_posts": "Blogs"
+              "blogname": "Kenta Grid Blog Theme"
             },
             "customizer": {
                 "nav_menu_locations": {
                     "kenta_header_el_menu_1": "Primary Menu",
-                    "kenta_footer_el_menu": "Primary Menu"
+                    "kenta_header_el_menu_2": "Primary Menu"
                 }
             },
             "category": [
                 "all",
-                "blog",
-                "business",
-                "others"
+                "blog"
             ],
             "pagebuilder": [
                 "all",
                 "gutenberg"
             ],
             "plugins": {
-                "font-awesome": {
-                    "name": "Font Awesome",
-                    "slug": "font-awesome/font-awesome.php"
-                }
-            }
-        },
-        "hope": {
-            "name": "Hope",
-            "preview": "https://kenta.wpmoose.com/hope",
-            "screenshot": "screenshot.webp",
-            "dummy": {
-                "customizer": "customizer.dat",
-                "content": "content.xml",
-                "widgets": "widgets.wie",
-                "site_settings": "site-settings.json"
-            },
-            "core": {
-              "blogname": "Kenta Hope",
-              "page_on_front": "Home",
-              "page_for_posts": "Blogs"
-            },
-            "customizer": {
-                "nav_menu_locations": {
-                    "kenta_header_el_menu_1": "Primary Menu",
-                    "kenta_header_el_menu_2": "Primary Menu",
-                    "kenta_footer_el_menu": "Primary Menu"
-                }
-            },
-            "category": [
-                "all",
-                "non-profit"
-            ],
-            "pagebuilder": [
-                "all",
-                "elementor"
-            ],
-            "plugins": {
-                "elementor": {
-                    "name": "Elementor Page Builder",
-                    "slug": "elementor/elementor.php"
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
                 }
             }
         }
