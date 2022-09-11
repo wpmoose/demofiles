@@ -16,7 +16,7 @@
     },
     "demos": {
         "gird-blog": {
-            "name": "Hope",
+            "name": "Grid Blog",
             "preview": "https://kentatheme.com/grid-blog",
             "screenshot": "screenshot.webp",
             "dummy": {
