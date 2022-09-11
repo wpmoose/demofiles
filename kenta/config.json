@@ -15,7 +15,7 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
-        "gird-blog": {
+        "grid-blog": {
             "name": "Grid Blog",
             "preview": "https://kentatheme.com/grid-blog",
             "screenshot": "screenshot.webp",
