@@ -59,12 +59,13 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Kenta Masonry Blog Theme"
+              "blogname": "Kenta Masonry Blog"
             },
             "customizer": {
                 "nav_menu_locations": {
                     "kenta_header_el_menu_1": "Primary Menu",
-                    "kenta_header_el_menu_2": "Primary Menu"
+                    "kenta_header_el_menu_2": "Secondary Menu",
+                    "kenta_footer_el_menu": "Secondary Menu"
                 }
             },
             "category": [

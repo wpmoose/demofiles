@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-11 01:36" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-12 10:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,19 +26,19 @@
 >
 
 <channel>
-	<title>Kenta Grid Blog Theme</title>
-	<link>https://kentatheme.com/grid-blog</link>
+	<title>Kenta Masonry Blog</title>
+	<link>https://kentatheme.com/masonry-blog</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Sun, 11 Sep 2022 01:36:22 +0000</pubDate>
+	<pubDate>Mon, 12 Sep 2022 10:33:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
-	<wp:base_blog_url>https://kentatheme.com/grid-blog</wp:base_blog_url>
+	<wp:base_blog_url>https://kentatheme.com/masonry-blog</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[kenta]]></wp:author_login><wp:author_email><![CDATA[team@wpmoose.com]]></wp:author_email><wp:author_display_name><![CDATA[kenta]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:category_nicename><![CDATA[business]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Business]]></wp:cat_name>
@@ -50,19 +50,19 @@
 		<wp:cat_name><![CDATA[Fashion]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:category_nicename><![CDATA[health]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Health]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:category_nicename><![CDATA[news]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[News]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:category_nicename><![CDATA[sports]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Sports]]></wp:cat_name>
@@ -74,7 +74,7 @@
 		<wp:cat_name><![CDATA[Technology]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:category_nicename><![CDATA[trends]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Trends]]></wp:cat_name>
@@ -86,7 +86,7 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -100,35 +100,42 @@
 		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[health]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Health]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>2</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[kenta]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[kenta]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[news]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[News]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Secondary Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[sports]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -142,7 +149,7 @@
 		<wp:term_name><![CDATA[Technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -155,14 +162,16 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+			<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug><wp:term_name><![CDATA[Secondary Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
 		<title><![CDATA[billy-huynh-W8KTS-mhFUE-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/billy-huynh-w8kts-mhfue-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/billy-huynh-w8kts-mhfue-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:44:47 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/billy-huynh-W8KTS-mhFUE-unsplash.jpg</guid>
@@ -172,8 +181,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:44:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:44:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:44:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:44:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[billy-huynh-w8kts-mhfue-unsplash]]></wp:post_name>
@@ -183,7 +192,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/billy-huynh-W8KTS-mhFUE-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/billy-huynh-W8KTS-mhFUE-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/billy-huynh-W8KTS-mhFUE-unsplash.jpg]]></wp:meta_value>
@@ -195,7 +204,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jr-korpa-9XngoIpxcEo-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/jr-korpa-9xngoipxceo-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/jr-korpa-9xngoipxceo-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:44:52 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-9XngoIpxcEo-unsplash.jpg</guid>
@@ -205,8 +214,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:44:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:44:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:44:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:44:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jr-korpa-9xngoipxceo-unsplash]]></wp:post_name>
@@ -216,7 +225,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-9XngoIpxcEo-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jr-korpa-9XngoIpxcEo-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/jr-korpa-9XngoIpxcEo-unsplash.jpg]]></wp:meta_value>
@@ -228,7 +237,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jr-korpa-SFT9G3pAxLY-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/jr-korpa-sft9g3paxly-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/jr-korpa-sft9g3paxly-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:44:56 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-SFT9G3pAxLY-unsplash.jpg</guid>
@@ -238,8 +247,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:44:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:44:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:44:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:44:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jr-korpa-sft9g3paxly-unsplash]]></wp:post_name>
@@ -249,7 +258,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-SFT9G3pAxLY-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jr-korpa-SFT9G3pAxLY-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/jr-korpa-SFT9G3pAxLY-unsplash.jpg]]></wp:meta_value>
@@ -261,7 +270,7 @@
 							</item>
 					<item>
 		<title><![CDATA[mariola-grobelska-oww4J5vbPpU-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/mariola-grobelska-oww4j5vbppu-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/mariola-grobelska-oww4j5vbppu-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:44:59 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/mariola-grobelska-oww4J5vbPpU-unsplash.jpg</guid>
@@ -271,8 +280,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:44:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:44:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mariola-grobelska-oww4j5vbppu-unsplash]]></wp:post_name>
@@ -282,7 +291,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/mariola-grobelska-oww4J5vbPpU-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/mariola-grobelska-oww4J5vbPpU-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/mariola-grobelska-oww4J5vbPpU-unsplash.jpg]]></wp:meta_value>
@@ -294,7 +303,7 @@
 							</item>
 					<item>
 		<title><![CDATA[milad-fakurian-PGdW_bHDbpI-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/milad-fakurian-pgdw_bhdbpi-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/milad-fakurian-pgdw_bhdbpi-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:01 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/milad-fakurian-PGdW_bHDbpI-unsplash.jpg</guid>
@@ -304,8 +313,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[milad-fakurian-pgdw_bhdbpi-unsplash]]></wp:post_name>
@@ -315,7 +324,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/milad-fakurian-PGdW_bHDbpI-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/milad-fakurian-PGdW_bHDbpI-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/milad-fakurian-PGdW_bHDbpI-unsplash.jpg]]></wp:meta_value>
@@ -327,7 +336,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pawel-czerwinski-BFxnx0UHVGM-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-bfxnx0uhvgm-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-bfxnx0uhvgm-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:05 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-BFxnx0UHVGM-unsplash.jpg</guid>
@@ -337,8 +346,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pawel-czerwinski-bfxnx0uhvgm-unsplash]]></wp:post_name>
@@ -348,7 +357,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-BFxnx0UHVGM-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/pawel-czerwinski-BFxnx0UHVGM-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/pawel-czerwinski-BFxnx0UHVGM-unsplash.jpg]]></wp:meta_value>
@@ -360,7 +369,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pawel-czerwinski-fPN1w7bIuNU-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-fpn1w7biunu-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-fpn1w7biunu-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:41 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-fPN1w7bIuNU-unsplash.jpg</guid>
@@ -370,8 +379,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pawel-czerwinski-fpn1w7biunu-unsplash]]></wp:post_name>
@@ -381,7 +390,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-fPN1w7bIuNU-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/pawel-czerwinski-fPN1w7bIuNU-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/pawel-czerwinski-fPN1w7bIuNU-unsplash.jpg]]></wp:meta_value>
@@ -393,7 +402,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pawel-czerwinski-rNQ-xlJj_EM-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-rnq-xljj_em-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-rnq-xljj_em-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:47 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-rNQ-xlJj_EM-unsplash.jpg</guid>
@@ -403,8 +412,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pawel-czerwinski-rnq-xljj_em-unsplash]]></wp:post_name>
@@ -414,7 +423,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-rNQ-xlJj_EM-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/pawel-czerwinski-rNQ-xlJj_EM-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/pawel-czerwinski-rNQ-xlJj_EM-unsplash.jpg]]></wp:meta_value>
@@ -426,7 +435,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pawel-czerwinski-vI5XwPbGvmY-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-vi5xwpbgvmy-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/pawel-czerwinski-vi5xwpbgvmy-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:50 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-vI5XwPbGvmY-unsplash.jpg</guid>
@@ -436,8 +445,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pawel-czerwinski-vi5xwpbgvmy-unsplash]]></wp:post_name>
@@ -447,7 +456,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/pawel-czerwinski-vI5XwPbGvmY-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/pawel-czerwinski-vI5XwPbGvmY-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/pawel-czerwinski-vI5XwPbGvmY-unsplash.jpg]]></wp:meta_value>
@@ -459,7 +468,7 @@
 							</item>
 					<item>
 		<title><![CDATA[peter-olexa-RYtiT3b7XW4-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/peter-olexa-rytit3b7xw4-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/peter-olexa-rytit3b7xw4-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:45:54 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/peter-olexa-RYtiT3b7XW4-unsplash.jpg</guid>
@@ -469,8 +478,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:45:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:45:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:45:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:45:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[peter-olexa-rytit3b7xw4-unsplash]]></wp:post_name>
@@ -480,7 +489,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/peter-olexa-RYtiT3b7XW4-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/peter-olexa-RYtiT3b7XW4-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/peter-olexa-RYtiT3b7XW4-unsplash.jpg]]></wp:meta_value>
@@ -492,7 +501,7 @@
 							</item>
 					<item>
 		<title><![CDATA[steve-johnson-eVaxJVA2zHI-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/steve-johnson-evaxjva2zhi-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/steve-johnson-evaxjva2zhi-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 10:46:00 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/steve-johnson-eVaxJVA2zHI-unsplash.jpg</guid>
@@ -502,8 +511,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:46:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:46:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:46:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:46:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[steve-johnson-evaxjva2zhi-unsplash]]></wp:post_name>
@@ -513,7 +522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/steve-johnson-eVaxJVA2zHI-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/steve-johnson-eVaxJVA2zHI-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/steve-johnson-eVaxJVA2zHI-unsplash.jpg]]></wp:meta_value>
@@ -525,7 +534,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jr-korpa-stwHyPWNtbI-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur-lorem-donec/jr-korpa-stwhypwntbi-unsplash/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur-lorem-donec/jr-korpa-stwhypwntbi-unsplash/</link>
 		<pubDate>Sat, 10 Sep 2022 11:01:46 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-stwHyPWNtbI-unsplash.jpg</guid>
@@ -535,8 +544,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 11:01:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 11:01:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:01:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:01:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jr-korpa-stwhypwntbi-unsplash]]></wp:post_name>
@@ -546,7 +555,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/jr-korpa-stwHyPWNtbI-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jr-korpa-stwHyPWNtbI-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/jr-korpa-stwHyPWNtbI-unsplash.jpg]]></wp:meta_value>
@@ -557,8 +566,442 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[kenta-logo-dark]]></title>
+		<link>https://kentatheme.com/masonry-blog/kenta-logo-dark/</link>
+		<pubDate>Sat, 10 Sep 2022 11:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-dark.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:31:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:31:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:31:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:31:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kenta-logo-dark]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/kenta-logo-dark.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/kenta-logo-dark.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:27:"2022/09/kenta-logo-dark.png";s:8:"filesize";i:22743;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:27:"kenta-logo-dark-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8499;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"kenta-logo-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3739;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[kenta-logo-light]]></title>
+		<link>https://kentatheme.com/masonry-blog/kenta-logo-light/</link>
+		<pubDate>Sat, 10 Sep 2022 11:33:50 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-light.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:33:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:33:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:33:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:33:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kenta-logo-light]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/kenta-logo-light.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/kenta-logo-light.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:28:"2022/09/kenta-logo-light.png";s:8:"filesize";i:24570;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:28:"kenta-logo-light-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9663;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"kenta-logo-light-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4389;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[angelo-abear-knTKij60p3g-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/angelo-abear-kntkij60p3g-unsplash/</link>
+		<pubDate>Sat, 10 Sep 2022 11:39:10 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/angelo-abear-knTKij60p3g-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:39:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:39:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:39:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:39:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[angelo-abear-kntkij60p3g-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/angelo-abear-knTKij60p3g-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/angelo-abear-knTKij60p3g-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:45:"2022/09/angelo-abear-knTKij60p3g-unsplash.jpg";s:8:"filesize";i:202609;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4033;}s:5:"large";a:5:{s:4:"file";s:46:"angelo-abear-knTKij60p3g-unsplash-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37376;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2195;}s:12:"medium_large";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20401;}s:9:"1536x1536";a:5:{s:4:"file";s:46:"angelo-abear-knTKij60p3g-unsplash-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92935;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[nasa-rTZW4f02zY8-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/viverra-mauris-in-aliquam-sem-fringilla-ut/nasa-rtzw4f02zy8-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 07:22:28 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/nasa-rTZW4f02zY8-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 07:22:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 07:22:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:22:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:22:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nasa-rtzw4f02zy8-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>71</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/nasa-rTZW4f02zY8-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/nasa-rTZW4f02zY8-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:608;s:4:"file";s:37:"2022/09/nasa-rTZW4f02zY8-unsplash.jpg";s:8:"filesize";i:50816;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:37:"nasa-rTZW4f02zY8-unsplash-300x285.jpg";s:5:"width";i:300;s:6:"height";i:285;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11824;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"nasa-rTZW4f02zY8-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4489;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[jeremy-thomas-4dpAqfTbvKA-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper/jeremy-thomas-4dpaqftbvka-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:16:59 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:16:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:16:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:16:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:16:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jeremy-thomas-4dpaqftbvka-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>75</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:423;s:4:"file";s:46:"2022/09/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg";s:8:"filesize";i:90375;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:46:"jeremy-thomas-4dpAqfTbvKA-unsplash-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17058;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"jeremy-thomas-4dpAqfTbvKA-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6848;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[jeremy-thomas-E0AHdsENmDg-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper/jeremy-thomas-e0ahdsenmdg-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:17:01 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jeremy-thomas-E0AHdsENmDg-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:17:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:17:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:17:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:17:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jeremy-thomas-e0ahdsenmdg-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>75</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/jeremy-thomas-E0AHdsENmDg-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/jeremy-thomas-E0AHdsENmDg-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:437;s:4:"file";s:46:"2022/09/jeremy-thomas-E0AHdsENmDg-unsplash.jpg";s:8:"filesize";i:95726;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:46:"jeremy-thomas-E0AHdsENmDg-unsplash-300x205.jpg";s:5:"width";i:300;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16476;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"jeremy-thomas-E0AHdsENmDg-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6144;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[joel-filipe-QwoNAhbmLLo-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper/joel-filipe-qwonahbmllo-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:17:02 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/joel-filipe-QwoNAhbmLLo-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:17:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:17:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:17:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:17:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[joel-filipe-qwonahbmllo-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>75</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/joel-filipe-QwoNAhbmLLo-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/joel-filipe-QwoNAhbmLLo-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:809;s:4:"file";s:44:"2022/09/joel-filipe-QwoNAhbmLLo-unsplash.jpg";s:8:"filesize";i:93870;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"joel-filipe-QwoNAhbmLLo-unsplash-237x300.jpg";s:5:"width";i:237;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15366;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"joel-filipe-QwoNAhbmLLo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6398;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[aldebaran-s-nRAOQdF4IM4-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/viverra-mauris-in-aliquam-sem-fringilla-ut/aldebaran-s-nraoqdf4im4-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:22:39 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-nRAOQdF4IM4-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:22:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:22:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:22:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:22:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aldebaran-s-nraoqdf4im4-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>71</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-nRAOQdF4IM4-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/aldebaran-s-nRAOQdF4IM4-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:458;s:4:"file";s:44:"2022/09/aldebaran-s-nRAOQdF4IM4-unsplash.jpg";s:8:"filesize";i:99523;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"aldebaran-s-nRAOQdF4IM4-unsplash-300x215.jpg";s:5:"width";i:300;s:6:"height";i:215;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17042;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"aldebaran-s-nRAOQdF4IM4-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6032;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://kentatheme.com/masonry-blog/sample-page/</link>
+		<pubDate>Mon, 12 Sep 2022 07:10:42 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://kentatheme.com/masonry-blog/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 07:10:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 07:10:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 07:10:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 07:10:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sed faucibus turpis in eu mi bibendum neque.]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/</link>
+		<pubDate>Sat, 10 Sep 2022 10:47:11 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed faucibus turpis in eu mi bibendum neque. Morbi enim nunc faucibus a pellentesque. Nunc sed blandit libero volutpat. Neque egestas congue quisque egestas diam in arcu cursus euismod. Eget nunc scelerisque viverra mauris in aliquam sem. Viverra aliquet eget sit amet. Magna etiam tempor orci eu lobortis elementum nibh tellus. Mi proin sed libero enim sed faucibus turpis in. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Nulla facilisi morbi tempus iaculis urna. Viverra nam libero justo laoreet sit amet. Facilisis leo vel fringilla est ullamcorper eget. Quam quisque id diam vel quam. Rutrum quisque non tellus orci ac auctor augue mauris. Turpis cursus in hac habitasse. Diam in arcu cursus euismod.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 10:47:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 10:47:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:47:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:47:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sed-faucibus-turpis-in-eu-mi-bibendum-neque]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Magna etiam tempor orci eu lobortis elementum]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/magna-etiam-tempor-orci-eu-lobortis-elementum/</link>
+		<pubDate>Sat, 10 Sep 2022 10:47:42 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=19</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed faucibus turpis in eu mi bibendum neque. Morbi enim nunc faucibus a pellentesque. Nunc sed blandit libero volutpat. Neque egestas congue quisque egestas diam in arcu cursus euismod. Eget nunc scelerisque viverra mauris in aliquam sem. Viverra aliquet eget sit amet. Magna etiam tempor orci eu lobortis elementum nibh tellus. Mi proin sed libero enim sed faucibus turpis in. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Nulla facilisi morbi tempus iaculis urna. Viverra nam libero justo laoreet sit amet. Facilisis leo vel fringilla est ullamcorper eget. Quam quisque id diam vel quam. Rutrum quisque non tellus orci ac auctor augue mauris. Turpis cursus in hac habitasse. Diam in arcu cursus euismod.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 10:47:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 10:47:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:47:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:47:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[magna-etiam-tempor-orci-eu-lobortis-elementum]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Eget arcu dictum varius duis at consectetur]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur/</link>
+		<pubDate>Sat, 10 Sep 2022 10:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed augue lacus viverra vitae congue eu consequat ac. Nisl tincidunt eget nullam non nisi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat. Nunc sed augue lacus viverra. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Sed enim ut sem viverra aliquet eget sit. Eget arcu dictum varius duis at consectetur lorem donec. Fringilla urna porttitor rhoncus dolor. Justo eget magna fermentum iaculis. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Tristique et egestas quis ipsum suspendisse.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 10:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 10:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:49:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:49:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[eget-arcu-dictum-varius-duis-at-consectetur]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Justo eget magna fermentum iaculis]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/justo-eget-magna-fermentum-iaculis/</link>
+		<pubDate>Sat, 10 Sep 2022 10:49:50 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed augue lacus viverra vitae congue eu consequat ac. Nisl tincidunt eget nullam non nisi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat. Nunc sed augue lacus viverra. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Sed enim ut sem viverra aliquet eget sit. Eget arcu dictum varius duis at consectetur lorem donec. Fringilla urna porttitor rhoncus dolor. Justo eget magna fermentum iaculis. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Tristique et egestas quis ipsum suspendisse.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 10:49:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 10:49:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:49:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:49:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[justo-eget-magna-fermentum-iaculis]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/home/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/home/</link>
 		<pubDate>Sat, 10 Sep 2022 11:29:56 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/home/</guid>
@@ -566,10 +1009,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:29:56]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-09-12 10:32:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 11:29:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:29:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:29:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 10:32:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 10:32:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -610,78 +1053,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://kentatheme.com/grid-blog]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[kenta-logo-dark]]></title>
-		<link>https://kentatheme.com/grid-blog/kenta-logo-dark/</link>
-		<pubDate>Sat, 10 Sep 2022 11:31:31 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-dark.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>50</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:31:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:31:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:31:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:31:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[kenta-logo-dark]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-dark.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/kenta-logo-dark.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://kentatheme.com/masonry-blog]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:27:"2022/09/kenta-logo-dark.png";s:8:"filesize";i:22743;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:27:"kenta-logo-dark-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8499;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"kenta-logo-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3739;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[kenta-logo-light]]></title>
-		<link>https://kentatheme.com/grid-blog/kenta-logo-light/</link>
-		<pubDate>Sat, 10 Sep 2022 11:33:50 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-light.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:33:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:33:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:33:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:33:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[kenta-logo-light]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/kenta-logo-light.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/kenta-logo-light.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:28:"2022/09/kenta-logo-light.png";s:8:"filesize";i:24570;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:28:"kenta-logo-light-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9663;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"kenta-logo-light-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4389;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/52/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/52/</link>
 		<pubDate>Sat, 10 Sep 2022 11:35:03 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/52/</guid>
@@ -738,7 +1119,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/53/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/53/</link>
 		<pubDate>Sat, 10 Sep 2022 11:35:03 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/53/</guid>
@@ -770,7 +1151,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -794,41 +1175,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[angelo-abear-knTKij60p3g-unsplash]]></title>
-		<link>https://kentatheme.com/grid-blog/angelo-abear-kntkij60p3g-unsplash/</link>
-		<pubDate>Sat, 10 Sep 2022 11:39:10 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/angelo-abear-knTKij60p3g-unsplash.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:39:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:39:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:39:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:39:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[angelo-abear-kntkij60p3g-unsplash]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/grid-blog/wp-content/uploads/sites/2/2022/09/angelo-abear-knTKij60p3g-unsplash.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/angelo-abear-knTKij60p3g-unsplash.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:45:"2022/09/angelo-abear-knTKij60p3g-unsplash.jpg";s:8:"filesize";i:202609;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4033;}s:5:"large";a:5:{s:4:"file";s:46:"angelo-abear-knTKij60p3g-unsplash-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37376;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2195;}s:12:"medium_large";a:5:{s:4:"file";s:45:"angelo-abear-knTKij60p3g-unsplash-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20401;}s:9:"1536x1536";a:5:{s:4:"file";s:46:"angelo-abear-knTKij60p3g-unsplash-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92935;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/61/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/61/</link>
 		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/61/</guid>
@@ -860,7 +1208,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -885,7 +1233,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/62/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/62/</link>
 		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/62/</guid>
@@ -942,7 +1290,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://kentatheme.com/grid-blog/sample-page/</link>
+		<link>https://kentatheme.com/masonry-blog/sample-page-2/</link>
 		<pubDate>Sat, 10 Sep 2022 02:58:58 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?page_id=2</guid>
@@ -967,14 +1315,14 @@
 <p>As a new WordPress user, you should go to <a href="https://kentatheme.com/grid-blog/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
+		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 02:58:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 02:58:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2022-09-10 02:58:58]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2022-09-10 02:58:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -987,39 +1335,425 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sed faucibus turpis in eu mi bibendum neque.]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/sed-faucibus-turpis-in-eu-mi-bibendum-neque/</link>
-		<pubDate>Sat, 10 Sep 2022 10:47:11 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/63/</link>
+		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=5</guid>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/63/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed faucibus turpis in eu mi bibendum neque. Morbi enim nunc faucibus a pellentesque. Nunc sed blandit libero volutpat. Neque egestas congue quisque egestas diam in arcu cursus euismod. Eget nunc scelerisque viverra mauris in aliquam sem. Viverra aliquet eget sit amet. Magna etiam tempor orci eu lobortis elementum nibh tellus. Mi proin sed libero enim sed faucibus turpis in. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Nulla facilisi morbi tempus iaculis urna. Viverra nam libero justo laoreet sit amet. Facilisis leo vel fringilla est ullamcorper eget. Quam quisque id diam vel quam. Rutrum quisque non tellus orci ac auctor augue mauris. Turpis cursus in hac habitasse. Diam in arcu cursus euismod.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 10:47:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 10:47:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:47:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:47:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sed-faucibus-turpis-in-eu-mi-bibendum-neque]]></wp:post_name>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[63]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/64/</link>
+		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/64/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[64]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/65/</link>
+		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/65/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[65]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[aldebaran-s-qtRF_RxCAo0-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/tincidunt-vitae-semper-quis-lectus/aldebaran-s-qtrf_rxcao0-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:23:16 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-qtRF_RxCAo0-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:23:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:23:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:23:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:23:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aldebaran-s-qtrf_rxcao0-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>85</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-qtRF_RxCAo0-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/aldebaran-s-qtRF_RxCAo0-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:479;s:4:"file";s:44:"2022/09/aldebaran-s-qtRF_RxCAo0-unsplash.jpg";s:8:"filesize";i:79462;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"aldebaran-s-qtRF_RxCAo0-unsplash-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15527;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"aldebaran-s-qtRF_RxCAo0-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6114;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[aldebaran-s-zAm8YFpCCsc-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper-viverra-nam-libero-justo/aldebaran-s-zam8yfpccsc-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:23:49 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-zAm8YFpCCsc-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:23:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:23:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:23:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:23:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aldebaran-s-zam8yfpccsc-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>88</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-zAm8YFpCCsc-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/aldebaran-s-zAm8YFpCCsc-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:927;s:4:"file";s:44:"2022/09/aldebaran-s-zAm8YFpCCsc-unsplash.jpg";s:8:"filesize";i:124665;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"aldebaran-s-zAm8YFpCCsc-unsplash-207x300.jpg";s:5:"width";i:207;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12516;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"aldebaran-s-zAm8YFpCCsc-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5142;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[aldebaran-s-uXchDIKs4qI-unsplash]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper-viverra-nam-libero-justo/aldebaran-s-uxchdiks4qi-unsplash/</link>
+		<pubDate>Mon, 12 Sep 2022 09:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-uXchDIKs4qI-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:23:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:23:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:23:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aldebaran-s-uxchdiks4qi-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>88</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/aldebaran-s-uXchDIKs4qI-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/aldebaran-s-uXchDIKs4qI-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:641;s:4:"file";s:44:"2022/09/aldebaran-s-uXchDIKs4qI-unsplash.jpg";s:8:"filesize";i:68471;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"aldebaran-s-uXchDIKs4qI-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17203;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"aldebaran-s-uXchDIKs4qI-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5491;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ad-placeholder]]></title>
+		<link>https://kentatheme.com/masonry-blog/ad-placeholder/</link>
+		<pubDate>Mon, 12 Sep 2022 09:50:52 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/ad-placeholder.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>98</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:50:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:50:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:50:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:50:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ad-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/masonry-blog/wp-content/uploads/sites/3/2022/09/ad-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/ad-placeholder.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:960;s:6:"height";i:180;s:4:"file";s:26:"2022/09/ad-placeholder.png";s:8:"filesize";i:12472;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:25:"ad-placeholder-300x56.png";s:5:"width";i:300;s:6:"height";i:56;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4062;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"ad-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4730;}s:12:"medium_large";a:5:{s:4:"file";s:26:"ad-placeholder-768x144.png";s:5:"width";i:768;s:6:"height";i:144;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11041;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/108/</link>
+		<pubDate>Mon, 12 Sep 2022 09:58:57 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/2022/09/12/108/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:58:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:58:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:58:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:58:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[108]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/home-3/</link>
+		<pubDate>Mon, 12 Sep 2022 09:58:57 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/2022/09/12/home-3/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>109</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:58:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:58:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:58:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:58:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[109]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://kentatheme.com/masonry-blog]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/wp-global-styles-kenta/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/wp-global-styles-kenta/</link>
 		<pubDate>Sat, 10 Sep 2022 10:44:06 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/wp-global-styles-kenta/</guid>
@@ -1043,101 +1777,8 @@
 										<category domain="wp_theme" nicename="kenta"><![CDATA[kenta]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Magna etiam tempor orci eu lobortis elementum]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/magna-etiam-tempor-orci-eu-lobortis-elementum/</link>
-		<pubDate>Sat, 10 Sep 2022 10:47:42 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=19</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed faucibus turpis in eu mi bibendum neque. Morbi enim nunc faucibus a pellentesque. Nunc sed blandit libero volutpat. Neque egestas congue quisque egestas diam in arcu cursus euismod. Eget nunc scelerisque viverra mauris in aliquam sem. Viverra aliquet eget sit amet. Magna etiam tempor orci eu lobortis elementum nibh tellus. Mi proin sed libero enim sed faucibus turpis in. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Nulla facilisi morbi tempus iaculis urna. Viverra nam libero justo laoreet sit amet. Facilisis leo vel fringilla est ullamcorper eget. Quam quisque id diam vel quam. Rutrum quisque non tellus orci ac auctor augue mauris. Turpis cursus in hac habitasse. Diam in arcu cursus euismod.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 10:47:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 10:47:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:47:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:47:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[magna-etiam-tempor-orci-eu-lobortis-elementum]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Eget arcu dictum varius duis at consectetur]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur/</link>
-		<pubDate>Sat, 10 Sep 2022 10:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed augue lacus viverra vitae congue eu consequat ac. Nisl tincidunt eget nullam non nisi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat. Nunc sed augue lacus viverra. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Sed enim ut sem viverra aliquet eget sit. Eget arcu dictum varius duis at consectetur lorem donec. Fringilla urna porttitor rhoncus dolor. Justo eget magna fermentum iaculis. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Tristique et egestas quis ipsum suspendisse.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 10:49:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 10:49:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:49:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[eget-arcu-dictum-varius-duis-at-consectetur]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Justo eget magna fermentum iaculis]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/justo-eget-magna-fermentum-iaculis/</link>
-		<pubDate>Sat, 10 Sep 2022 10:49:50 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed augue lacus viverra vitae congue eu consequat ac. Nisl tincidunt eget nullam non nisi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat. Nunc sed augue lacus viverra. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Sed enim ut sem viverra aliquet eget sit. Eget arcu dictum varius duis at consectetur lorem donec. Fringilla urna porttitor rhoncus dolor. Justo eget magna fermentum iaculis. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Tristique et egestas quis ipsum suspendisse.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 10:49:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 10:49:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:49:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:49:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[justo-eget-magna-fermentum-iaculis]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Tristique et egestas quis ipsum suspendisse]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/tristique-et-egestas-quis-ipsum-suspendisse/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/tristique-et-egestas-quis-ipsum-suspendisse/</link>
 		<pubDate>Sat, 10 Sep 2022 10:58:20 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=25</guid>
@@ -1149,8 +1790,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:58:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:58:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:59:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:59:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:58:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:58:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[tristique-et-egestas-quis-ipsum-suspendisse]]></wp:post_name>
@@ -1165,14 +1806,10 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fringilla urna porttitor rhoncus dolor]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/fringilla-urna-porttitor-rhoncus-dolor/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/fringilla-urna-porttitor-rhoncus-dolor/</link>
 		<pubDate>Sat, 10 Sep 2022 10:55:01 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=27</guid>
@@ -1184,8 +1821,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:55:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:55:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:57:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:57:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:55:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:55:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fringilla-urna-porttitor-rhoncus-dolor]]></wp:post_name>
@@ -1201,14 +1838,10 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Nulla facilisi cras fermentum odio eu feugiat pretium nibhx]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/nulla-facilisi-cras-fermentum-odio-eu-feugiat-pretium-nibhx/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/nulla-facilisi-cras-fermentum-odio-eu-feugiat-pretium-nibhx/</link>
 		<pubDate>Sat, 10 Sep 2022 10:55:37 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=29</guid>
@@ -1220,8 +1853,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:55:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:55:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:57:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:57:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:55:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:55:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nulla-facilisi-cras-fermentum-odio-eu-feugiat-pretium-nibhx]]></wp:post_name>
@@ -1239,17 +1872,13 @@
 		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[nulla-facilisi-cras-fermentum-odio-eu-feugiat-pretium-nibh]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[At urna condimentum mattis pellentesque id]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/at-urna-condimentum-mattis-pellentesque-id/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/at-urna-condimentum-mattis-pellentesque-id/</link>
 		<pubDate>Sat, 10 Sep 2022 10:52:13 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=31</guid>
@@ -1282,7 +1911,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Facilisis leo vel fringilla est iaculis urna id]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/facilisis-leo-vel-fringilla-est/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/facilisis-leo-vel-fringilla-est/</link>
 		<pubDate>Sat, 10 Sep 2022 10:52:57 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=33</guid>
@@ -1294,8 +1923,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:52:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:52:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:25:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:25:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:52:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:52:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[facilisis-leo-vel-fringilla-est]]></wp:post_name>
@@ -1315,7 +1944,7 @@
 							</item>
 					<item>
 		<title><![CDATA[At urna condimentum mattis pellentesque id.]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/at-urna-condimentum-mattis-pellentesque-id-2/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/at-urna-condimentum-mattis-pellentesque-id-2/</link>
 		<pubDate>Sat, 10 Sep 2022 10:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=35</guid>
@@ -1327,8 +1956,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:52:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:52:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:58:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:58:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:52:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:52:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[at-urna-condimentum-mattis-pellentesque-id-2]]></wp:post_name>
@@ -1344,14 +1973,10 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Diam volutpat commodo sed egestas egestas fringilla]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/diam-volutpat-commodo-sed-egestas-egestas-fringilla/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/diam-volutpat-commodo-sed-egestas-egestas-fringilla/</link>
 		<pubDate>Sat, 10 Sep 2022 10:51:36 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=37</guid>
@@ -1363,8 +1988,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-10 10:51:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-10 10:51:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 10:58:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 10:58:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-10 10:51:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-10 10:51:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[diam-volutpat-commodo-sed-egestas-egestas-fringilla]]></wp:post_name>
@@ -1380,14 +2005,10 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Eget arcu dictum varius duis at consectetur lorem donec]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur-lorem-donec/</link>
+		<link>https://kentatheme.com/masonry-blog/2022/09/10/eget-arcu-dictum-varius-duis-at-consectetur-lorem-donec/</link>
 		<pubDate>Sat, 10 Sep 2022 11:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/grid-blog/?p=40</guid>
@@ -1418,174 +2039,214 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/63/</link>
-		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
+		<title><![CDATA[Viverra mauris in aliquam sem fringilla ut]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/viverra-mauris-in-aliquam-sem-fringilla-ut/</link>
+		<pubDate>Mon, 12 Sep 2022 07:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/63/</guid>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=71</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Id cursus metus aliquam eleifend mi. Porta nibh venenatis cras sed felis eget velit aliquet sagittis. Egestas sed tempus urna et. Arcu ac tortor dignissim convallis. Viverra mauris in aliquam sem fringilla ut. Lacus laoreet non curabitur gravida arcu ac. Ultricies tristique nulla aliquet enim. Augue ut lectus arcu bibendum at varius vel pharetra. Integer feugiat scelerisque varius morbi enim. Tellus in metus vulputate eu scelerisque felis imperdiet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[63]]></wp:post_name>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 07:22:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 07:22:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:22:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:22:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[viverra-mauris-in-aliquam-sem-fringilla-ut]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/64/</link>
-		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
+		<title><![CDATA[Ut consequat semper]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper/</link>
+		<pubDate>Mon, 12 Sep 2022 09:17:08 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/64/</guid>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=75</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Justo nec ultrices dui sapien eget mi proin sed. Etiam tempor orci eu lobortis elementum nibh tellus. A pellentesque sit amet porttitor eget. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Velit aliquet sagittis id consectetur purus ut. Ut consequat semper viverra nam libero justo laoreet. Ut tristique et egestas quis ipsum suspendisse ultrices. Neque aliquam vestibulum morbi blandit. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Semper risus in hendrerit gravida rutrum. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[64]]></wp:post_name>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:17:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:17:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:24:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:24:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ut-consequat-semper]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+										<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/grid-blog/2022/09/10/65/</link>
-		<pubDate>Sat, 10 Sep 2022 11:46:49 +0000</pubDate>
+		<title><![CDATA[Rhoncus aenean vel elit scelerisque mauris]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/rhoncus-aenean-vel-elit-scelerisque-mauris/</link>
+		<pubDate>Mon, 12 Sep 2022 09:17:47 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/grid-blog/2022/09/10/65/</guid>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=80</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Justo nec ultrices dui sapien eget mi proin sed. Etiam tempor orci eu lobortis elementum nibh tellus. A pellentesque sit amet porttitor eget. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Velit aliquet sagittis id consectetur purus ut. Ut consequat semper viverra nam libero justo laoreet. Ut tristique et egestas quis ipsum suspendisse ultrices. Neque aliquam vestibulum morbi blandit. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Semper risus in hendrerit gravida rutrum. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-10 11:46:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-10 11:46:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-10 11:46:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[65]]></wp:post_name>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:17:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:17:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:17:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:17:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[rhoncus-aenean-vel-elit-scelerisque-mauris]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							</item>
+					<item>
+		<title><![CDATA[Vel orci porta non pulvinar neque]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/vel-orci-porta-non-pulvinar-neque/</link>
+		<pubDate>Mon, 12 Sep 2022 09:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Justo nec ultrices dui sapien eget mi proin sed. Etiam tempor orci eu lobortis elementum nibh tellus. A pellentesque sit amet porttitor eget. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Velit aliquet sagittis id consectetur purus ut. Ut consequat semper viverra nam libero justo laoreet. Ut tristique et egestas quis ipsum suspendisse ultrices. Neque aliquam vestibulum morbi blandit. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Semper risus in hendrerit gravida rutrum. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:18:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:19:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:19:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[vel-orci-porta-non-pulvinar-neque]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+							</item>
+					<item>
+		<title><![CDATA[Tincidunt vitae semper quis lectus]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/tincidunt-vitae-semper-quis-lectus/</link>
+		<pubDate>Mon, 12 Sep 2022 09:23:20 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=85</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Justo nec ultrices dui sapien eget mi proin sed. Etiam tempor orci eu lobortis elementum nibh tellus. A pellentesque sit amet porttitor eget. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Velit aliquet sagittis id consectetur purus ut. Ut consequat semper viverra nam libero justo laoreet. Ut tristique et egestas quis ipsum suspendisse ultrices. Neque aliquam vestibulum morbi blandit. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Semper risus in hendrerit gravida rutrum. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:23:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:23:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:23:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:23:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tincidunt-vitae-semper-quis-lectus]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+							</item>
+					<item>
+		<title><![CDATA[Ut consequat semper viverra nam libero justo]]></title>
+		<link>https://kentatheme.com/masonry-blog/2022/09/12/ut-consequat-semper-viverra-nam-libero-justo/</link>
+		<pubDate>Mon, 12 Sep 2022 09:23:53 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/masonry-blog/?p=88</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Justo nec ultrices dui sapien eget mi proin sed. Etiam tempor orci eu lobortis elementum nibh tellus. A pellentesque sit amet porttitor eget. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Velit aliquet sagittis id consectetur purus ut. Ut consequat semper viverra nam libero justo laoreet. Ut tristique et egestas quis ipsum suspendisse ultrices. Neque aliquam vestibulum morbi blandit. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Semper risus in hendrerit gravida rutrum. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>88</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 09:23:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 09:23:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-12 09:23:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-12 09:23:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ut-consequat-semper-viverra-nam-libero-justo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
