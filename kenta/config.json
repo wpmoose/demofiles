@@ -51,7 +51,7 @@
         "masonry-blog": {
             "name": "Masonry Blog",
             "premium": true,
-            "preview": "https://kentatheme.com/grid-blog",
+            "preview": "https://kentatheme.com/masonry-blog",
             "screenshot": "screenshot.webp",
             "dummy": {
                 "customizer": "customizer.dat",
