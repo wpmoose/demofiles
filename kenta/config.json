@@ -15,6 +15,43 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "sonia-business": {
+            "name": "Sonia",
+            "preview": "https://kentatheme.com/sonia-business",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Sonia"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                }
+            }
+        },
         "grid-blog": {
             "name": "Grid Blog",
             "preview": "https://kentatheme.com/grid-blog",
