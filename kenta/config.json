@@ -25,7 +25,9 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Sonia"
+              "blogname": "Sonia",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs"
             },
             "customizer": {
                 "nav_menu_locations": {
