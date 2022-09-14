@@ -16,7 +16,7 @@
     },
     "demos": {
         "sonia-business": {
-            "name": "Sonia",
+            "name": "Sonia Business",
             "preview": "https://kentatheme.com/sonia-business",
             "screenshot": "screenshot.webp",
             "dummy": {
@@ -37,7 +37,48 @@
             },
             "category": [
                 "all",
-                "business"
+                "business",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                }
+            }
+        },
+        "lucas-agency": {
+            "name": "Sonia",
+            "preview": "https://kentatheme.com/lucas-agency",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Lucas Agency",
+              "page_on_front": "Home"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit"
             ],
             "pagebuilder": [
                 "all",
