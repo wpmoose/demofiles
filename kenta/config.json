@@ -27,7 +27,8 @@
             "core": {
               "blogname": "Sonia",
               "page_on_front": "Home",
-              "page_for_posts": "Blogs"
+              "page_for_posts": "Blogs",
+              "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
                 "nav_menu_locations": {
@@ -66,7 +67,8 @@
             },
             "core": {
               "blogname": "Lucas Agency",
-              "page_on_front": "Home"
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
                 "nav_menu_locations": {
@@ -105,7 +107,8 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Kenta Grid Blog Theme"
+              "blogname": "Kenta Grid Blog",
+              "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
                 "nav_menu_locations": {
@@ -139,7 +142,8 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Kenta Masonry Blog"
+              "blogname": "Kenta Masonry Blog",
+              "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
                 "nav_menu_locations": {
