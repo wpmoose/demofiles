@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-14 14:58" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-15 01:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lucas Agency</title>
 	<link>https://kentatheme.com/lucas-agency</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Wed, 14 Sep 2022 14:58:50 +0000</pubDate>
+	<pubDate>Thu, 15 Sep 2022 01:33:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -88,450 +88,6 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://kentatheme.com/lucas-agency/sample-page/</link>
-		<pubDate>Wed, 14 Sep 2022 08:46:17 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://kentatheme.com/lucas-agency/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 08:46:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 08:46:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 08:46:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 08:46:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://kentatheme.com/lucas-agency/</link>
-		<pubDate>Wed, 14 Sep 2022 12:26:57 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/?page_id=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"31efc84a","minHeight":{"desktop":"587px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"globalColor":{"initial":"var(\u002d\u002dkb-base-color)"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg","attachment_id":10,"x":"0.43","y":"0.30"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlayBackground":{"type":"gradient","color":"var(\u002d\u002dkb-primary-color)","gradient":"linear-gradient(45deg,rgb(44,36,36) 10%,rgba(155,81,224,0) 100%)"},"align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-31efc84a kb-cover kb-cover-has-overlay"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"c76d28a8","markup":"h1","maxWidth":{"desktop":"","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":{"desktop":"3rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":{"desktop":"1.25","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textTransform":"uppercase"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"24px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-c76d28a8">Data to enrich your<br><mark style="background-color:rgba(0, 0, 0, 0);color:#dc2626" class="has-inline-color">online business</mark></h1>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"178143c1","maxWidth":{"desktop":"522px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"48px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-178143c1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"bdae186b","justify":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-bdae186b"><!-- wp:kenta-blocks/button {"blockID":"152c4500","hasIcon":"yes"} -->
-<div class="kb-button-wrapper kb-button-wrapper-152c4500"><a class="wp-block-kenta-blocks-button kb-button kb-button-152c4500 kb-button-left" href=""><i class="fas fa-rocket"></i><span>Get Started</span></a></div>
-<!-- /wp:kenta-blocks/button -->
-
-<!-- wp:kenta-blocks/button {"blockID":"567b5aea","hasIcon":"yes","preset":"invert"} -->
-<div class="kb-button-wrapper kb-button-wrapper-567b5aea"><a class="wp-block-kenta-blocks-button kb-button kb-button-567b5aea kb-button-left" href=""><i class="fas fa-circle-play"></i><span>Live Demo</span></a></div>
-<!-- /wp:kenta-blocks/button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"4b2854db","minHeight":{"desktop":"450px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-4b2854db kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/section {"blockID":"1e7f3e69","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-1e7f3e69 kb-section"><!-- wp:kenta-blocks/column {"blockID":"349b1383","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-349b1383"><div class="kb-column kb-column-349b1383"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"3c39b919","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-3c39b919"><!-- wp:kenta-blocks/icon-button {"blockID":"a6022518","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-a6022518"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-a6022518" href=""><i class="fas fa-bolt"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"71f1a717","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"24px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-71f1a717">Lightning fast</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"68cf862a","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-68cf862a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"54f047e6","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-54f047e6"><div class="kb-column kb-column-54f047e6"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"5a247419","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-5a247419"><!-- wp:kenta-blocks/icon-button {"blockID":"8e38568a","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-8e38568a"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-8e38568a" href=""><i class="fas fa-gem"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"6bb36e89","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-6bb36e89">Diamond quality</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"d7dd0169","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-d7dd0169">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"d5c5deb9","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-d5c5deb9"><div class="kb-column kb-column-d5c5deb9"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"9ad85018","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9ad85018"><!-- wp:kenta-blocks/icon-button {"blockID":"bb5a0438","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb5a0438"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb5a0438" href=""><i class="fas fa-archway"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"479cdb75","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-479cdb75">Solid as wall</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"02ff201e","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-02ff201e">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"d5f1dd62","minHeight":{"desktop":"","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"__INITIAL_VALUE__","type":"color"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-d5f1dd62 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/spacer {"blockID":"8968736d","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-spacer kb-spacer-8968736d kb-spacer" aria-hidden="true"></div>
-<!-- /wp:kenta-blocks/spacer -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"02ee736e","maxWidth":{"desktop":"678px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":"__INITIAL_VALUE__","variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-02ee736e">Massa tincidunt nunc pulvinar sapien et ligula. Quam id leo in vitae. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Semper auctor neque vitae tempus quam pellentesque nec nam aliquam.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:image {"align":"center","id":38,"width":103,"height":100,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg" alt="" class="wp-image-38" width="103" height="100"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"b00b3bdf","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-b00b3bdf"><strong>Monte Hawkins</strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"fd785685","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-fd785685">CEO</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/section {"blockID":"fc0bbd10","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-fc0bbd10 kb-section"><!-- wp:kenta-blocks/column {"blockID":"cfd7ca3d","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-cfd7ca3d"><div class="kb-column kb-column-cfd7ca3d"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"e03fa9c3","markup":"h3","typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-e03fa9c3">Who We Are?</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"39ebfc95"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-39ebfc95">Lectus sit amet est placerat in egestas erat. Adipiscing at in tellus integer feugiat. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"5b83da66"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5b83da66">Egestas sed tempus urna et pharetra pharetra massa massa. Elit ullamcorper dignissim cras tincidunt lobortis.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"7f5ad0f7","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7f5ad0f7"><div class="kb-column kb-column-7f5ad0f7"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"22d51dcd","markup":"h3","typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-22d51dcd">Our mission</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"96bf91b3"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-96bf91b3">Lectus sit amet est placerat in egestas erat. Adipiscing at in tellus integer feugiat. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"aff74737"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-aff74737">Egestas sed tempus urna et pharetra pharetra massa massa. Elit ullamcorper dignissim cras tincidunt lobortis.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section -->
-
-<!-- wp:kenta-blocks/spacer {"blockID":"9759c121","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-spacer kb-spacer-9759c121 kb-spacer" aria-hidden="true"></div>
-<!-- /wp:kenta-blocks/spacer --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"a73191af","background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-a73191af kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/section {"blockID":"da3eac67","background":{"color":"__INITIAL_VALUE__","type":"color"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-da3eac67 kb-section"><!-- wp:kenta-blocks/column {"blockID":"57b02729","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-57b02729"><div class="kb-column kb-column-57b02729"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"c7e4c9ba","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-c7e4c9ba">47,500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"3d645e4e","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-3d645e4e">Downloads</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"06e44108","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-06e44108"><div class="kb-column kb-column-06e44108"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"cc45c9b9","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc45c9b9">1,500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"3578bdec","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-3578bdec">Happy Customers</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"a60b7ae1","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-a60b7ae1"><div class="kb-column kb-column-a60b7ae1"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"2a0a7c8c","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2a0a7c8c">500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"824e5d62","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-824e5d62">5 Stars</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"22b64cc1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-22b64cc1">Meet Our Team</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"79779486","maxWidth":{"desktop":"544px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-79779486">Mattis aliquam faucibus purus in massa tempor nec feugiat. Ut pharetra sit amet aliquam id diam maecenas ultricies mi.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/section {"blockID":"2ae9e35d","gap":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-2ae9e35d kb-section"><!-- wp:kenta-blocks/column {"blockID":"2210f70c","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-2210f70c"><div class="kb-column kb-column-2210f70c"><div class="kb-column-content"><!-- wp:image {"align":"center","id":126,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg" alt="" class="wp-image-126" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"2e91a551","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-2e91a551"><strong>Monte Hawkins</strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"714c4461","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-714c4461">CEO</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"f9b0dc3c","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f9b0dc3c"><!-- wp:kenta-blocks/icon-button {"blockID":"b5a38b95","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b5a38b95"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b5a38b95" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"1245df37","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-1245df37"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-1245df37" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"bb4652f5","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb4652f5"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb4652f5" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"0bca2ba3","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-0bca2ba3"><div class="kb-column kb-column-0bca2ba3"><div class="kb-column-content"><!-- wp:image {"align":"center","id":71,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg" alt="" class="wp-image-71" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"af81ec7f","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-af81ec7f"><strong>Albertina Gentry</strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"b460e3f4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-b460e3f4">Designer</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"78949fd0","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-78949fd0"><!-- wp:kenta-blocks/icon-button {"blockID":"35f34428","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-35f34428"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-35f34428" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"6d631926","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6d631926"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6d631926" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"85a2321e","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-85a2321e"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-85a2321e" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"6f923467","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-6f923467"><div class="kb-column kb-column-6f923467"><div class="kb-column-content"><!-- wp:image {"align":"center","id":127,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg" alt="" class="wp-image-127" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"929b47b1","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-929b47b1"><strong><strong><strong>Nick King</strong></strong></strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"ea73370f","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-ea73370f">PM</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"f772aef1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f772aef1"><!-- wp:kenta-blocks/icon-button {"blockID":"2f99536f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-2f99536f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-2f99536f" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"abb07237","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-abb07237"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-abb07237" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"d10bcb55","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d10bcb55"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d10bcb55" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"e5c6b6f2","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-e5c6b6f2"><div class="kb-column kb-column-e5c6b6f2"><div class="kb-column-content"><!-- wp:image {"align":"center","id":70,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg" alt="" class="wp-image-70" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"9ee01e75","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-9ee01e75"><strong><strong><strong>Laurence Rose</strong></strong></strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"5fe673e4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5fe673e4">Developer</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"a3a048e1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a3a048e1"><!-- wp:kenta-blocks/icon-button {"blockID":"0a099142","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-0a099142"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-0a099142" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"bf901e58","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bf901e58"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bf901e58" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"55f60f8d","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-55f60f8d"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-55f60f8d" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"7bc22ad9","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7bc22ad9"><div class="kb-column kb-column-7bc22ad9"><div class="kb-column-content"><!-- wp:image {"align":"center","id":69,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg" alt="" class="wp-image-69" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"433afa44","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-433afa44"><strong><strong>Erving Matthews</strong></strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"e64bd627","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-e64bd627">Developer</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"0911a1f6","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-0911a1f6"><!-- wp:kenta-blocks/icon-button {"blockID":"7b7e9112","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-7b7e9112"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-7b7e9112" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"b06c8174","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b06c8174"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b06c8174" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"6002708f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6002708f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6002708f" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"019031ec","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-019031ec"><div class="kb-column kb-column-019031ec"><div class="kb-column-content"><!-- wp:image {"align":"center","id":125,"width":180,"height":180,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg" alt="" class="wp-image-125" width="180" height="180"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:kenta-blocks/heading {"blockID":"5d3ae526","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-5d3ae526"><strong><strong><strong><strong><strong>Johnson Walker</strong></strong></strong></strong></strong></h4>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"bfe085e1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-bfe085e1">Developer</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"df072476","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-df072476"><!-- wp:kenta-blocks/icon-button {"blockID":"6802af9c","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6802af9c"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6802af9c" href=""><i class="fab fa-facebook"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"5630870b","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-5630870b"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-5630870b" href=""><i class="fab fa-twitter"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button -->
-
-<!-- wp:kenta-blocks/icon-button {"blockID":"4fb8bb05","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-4fb8bb05"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-4fb8bb05" href=""><i class="fab fa-linkedin"></i></a></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section -->
-
-<!-- wp:kenta-blocks/spacer {"blockID":"4cd3e886","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-spacer kb-spacer-4cd3e886 kb-spacer" aria-hidden="true"></div>
-<!-- /wp:kenta-blocks/spacer -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"62314527","minHeight":{"desktop":"420px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-62314527 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"57cd9a13","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-57cd9a13">Ready to get started?</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"2546cff2","maxWidth":{"desktop":"560px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2546cff2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"a0f058a7","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a0f058a7"><!-- wp:kenta-blocks/button {"blockID":"27d79e53","hasIcon":"yes","iconPosition":"right","width":{"desktop":"180px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
-<!-- /wp:kenta-blocks/button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div>
-<!-- /wp:kenta-blocks/cover -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 12:26:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 12:26:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:20:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:20:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[site-container-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[disable-article-header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[disable-content-area-spacing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[tim-van-der-kuip-CPs2X8JYmS8-unsplash]]></title>
 		<link>https://kentatheme.com/lucas-agency/home/tim-van-der-kuip-cps2x8jyms8-unsplash/</link>
 		<pubDate>Wed, 14 Sep 2022 12:44:50 +0000</pubDate>
@@ -859,120 +415,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Kenta Theme]]></title>
-		<link>https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-1/</link>
-		<pubDate>Wed, 14 Sep 2022 14:26:58 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-1/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>77</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 14:28:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 14:26:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:28:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:28:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[awesome-product-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[77]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://kentatheme.com/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Kenta Blocks]]></title>
-		<link>https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-2/</link>
-		<pubDate>Wed, 14 Sep 2022 14:26:58 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 14:28:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 14:26:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:28:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:28:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[awesome-product-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://kentatheme.com/blocks]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://kentatheme.com/lucas-agency/2022/09/14/81/</link>
 		<pubDate>Wed, 14 Sep 2022 14:27:38 +0000</pubDate>
@@ -1064,63 +506,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/lucas-agency/2022/09/14/83/</link>
-		<pubDate>Wed, 14 Sep 2022 14:27:38 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/83/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>83</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-14 14:27:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-14 14:27:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:27:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:27:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[83]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="links"><![CDATA[Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -1342,6 +727,171 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[alex-suprun-ZHvM3XIOHoE-unsplash]]></title>
+		<link>https://kentatheme.com/lucas-agency/home/alex-suprun-zhvm3xiohoe-unsplash/</link>
+		<pubDate>Thu, 15 Sep 2022 01:31:57 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>116</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-15 01:31:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-15 01:31:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:31:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:31:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[alex-suprun-zhvm3xiohoe-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:44:"2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg";s:8:"filesize";i:34683;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"alex-suprun-ZHvM3XIOHoE-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8835;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"alex-suprun-ZHvM3XIOHoE-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3564;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[jonathan-cooper-ViyA5myhBVw-unsplash]]></title>
+		<link>https://kentatheme.com/lucas-agency/home/jonathan-cooper-viya5myhbvw-unsplash/</link>
+		<pubDate>Thu, 15 Sep 2022 01:31:58 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-15 01:31:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-15 01:31:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:31:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:31:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jonathan-cooper-viya5myhbvw-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:48:"2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg";s:8:"filesize";i:57446;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:48:"jonathan-cooper-ViyA5myhBVw-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14274;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"jonathan-cooper-ViyA5myhBVw-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5351;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[leio-mclaren-L2dTmhQzx4Q-unsplash]]></title>
+		<link>https://kentatheme.com/lucas-agency/home/leio-mclaren-l2dtmhqzx4q-unsplash/</link>
+		<pubDate>Thu, 15 Sep 2022 01:31:59 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-15 01:31:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-15 01:31:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:31:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:31:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leio-mclaren-l2dtmhqzx4q-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:45:"2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg";s:8:"filesize";i:55535;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:45:"leio-mclaren-L2dTmhQzx4Q-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13752;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"leio-mclaren-L2dTmhQzx4Q-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5039;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[nicolas-horn-MTZTGvDsHFY-unsplash]]></title>
+		<link>https://kentatheme.com/lucas-agency/home/nicolas-horn-mtztgvdshfy-unsplash/</link>
+		<pubDate>Thu, 15 Sep 2022 01:32:01 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-15 01:32:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-15 01:32:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:32:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:32:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nicolas-horn-mtztgvdshfy-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:45:"2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg";s:8:"filesize";i:58984;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:45:"nicolas-horn-MTZTGvDsHFY-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15589;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"nicolas-horn-MTZTGvDsHFY-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5945;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[seth-doyle-uJ8LNVCBjFQ-unsplash]]></title>
+		<link>https://kentatheme.com/lucas-agency/home/seth-doyle-uj8lnvcbjfq-unsplash/</link>
+		<pubDate>Thu, 15 Sep 2022 01:32:02 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-15 01:32:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-15 01:32:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:32:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:32:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[seth-doyle-uj8lnvcbjfq-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:43:"2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg";s:8:"filesize";i:87138;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:43:"seth-doyle-uJ8LNVCBjFQ-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20444;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"seth-doyle-uJ8LNVCBjFQ-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6585;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>https://kentatheme.com/lucas-agency/2022/09/14/hello-world/</link>
 		<pubDate>Wed, 14 Sep 2022 08:46:17 +0000</pubDate>
@@ -1382,6 +932,450 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://kentatheme.com/lucas-agency/sample-page/</link>
+		<pubDate>Wed, 14 Sep 2022 08:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://kentatheme.com/lucas-agency/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 08:46:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 08:46:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-14 08:46:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-14 08:46:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://kentatheme.com/lucas-agency/</link>
+		<pubDate>Wed, 14 Sep 2022 12:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/?page_id=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"31efc84a","minHeight":{"desktop":"587px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"globalColor":{"initial":"var(\u002d\u002dkb-base-color)"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg","attachment_id":10,"x":"0.43","y":"0.30"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlayBackground":{"type":"gradient","color":"var(\u002d\u002dkb-primary-color)","gradient":"linear-gradient(45deg,rgb(44,36,36) 10%,rgba(155,81,224,0) 100%)"},"align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-31efc84a kb-cover kb-cover-has-overlay"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"c76d28a8","markup":"h1","maxWidth":{"desktop":"","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":{"desktop":"3rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":{"desktop":"1.25","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textTransform":"uppercase"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"24px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-c76d28a8">Data to enrich your<br><mark style="background-color:rgba(0, 0, 0, 0);color:#dc2626" class="has-inline-color">online business</mark></h1>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"178143c1","maxWidth":{"desktop":"522px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"48px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-178143c1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"bdae186b","justify":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-bdae186b"><!-- wp:kenta-blocks/button {"blockID":"152c4500","hasIcon":"yes"} -->
+<div class="kb-button-wrapper kb-button-wrapper-152c4500"><a class="wp-block-kenta-blocks-button kb-button kb-button-152c4500 kb-button-left" href=""><i class="fas fa-rocket"></i><span>Get Started</span></a></div>
+<!-- /wp:kenta-blocks/button -->
+
+<!-- wp:kenta-blocks/button {"blockID":"567b5aea","hasIcon":"yes","preset":"invert"} -->
+<div class="kb-button-wrapper kb-button-wrapper-567b5aea"><a class="wp-block-kenta-blocks-button kb-button kb-button-567b5aea kb-button-left" href=""><i class="fas fa-circle-play"></i><span>Live Demo</span></a></div>
+<!-- /wp:kenta-blocks/button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"4b2854db","minHeight":{"desktop":"450px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-4b2854db kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/section {"blockID":"1e7f3e69","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-1e7f3e69 kb-section"><!-- wp:kenta-blocks/column {"blockID":"349b1383","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-349b1383"><div class="kb-column kb-column-349b1383"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"3c39b919","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-3c39b919"><!-- wp:kenta-blocks/icon-button {"blockID":"a6022518","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-a6022518"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-a6022518" href=""><i class="fas fa-bolt"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"71f1a717","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"24px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-71f1a717">Lightning fast</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"68cf862a","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-68cf862a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"54f047e6","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-54f047e6"><div class="kb-column kb-column-54f047e6"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"5a247419","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-5a247419"><!-- wp:kenta-blocks/icon-button {"blockID":"8e38568a","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-8e38568a"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-8e38568a" href=""><i class="fas fa-gem"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"6bb36e89","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-6bb36e89">Diamond quality</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"d7dd0169","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-d7dd0169">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"d5c5deb9","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-d5c5deb9"><div class="kb-column kb-column-d5c5deb9"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"9ad85018","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9ad85018"><!-- wp:kenta-blocks/icon-button {"blockID":"bb5a0438","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb5a0438"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb5a0438" href=""><i class="fas fa-archway"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"479cdb75","markup":"h3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignSelf":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-479cdb75">Solid as wall</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"02ff201e","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-02ff201e">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"d5f1dd62","minHeight":{"desktop":"","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"__INITIAL_VALUE__","type":"color"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-d5f1dd62 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/spacer {"blockID":"8968736d","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-spacer kb-spacer-8968736d kb-spacer" aria-hidden="true"></div>
+<!-- /wp:kenta-blocks/spacer -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"02ee736e","maxWidth":{"desktop":"678px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":"__INITIAL_VALUE__","variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-02ee736e">Massa tincidunt nunc pulvinar sapien et ligula. Quam id leo in vitae. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Semper auctor neque vitae tempus quam pellentesque nec nam aliquam.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:image {"align":"center","id":38,"width":103,"height":100,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg" alt="" class="wp-image-38" width="103" height="100"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"b00b3bdf","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-b00b3bdf"><strong>Monte Hawkins</strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"fd785685","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-fd785685">CEO</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/section {"blockID":"fc0bbd10","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-fc0bbd10 kb-section"><!-- wp:kenta-blocks/column {"blockID":"cfd7ca3d","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-cfd7ca3d"><div class="kb-column kb-column-cfd7ca3d"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"e03fa9c3","markup":"h3","typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-e03fa9c3">Who We Are?</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"39ebfc95"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-39ebfc95">Lectus sit amet est placerat in egestas erat. Adipiscing at in tellus integer feugiat. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"5b83da66"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5b83da66">Egestas sed tempus urna et pharetra pharetra massa massa. Elit ullamcorper dignissim cras tincidunt lobortis.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"7f5ad0f7","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7f5ad0f7"><div class="kb-column kb-column-7f5ad0f7"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"22d51dcd","markup":"h3","typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-22d51dcd">Our mission</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"96bf91b3"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-96bf91b3">Lectus sit amet est placerat in egestas erat. Adipiscing at in tellus integer feugiat. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"aff74737"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-aff74737">Egestas sed tempus urna et pharetra pharetra massa massa. Elit ullamcorper dignissim cras tincidunt lobortis.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section -->
+
+<!-- wp:kenta-blocks/spacer {"blockID":"9759c121","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-spacer kb-spacer-9759c121 kb-spacer" aria-hidden="true"></div>
+<!-- /wp:kenta-blocks/spacer --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"a73191af","background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-a73191af kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/section {"blockID":"da3eac67","background":{"color":"__INITIAL_VALUE__","type":"color"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-da3eac67 kb-section"><!-- wp:kenta-blocks/column {"blockID":"57b02729","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-57b02729"><div class="kb-column kb-column-57b02729"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"c7e4c9ba","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-c7e4c9ba">47,500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"3d645e4e","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-3d645e4e">Downloads</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"06e44108","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-06e44108"><div class="kb-column kb-column-06e44108"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"cc45c9b9","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc45c9b9">1,500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"3578bdec","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-3578bdec">Happy Customers</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"a60b7ae1","width":{"desktop":"33.33%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-a60b7ae1"><div class="kb-column kb-column-a60b7ae1"><div class="kb-column-content"><!-- wp:kenta-blocks/paragraph {"blockID":"2a0a7c8c","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inter","fontSize":{"desktop":"2.5rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"4px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2a0a7c8c">500<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">+</mark></p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"824e5d62","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"var(\u002d\u002dkb-accent-active)"},"typography":{"family":"inherit","fontSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"400","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-824e5d62">5 Stars</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"22b64cc1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-22b64cc1">Meet Our Team</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"79779486","maxWidth":{"desktop":"544px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-79779486">Mattis aliquam faucibus purus in massa tempor nec feugiat. Ut pharetra sit amet aliquam id diam maecenas ultricies mi.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/section {"blockID":"2ae9e35d","gap":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-2ae9e35d kb-section"><!-- wp:kenta-blocks/column {"blockID":"2210f70c","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-2210f70c"><div class="kb-column kb-column-2210f70c"><div class="kb-column-content"><!-- wp:image {"align":"center","id":38,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg" alt="" class="wp-image-38"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"2e91a551","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-2e91a551"><strong>Monte Hawkins</strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"714c4461","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-714c4461">CEO</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"f9b0dc3c","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f9b0dc3c"><!-- wp:kenta-blocks/icon-button {"blockID":"b5a38b95","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b5a38b95"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b5a38b95" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"1245df37","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-1245df37"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-1245df37" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"bb4652f5","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb4652f5"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb4652f5" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"0bca2ba3","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-0bca2ba3"><div class="kb-column kb-column-0bca2ba3"><div class="kb-column-content"><!-- wp:image {"align":"center","id":120,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg" alt="" class="wp-image-120"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"af81ec7f","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-af81ec7f"><strong>Albertina Gentry</strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"b460e3f4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-b460e3f4">Designer</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"78949fd0","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-78949fd0"><!-- wp:kenta-blocks/icon-button {"blockID":"35f34428","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-35f34428"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-35f34428" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"6d631926","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6d631926"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6d631926" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"85a2321e","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-85a2321e"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-85a2321e" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"6f923467","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-6f923467"><div class="kb-column kb-column-6f923467"><div class="kb-column-content"><!-- wp:image {"align":"center","id":117,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg" alt="" class="wp-image-117"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"929b47b1","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-929b47b1"><strong><strong><strong>Nick King</strong></strong></strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"ea73370f","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-ea73370f">PM</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"f772aef1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f772aef1"><!-- wp:kenta-blocks/icon-button {"blockID":"2f99536f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-2f99536f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-2f99536f" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"abb07237","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-abb07237"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-abb07237" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"d10bcb55","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d10bcb55"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d10bcb55" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"e5c6b6f2","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-e5c6b6f2"><div class="kb-column kb-column-e5c6b6f2"><div class="kb-column-content"><!-- wp:image {"align":"center","id":119,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg" alt="" class="wp-image-119"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"9ee01e75","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-9ee01e75"><strong><strong><strong>Laurence Rose</strong></strong></strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"5fe673e4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5fe673e4">Developer</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"a3a048e1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a3a048e1"><!-- wp:kenta-blocks/icon-button {"blockID":"0a099142","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-0a099142"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-0a099142" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"bf901e58","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bf901e58"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bf901e58" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"55f60f8d","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-55f60f8d"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-55f60f8d" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"7bc22ad9","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7bc22ad9"><div class="kb-column kb-column-7bc22ad9"><div class="kb-column-content"><!-- wp:image {"align":"center","id":118,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg" alt="" class="wp-image-118"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"433afa44","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-433afa44"><strong><strong>Erving Matthews</strong></strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"e64bd627","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-e64bd627">Developer</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"0911a1f6","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-0911a1f6"><!-- wp:kenta-blocks/icon-button {"blockID":"7b7e9112","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-7b7e9112"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-7b7e9112" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"b06c8174","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b06c8174"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b06c8174" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"6002708f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6002708f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6002708f" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"019031ec","width":{"desktop":"33.33%","tablet":"50%","mobile":"__INITIAL_VALUE__"},"border":{"width":1,"style":"solid","color":"var(\u002d\u002dkb-base-300)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-019031ec"><div class="kb-column kb-column-019031ec"><div class="kb-column-content"><!-- wp:image {"align":"center","id":116,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="https://kentatheme.com/lucas-agency/wp-content/uploads/sites/5/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg" alt="" class="wp-image-116"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:kenta-blocks/heading {"blockID":"5d3ae526","markup":"h4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"4px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h4 class="wp-block-kenta-blocks-heading kb-heading kb-heading-5d3ae526"><strong><strong><strong><strong><strong>Johnson Walker</strong></strong></strong></strong></strong></h4>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"bfe085e1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-bfe085e1">Developer</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"df072476","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-df072476"><!-- wp:kenta-blocks/icon-button {"blockID":"6802af9c","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6802af9c"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6802af9c" href=""><i class="fab fa-facebook"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"5630870b","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-5630870b"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-5630870b" href=""><i class="fab fa-twitter"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button -->
+
+<!-- wp:kenta-blocks/icon-button {"blockID":"4fb8bb05","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-4fb8bb05"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-4fb8bb05" href=""><i class="fab fa-linkedin"></i></a></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section -->
+
+<!-- wp:kenta-blocks/spacer {"blockID":"4cd3e886","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-spacer kb-spacer-4cd3e886 kb-spacer" aria-hidden="true"></div>
+<!-- /wp:kenta-blocks/spacer -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"62314527","minHeight":{"desktop":"420px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"#fdefef","type":"color"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-62314527 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"57cd9a13","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-57cd9a13">Ready to get started?</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"2546cff2","maxWidth":{"desktop":"560px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2546cff2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"a0f058a7","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a0f058a7"><!-- wp:kenta-blocks/button {"blockID":"27d79e53","hasIcon":"yes","iconPosition":"right","width":{"desktop":"180px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
+<!-- /wp:kenta-blocks/button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div>
+<!-- /wp:kenta-blocks/cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 12:26:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 12:26:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-15 01:32:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-15 01:32:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[site-container-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[disable-article-header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[disable-content-area-spacing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://kentatheme.com/lucas-agency/2022/09/14/wp-global-styles-kenta/</link>
@@ -2077,6 +2071,177 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Kenta Theme]]></title>
+		<link>https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-1/</link>
+		<pubDate>Wed, 14 Sep 2022 14:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-1/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 14:28:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 14:26:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-14 14:28:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-14 14:28:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[awesome-product-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://kentatheme.com/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Kenta Blocks]]></title>
+		<link>https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-2/</link>
+		<pubDate>Wed, 14 Sep 2022 14:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/awesome-product-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 14:28:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 14:26:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-14 14:28:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-14 14:28:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[awesome-product-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://kentatheme.com/blocks]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/lucas-agency/2022/09/14/83/</link>
+		<pubDate>Wed, 14 Sep 2022 14:27:38 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/2022/09/14/83/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-14 14:27:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-14 14:27:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-14 14:27:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-14 14:27:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[83]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="links"><![CDATA[Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
