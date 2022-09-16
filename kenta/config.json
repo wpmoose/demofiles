@@ -138,6 +138,7 @@
         },
         "norris-portfolio": {
             "name": "Norris Portfolio",
+            "premium": true,
             "preview": "https://kentatheme.com/norris-portfolio",
             "screenshot": "screenshot.webp",
             "dummy": {
