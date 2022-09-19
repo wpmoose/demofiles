@@ -242,6 +242,39 @@
                     "slug": "kenta-blocks/kenta-blocks.php"
                 }
             }
+        },
+        "wedding": {
+            "name": "Wedding",
+            "preview": "https://kentatheme.com/wedding",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml"
+            },
+            "core": {
+              "blogname": "Wedding",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "other",
+                "portfolio"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
         }
     }
 }
