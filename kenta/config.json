@@ -253,6 +253,7 @@
             },
             "core": {
               "blogname": "Wedding",
+              "page_on_front": "Home",
               "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
