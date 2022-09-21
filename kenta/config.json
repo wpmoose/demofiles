@@ -173,6 +173,49 @@
                 }
             }
         },
+        "travel": {
+            "name": "Travel",
+            "preview": "https://kentatheme.com/travel",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Sonia",
+              "page_on_front": "Travel",
+              "page_for_posts": "Blogs",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "portfolio",
+                "others"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                }
+            }
+        },
         "grid-blog": {
             "name": "Grid Blog",
             "preview": "https://kentatheme.com/grid-blog",
