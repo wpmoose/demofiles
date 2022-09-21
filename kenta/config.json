@@ -183,8 +183,8 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Sonia",
-              "page_on_front": "Travel",
+              "blogname": "Travel",
+              "page_on_front": "Home",
               "page_for_posts": "Blogs",
               "kenta_blocks_sync_theme": "yes"
             },
