@@ -286,6 +286,45 @@
                 }
             }
         },
+        "storefront": {
+            "name": "Storefront",
+            "preview": "https://kentatheme.com/storefront",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Storefront",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "ecommerce"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "woocommerce": {
+                    "name": "WooCommerce",
+                    "slug": "woocommerce/woocommerce.php"
+                },
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "wedding": {
             "name": "Wedding",
             "preview": "https://kentatheme.com/wedding",
