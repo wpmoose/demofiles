@@ -302,8 +302,10 @@
             },
             "customizer": {
                 "nav_menu_locations": {
-                    "kenta_header_el_menu_1": "Primary Menu",
-                    "kenta_footer_el_menu": "Primary Menu"
+                    "kenta_header_el_menu_1": "Primary",
+                    "kenta_header_el_menu_2": "Primary",
+                    "kenta_header_el_collapsable_menu": "Primary",
+                    "kenta_footer_el_menu": "Primary"
                 }
             },
             "category": [
