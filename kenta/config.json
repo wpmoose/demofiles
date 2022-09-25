@@ -216,6 +216,88 @@
                 }
             }
         },
+        "storefront": {
+            "name": "Storefront",
+            "preview": "https://kentatheme.com/storefront",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Storefront",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary",
+                    "kenta_header_el_menu_2": "Primary",
+                    "kenta_header_el_collapsable_menu": "Primary",
+                    "kenta_footer_el_menu": "Primary"
+                }
+            },
+            "category": [
+                "all",
+                "ecommerce"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "woocommerce": {
+                    "name": "WooCommerce",
+                    "slug": "woocommerce/woocommerce.php"
+                },
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
+        "storefront-dark": {
+            "name": "Storefront Dark",
+            "preview": "https://kentatheme.com/storefront-dark",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Storefront Dark",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary",
+                    "kenta_header_el_menu_2": "Primary",
+                    "kenta_header_el_collapsable_menu": "Primary",
+                    "kenta_footer_el_menu": "Primary"
+                }
+            },
+            "category": [
+                "all",
+                "ecommerce"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "woocommerce": {
+                    "name": "WooCommerce",
+                    "slug": "woocommerce/woocommerce.php"
+                },
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "grid-blog": {
             "name": "Grid Blog",
             "preview": "https://kentatheme.com/grid-blog",
@@ -280,47 +362,6 @@
                 "gutenberg"
             ],
             "plugins": {
-                "kenta-blocks": {
-                    "name": "Kenta Blocks",
-                    "slug": "kenta-blocks/kenta-blocks.php"
-                }
-            }
-        },
-        "storefront": {
-            "name": "Storefront",
-            "preview": "https://kentatheme.com/storefront",
-            "screenshot": "screenshot.webp",
-            "dummy": {
-                "customizer": "customizer.dat",
-                "content": "content.xml",
-                "widgets": "widgets.wie"
-            },
-            "core": {
-              "blogname": "Storefront",
-              "page_on_front": "Home",
-              "kenta_blocks_sync_theme": "yes"
-            },
-            "customizer": {
-                "nav_menu_locations": {
-                    "kenta_header_el_menu_1": "Primary",
-                    "kenta_header_el_menu_2": "Primary",
-                    "kenta_header_el_collapsable_menu": "Primary",
-                    "kenta_footer_el_menu": "Primary"
-                }
-            },
-            "category": [
-                "all",
-                "ecommerce"
-            ],
-            "pagebuilder": [
-                "all",
-                "gutenberg"
-            ],
-            "plugins": {
-                "woocommerce": {
-                    "name": "WooCommerce",
-                    "slug": "woocommerce/woocommerce.php"
-                },
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
