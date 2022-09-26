@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-13 08:31" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-26 13:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Sonia</title>
-	<link>https://kentatheme.com/sonia-business</link>
+	<title>Kenta</title>
+	<link>https://kentatheme.com/kenta-business</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Tue, 13 Sep 2022 08:31:51 +0000</pubDate>
+	<pubDate>Mon, 26 Sep 2022 13:07:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
-	<wp:base_blog_url>https://kentatheme.com/sonia-business</wp:base_blog_url>
+	<wp:base_blog_url>https://kentatheme.com/kenta-business</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[kenta]]></wp:author_login><wp:author_email><![CDATA[team@wpmoose.com]]></wp:author_email><wp:author_display_name><![CDATA[kenta]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -89,7 +89,7 @@
 
 		<item>
 		<title><![CDATA[background]]></title>
-		<link>https://kentatheme.com/sonia-business/home/background/</link>
+		<link>https://kentatheme.com/kenta-business/home/background/</link>
 		<pubDate>Mon, 12 Sep 2022 14:47:40 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/background.png</guid>
@@ -110,7 +110,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/background.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/background.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/background.png]]></wp:meta_value>
@@ -121,41 +121,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[logo]]></title>
-		<link>https://kentatheme.com/sonia-business/logo/</link>
-		<pubDate>Mon, 12 Sep 2022 15:09:24 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/logo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-12 15:09:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-12 15:09:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-12 15:09:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-12 15:09:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/logo.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/logo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:16:"2022/09/logo.png";s:8:"filesize";i:14959;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:16:"logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5783;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[BalletDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/balletdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/balletdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:05:15 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/BalletDoodle.png</guid>
@@ -176,7 +143,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/BalletDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/BalletDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/BalletDoodle.png]]></wp:meta_value>
@@ -188,7 +155,7 @@
 							</item>
 					<item>
 		<title><![CDATA[ZombieingDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/zombieingdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/zombieingdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:08:07 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/ZombieingDoodle.png</guid>
@@ -209,7 +176,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/ZombieingDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/ZombieingDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/ZombieingDoodle.png]]></wp:meta_value>
@@ -221,7 +188,7 @@
 							</item>
 					<item>
 		<title><![CDATA[StrollingDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/strollingdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/strollingdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:12:41 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/StrollingDoodle.png</guid>
@@ -242,7 +209,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/StrollingDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/StrollingDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/StrollingDoodle.png]]></wp:meta_value>
@@ -254,7 +221,7 @@
 							</item>
 					<item>
 		<title><![CDATA[leio-mclaren-L2dTmhQzx4Q-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/home/leio-mclaren-l2dtmhqzx4q-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/home/leio-mclaren-l2dtmhqzx4q-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 02:20:07 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg</guid>
@@ -275,7 +242,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg]]></wp:meta_value>
@@ -287,7 +254,7 @@
 							</item>
 					<item>
 		<title><![CDATA[nicolas-horn-MTZTGvDsHFY-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/home/nicolas-horn-mtztgvdshfy-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/home/nicolas-horn-mtztgvdshfy-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 02:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg</guid>
@@ -308,7 +275,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/nicolas-horn-MTZTGvDsHFY-unsplash.jpg]]></wp:meta_value>
@@ -320,7 +287,7 @@
 							</item>
 					<item>
 		<title><![CDATA[seth-doyle-uJ8LNVCBjFQ-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/home/seth-doyle-uj8lnvcbjfq-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/home/seth-doyle-uj8lnvcbjfq-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 02:20:11 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg</guid>
@@ -341,7 +308,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/seth-doyle-uJ8LNVCBjFQ-unsplash.jpg]]></wp:meta_value>
@@ -353,7 +320,7 @@
 							</item>
 					<item>
 		<title><![CDATA[DancingDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/dancingdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/dancingdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:32:45 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/DancingDoodle.png</guid>
@@ -374,7 +341,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/DancingDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/DancingDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/DancingDoodle.png]]></wp:meta_value>
@@ -386,7 +353,7 @@
 							</item>
 					<item>
 		<title><![CDATA[RollerSkatingDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/rollerskatingdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/rollerskatingdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:32:57 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/RollerSkatingDoodle.png</guid>
@@ -407,7 +374,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/RollerSkatingDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/RollerSkatingDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/RollerSkatingDoodle.png]]></wp:meta_value>
@@ -419,7 +386,7 @@
 							</item>
 					<item>
 		<title><![CDATA[MoshingDoodle]]></title>
-		<link>https://kentatheme.com/sonia-business/home/moshingdoodle/</link>
+		<link>https://kentatheme.com/kenta-business/home/moshingdoodle/</link>
 		<pubDate>Tue, 13 Sep 2022 02:33:16 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/MoshingDoodle.png</guid>
@@ -440,7 +407,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/MoshingDoodle.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/MoshingDoodle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/MoshingDoodle.png]]></wp:meta_value>
@@ -452,7 +419,7 @@
 							</item>
 					<item>
 		<title><![CDATA[alex-suprun-ZHvM3XIOHoE-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/team/alex-suprun-zhvm3xiohoe-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/team/alex-suprun-zhvm3xiohoe-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 03:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg</guid>
@@ -473,7 +440,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/alex-suprun-ZHvM3XIOHoE-unsplash.jpg]]></wp:meta_value>
@@ -485,7 +452,7 @@
 							</item>
 					<item>
 		<title><![CDATA[amir-seilsepour-Pc0ToyoR5Xo-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/team/amir-seilsepour-pc0toyor5xo-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/team/amir-seilsepour-pc0toyor5xo-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 03:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg</guid>
@@ -506,7 +473,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/amir-seilsepour-Pc0ToyoR5Xo-unsplash.jpg]]></wp:meta_value>
@@ -518,7 +485,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jonathan-cooper-ViyA5myhBVw-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/team/jonathan-cooper-viya5myhbvw-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/team/jonathan-cooper-viya5myhbvw-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 03:56:01 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg</guid>
@@ -539,7 +506,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/jonathan-cooper-ViyA5myhBVw-unsplash.jpg]]></wp:meta_value>
@@ -551,7 +518,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/132/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/132/</link>
 		<pubDate>Tue, 13 Sep 2022 03:59:19 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/132/</guid>
@@ -608,7 +575,7 @@
 							</item>
 					<item>
 		<title><![CDATA[annie-spratt-QckxruozjRg-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/about/annie-spratt-qckxruozjrg-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/about/annie-spratt-qckxruozjrg-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 06:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/annie-spratt-QckxruozjRg-unsplash.jpg</guid>
@@ -629,7 +596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/annie-spratt-QckxruozjRg-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/annie-spratt-QckxruozjRg-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/annie-spratt-QckxruozjRg-unsplash.jpg]]></wp:meta_value>
@@ -641,7 +608,7 @@
 							</item>
 					<item>
 		<title><![CDATA[austin-distel-mpN7xjKQ_Ns-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/about/austin-distel-mpn7xjkq_ns-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/about/austin-distel-mpn7xjkq_ns-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 06:15:19 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/austin-distel-mpN7xjKQ_Ns-unsplash.jpg</guid>
@@ -662,7 +629,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/austin-distel-mpN7xjKQ_Ns-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/austin-distel-mpN7xjKQ_Ns-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/austin-distel-mpN7xjKQ_Ns-unsplash.jpg]]></wp:meta_value>
@@ -674,7 +641,7 @@
 							</item>
 					<item>
 		<title><![CDATA[campaign-creators-gMsnXqILjp4-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/about/campaign-creators-gmsnxqiljp4-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/about/campaign-creators-gmsnxqiljp4-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 06:15:22 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/campaign-creators-gMsnXqILjp4-unsplash.jpg</guid>
@@ -695,7 +662,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/campaign-creators-gMsnXqILjp4-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/campaign-creators-gMsnXqILjp4-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/campaign-creators-gMsnXqILjp4-unsplash.jpg]]></wp:meta_value>
@@ -707,7 +674,7 @@
 							</item>
 					<item>
 		<title><![CDATA[desola-lanre-ologun-IgUR1iX0mqM-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/about/desola-lanre-ologun-igur1ix0mqm-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/about/desola-lanre-ologun-igur1ix0mqm-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 06:15:24 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg</guid>
@@ -728,7 +695,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg]]></wp:meta_value>
@@ -740,7 +707,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jason-goodman-6awfTPLGaCE-unsplash]]></title>
-		<link>https://kentatheme.com/sonia-business/about/jason-goodman-6awftplgace-unsplash/</link>
+		<link>https://kentatheme.com/kenta-business/about/jason-goodman-6awftplgace-unsplash/</link>
 		<pubDate>Tue, 13 Sep 2022 06:15:29 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/jason-goodman-6awfTPLGaCE-unsplash.jpg</guid>
@@ -761,7 +728,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/sonia-business/wp-content/uploads/sites/4/2022/09/jason-goodman-6awfTPLGaCE-unsplash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/jason-goodman-6awfTPLGaCE-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/09/jason-goodman-6awfTPLGaCE-unsplash.jpg]]></wp:meta_value>
@@ -772,8 +739,41 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[kenta-logo]]></title>
+		<link>https://kentatheme.com/kenta-business/kenta-logo/</link>
+		<pubDate>Mon, 26 Sep 2022 13:05:05 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/kenta-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>211</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-26 13:05:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-26 13:05:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-26 13:05:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-26 13:05:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kenta-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/kenta-business/wp-content/uploads/sites/4/2022/09/kenta-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/kenta-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:22:"2022/09/kenta-logo.png";s:8:"filesize";i:10113;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:22:"kenta-logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3729;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://kentatheme.com/sonia-business/sample-page/</link>
+		<link>https://kentatheme.com/kenta-business/sample-page/</link>
 		<pubDate>Mon, 12 Sep 2022 12:51:38 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=2</guid>
@@ -819,7 +819,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/12/wp-global-styles-kenta/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/12/wp-global-styles-kenta/</link>
 		<pubDate>Mon, 12 Sep 2022 12:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/12/wp-global-styles-kenta/</guid>
@@ -844,7 +844,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://kentatheme.com/sonia-business/</link>
+		<link>https://kentatheme.com/kenta-business/</link>
 		<pubDate>Mon, 12 Sep 2022 12:54:46 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=6</guid>
@@ -1150,7 +1150,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogs]]></title>
-		<link>https://kentatheme.com/sonia-business/blogs/</link>
+		<link>https://kentatheme.com/kenta-business/blogs/</link>
 		<pubDate>Mon, 12 Sep 2022 12:55:18 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=8</guid>
@@ -1178,7 +1178,7 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://kentatheme.com/sonia-business/about/</link>
+		<link>https://kentatheme.com/kenta-business/about/</link>
 		<pubDate>Tue, 13 Sep 2022 03:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=87</guid>
@@ -1404,7 +1404,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Team]]></title>
-		<link>https://kentatheme.com/sonia-business/team/</link>
+		<link>https://kentatheme.com/kenta-business/team/</link>
 		<pubDate>Tue, 13 Sep 2022 03:09:31 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=89</guid>
@@ -1640,7 +1640,7 @@
 							</item>
 					<item>
 		<title><![CDATA[FAQ]]></title>
-		<link>https://kentatheme.com/sonia-business/faq/</link>
+		<link>https://kentatheme.com/kenta-business/faq/</link>
 		<pubDate>Tue, 13 Sep 2022 03:10:04 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=91</guid>
@@ -1798,7 +1798,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://kentatheme.com/sonia-business/contact/</link>
+		<link>https://kentatheme.com/kenta-business/contact/</link>
 		<pubDate>Tue, 13 Sep 2022 03:10:26 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=93</guid>
@@ -1898,7 +1898,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://kentatheme.com/sonia-business/privacy-policy/</link>
+		<link>https://kentatheme.com/kenta-business/privacy-policy/</link>
 		<pubDate>Tue, 13 Sep 2022 03:10:43 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=95</guid>
@@ -1960,7 +1960,7 @@ width: 200px;
 														</item>
 					<item>
 		<title><![CDATA[Terms & Conditions]]></title>
-		<link>https://kentatheme.com/sonia-business/terms-conditions/</link>
+		<link>https://kentatheme.com/kenta-business/terms-conditions/</link>
 		<pubDate>Tue, 13 Sep 2022 03:10:54 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?page_id=97</guid>
@@ -2022,7 +2022,7 @@ width: 200px;
 														</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/133/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/133/</link>
 		<pubDate>Tue, 13 Sep 2022 03:59:19 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/133/</guid>
@@ -2079,7 +2079,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/134/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/134/</link>
 		<pubDate>Tue, 13 Sep 2022 03:59:19 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/134/</guid>
@@ -2136,7 +2136,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/135/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/135/</link>
 		<pubDate>Tue, 13 Sep 2022 03:59:19 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/135/</guid>
@@ -2193,7 +2193,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/144/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/144/</link>
 		<pubDate>Tue, 13 Sep 2022 06:08:06 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/144/</guid>
@@ -2250,7 +2250,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/145/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/145/</link>
 		<pubDate>Tue, 13 Sep 2022 06:08:06 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/145/</guid>
@@ -2307,7 +2307,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/146/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/146/</link>
 		<pubDate>Tue, 13 Sep 2022 06:08:07 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/146/</guid>
@@ -2364,7 +2364,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/147/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/147/</link>
 		<pubDate>Tue, 13 Sep 2022 06:08:07 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/147/</guid>
@@ -2421,7 +2421,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/158/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/158/</link>
 		<pubDate>Tue, 13 Sep 2022 06:22:32 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/158/</guid>
@@ -2478,7 +2478,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/159/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/159/</link>
 		<pubDate>Tue, 13 Sep 2022 06:22:32 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/159/</guid>
@@ -2535,7 +2535,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[Join Us]]></title>
-		<link>https://kentatheme.com/sonia-business/2022/09/13/join-us/</link>
+		<link>https://kentatheme.com/kenta-business/2022/09/13/join-us/</link>
 		<pubDate>Tue, 13 Sep 2022 06:24:08 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/2022/09/13/join-us/</guid>
@@ -2592,7 +2592,7 @@ width: 200px;
 							</item>
 					<item>
 		<title><![CDATA[Contact form]]></title>
-		<link>https://kentatheme.com/sonia-business/?post_type=wpcf7_contact_form&#038;p=99</link>
+		<link>https://kentatheme.com/kenta-business/?post_type=wpcf7_contact_form&#038;p=99</link>
 		<pubDate>Tue, 13 Sep 2022 03:11:58 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/sonia-business/?post_type=wpcf7_contact_form&#038;p=99</guid>

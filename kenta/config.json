@@ -15,9 +15,9 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
-        "sonia-business": {
+        "kenta-business": {
             "name": "Sonia Business",
-            "preview": "https://kentatheme.com/sonia-business",
+            "preview": "https://kentatheme.com/kenta-business",
             "screenshot": "screenshot.webp",
             "dummy": {
                 "customizer": "customizer.dat",
@@ -25,7 +25,7 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Sonia",
+              "blogname": "Kenta",
               "page_on_front": "Home",
               "page_for_posts": "Blogs",
               "kenta_blocks_sync_theme": "yes"
