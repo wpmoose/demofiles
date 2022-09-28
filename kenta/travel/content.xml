@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-21 01:55" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-28 06:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Travel</title>
 	<link>https://kentatheme.com/travel</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Wed, 21 Sep 2022 01:55:25 +0000</pubDate>
+	<pubDate>Wed, 28 Sep 2022 06:18:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -850,7 +850,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"4a1fb93a","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-4a1fb93a"><!-- wp:kenta-blocks/button {"blockID":"56482c08","hasIcon":"yes","iconPosition":"right","width":{"desktop":"160px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-56482c08"><a class="wp-block-kenta-blocks-button kb-button kb-button-56482c08 kb-button-right" href=""><i class="fas fa-arrow-right"></i><span>Get Stared</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-56482c08"><a class="wp-block-kenta-blocks-button kb-button kb-button-56482c08 kb-button-right" href="#"><i class="fas fa-arrow-right"></i><span>Get Stared</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->
@@ -882,7 +882,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"464df71d","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-464df71d"><!-- wp:kenta-blocks/button {"blockID":"33094221","hasIcon":"yes","iconPosition":"right","preset":"ghost"} -->
-<div class="kb-button-wrapper kb-button-wrapper-33094221"><a class="wp-block-kenta-blocks-button kb-button kb-button-33094221 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-33094221"><a class="wp-block-kenta-blocks-button kb-button kb-button-33094221 kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover --></div></div></div>
@@ -906,7 +906,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"f59f93ec","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f59f93ec"><!-- wp:kenta-blocks/button {"blockID":"19e3cbe6","hasIcon":"yes","iconPosition":"right","preset":"ghost"} -->
-<div class="kb-button-wrapper kb-button-wrapper-19e3cbe6"><a class="wp-block-kenta-blocks-button kb-button kb-button-19e3cbe6 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-19e3cbe6"><a class="wp-block-kenta-blocks-button kb-button kb-button-19e3cbe6 kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover --></div></div></div>
@@ -930,7 +930,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"94b134d8","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-94b134d8"><!-- wp:kenta-blocks/button {"blockID":"6a69dcbe","hasIcon":"yes","iconPosition":"right","preset":"ghost"} -->
-<div class="kb-button-wrapper kb-button-wrapper-6a69dcbe"><a class="wp-block-kenta-blocks-button kb-button kb-button-6a69dcbe kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-6a69dcbe"><a class="wp-block-kenta-blocks-button kb-button kb-button-6a69dcbe kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover --></div></div></div>
@@ -954,7 +954,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"c25cd5a4","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-c25cd5a4"><!-- wp:kenta-blocks/button {"blockID":"bbd967c4","hasIcon":"yes","iconPosition":"right","preset":"ghost"} -->
-<div class="kb-button-wrapper kb-button-wrapper-bbd967c4"><a class="wp-block-kenta-blocks-button kb-button kb-button-bbd967c4 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-bbd967c4"><a class="wp-block-kenta-blocks-button kb-button kb-button-bbd967c4 kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Go</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover --></div></div></div>
@@ -976,12 +976,12 @@
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:kenta-blocks/paragraph {"blockID":"276c6687"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-276c6687">Leo urna molestie at elementum eu facilisis sed odio morbi. Ornare lectus sit amet est placerat in egestas erat. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim.</p>
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-276c6687">Leo urna molestie at elementum eu facilisis sed odio morbi. Ornare lectus sit amet est placerat in egestas erat.&nbsp;Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim.</p>
 <!-- /wp:kenta-blocks/paragraph -->
 
 <!-- wp:kenta-blocks/buttons {"blockID":"9aa3fca0"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9aa3fca0"><!-- wp:kenta-blocks/button {"blockID":"66767403","preset":"outline"} -->
-<div class="kb-button-wrapper kb-button-wrapper-66767403"><a class="wp-block-kenta-blocks-button kb-button kb-button-66767403 kb-button-left" href=""><span>Fint Out More</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-66767403"><a class="wp-block-kenta-blocks-button kb-button kb-button-66767403 kb-button-left" href="#"><span>Find Out More</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:media-text --></div></div>
@@ -1026,8 +1026,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-19 11:53:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-19 11:53:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-19 13:25:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-19 13:25:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:18:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:18:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1239,7 +1239,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"90638460"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-90638460"><!-- wp:kenta-blocks/button {"blockID":"e1c0dc33","preset":"solid"} -->
-<div class="kb-button-wrapper kb-button-wrapper-e1c0dc33"><a class="wp-block-kenta-blocks-button kb-button kb-button-e1c0dc33 kb-button-left" href=""><span>Find Out More</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-e1c0dc33"><a class="wp-block-kenta-blocks-button kb-button kb-button-e1c0dc33 kb-button-left" href="#"><span>Find Out More</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->
@@ -1263,7 +1263,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"e63bef9b"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-e63bef9b"><!-- wp:kenta-blocks/button {"blockID":"59770688","preset":"solid"} -->
-<div class="kb-button-wrapper kb-button-wrapper-59770688"><a class="wp-block-kenta-blocks-button kb-button kb-button-59770688 kb-button-left" href=""><span>Find Out More</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-59770688"><a class="wp-block-kenta-blocks-button kb-button kb-button-59770688 kb-button-left" href="#"><span>Find Out More</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->
@@ -1287,7 +1287,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"18e40c4b"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-18e40c4b"><!-- wp:kenta-blocks/button {"blockID":"81f2e8d5","preset":"solid"} -->
-<div class="kb-button-wrapper kb-button-wrapper-81f2e8d5"><a class="wp-block-kenta-blocks-button kb-button kb-button-81f2e8d5 kb-button-left" href=""><span>Find Out More</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-81f2e8d5"><a class="wp-block-kenta-blocks-button kb-button kb-button-81f2e8d5 kb-button-left" href="#"><span>Find Out More</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->]]></content:encoded>
@@ -1295,8 +1295,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-19 12:04:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-19 12:04:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-19 13:44:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-19 13:44:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>

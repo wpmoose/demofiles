@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-21 02:00" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-28 06:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Charity Care</title>
 	<link>https://kentatheme.com/charity-care</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Wed, 21 Sep 2022 02:00:43 +0000</pubDate>
+	<pubDate>Wed, 28 Sep 2022 06:03:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -828,11 +828,11 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"0a4bd75a"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-0a4bd75a"><!-- wp:kenta-blocks/button {"blockID":"bce8caf0","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-bce8caf0"><a class="wp-block-kenta-blocks-button kb-button kb-button-bce8caf0 kb-button-left" href=""><span>Donate For Cause</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-bce8caf0"><a class="wp-block-kenta-blocks-button kb-button kb-button-bce8caf0 kb-button-left" href="#"><span>Donate For Cause</span></a></div>
 <!-- /wp:kenta-blocks/button -->
 
 <!-- wp:kenta-blocks/button {"blockID":"df305860","preset":"outline","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textColor":{"initial":"var(\u002d\u002dkb-accent-color)","hover":"var(\u002d\u002dkb-base-color)"},"buttonColor":{"initial":"var(\u002d\u002dkb-base-color)","hover":"var(\u002d\u002dkb-primary-color)"},"border":{"width":2,"style":"solid","color":"var(\u002d\u002dkb-base-color)","hover":"var(\u002d\u002dkb-primary-color)"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-df305860"><a class="wp-block-kenta-blocks-button kb-button kb-button-df305860 kb-button-left" href=""><span>Become a Volunteer</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-df305860"><a class="wp-block-kenta-blocks-button kb-button kb-button-df305860 kb-button-left" href="#"><span>Become a Volunteer</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons -->
 
@@ -952,8 +952,8 @@
 <!-- /wp:kenta-blocks/paragraph -->
 
 <!-- wp:kenta-blocks/buttons {"blockID":"dc2dccfe"} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-dc2dccfe"><!-- wp:kenta-blocks/button {"blockID":"166570ab","preset":"custom","buttonColor":{"initial":"__INITIAL_VALUE__","hover":"var(\u002d\u002dkb-accent-color)"},"border":{"width":2,"style":"solid","color":"var(\u002d\u002dkb-base-color)","hover":"var(\u002d\u002dkb-accent-color)"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-166570ab"><a class="wp-block-kenta-blocks-button kb-button kb-button-166570ab kb-button-left" href=""><span>DONATE NOW</span></a></div>
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-dc2dccfe"><!-- wp:kenta-blocks/button {"blockID":"166570ab","preset":"custom","buttonColor":{"initial":"__INITIAL_VALUE__","hover":"var(\u002d\u002dkb-primary-active)"},"border":{"width":2,"style":"solid","color":"var(\u002d\u002dkb-base-color)","hover":"var(\u002d\u002dkb-primary-active)"}} -->
+<div class="kb-button-wrapper kb-button-wrapper-166570ab"><a class="wp-block-kenta-blocks-button kb-button kb-button-166570ab kb-button-left" href="#"><span>DONATE NOW</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:media-text --></div></div>
@@ -1013,7 +1013,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"e5aad070","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"12px","right":"12px","bottom":"12px","left":"12px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-e5aad070"><!-- wp:kenta-blocks/button {"blockID":"6d0cad5c","preset":"solid","typography":{"family":"inherit","fontSize":"0.875rem","variant":"400","lineHeight":"1","textTransform":"uppercase"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-6d0cad5c"><a class="wp-block-kenta-blocks-button kb-button kb-button-6d0cad5c kb-button-left" href=""><span>Become a Volunteer</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-6d0cad5c"><a class="wp-block-kenta-blocks-button kb-button kb-button-6d0cad5c kb-button-left" href="#"><span>Become a Volunteer</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons -->
 
@@ -1124,8 +1124,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-15 02:12:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-15 02:12:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-15 07:24:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-15 07:24:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:01:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:01:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1422,7 +1422,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"74a4365e"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-74a4365e"><!-- wp:kenta-blocks/button {"blockID":"0f59949c"} -->
-<div class="kb-button-wrapper kb-button-wrapper-0f59949c"><a class="wp-block-kenta-blocks-button kb-button kb-button-0f59949c kb-button-left" href=""><span>Become a Volunteer</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-0f59949c"><button class="wp-block-kenta-blocks-button kb-button kb-button-0f59949c kb-button-left" type="button"><span>Become a Volunteer</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->]]></content:encoded>
@@ -1430,8 +1430,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-15 07:47:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-15 07:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-15 08:45:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-15 08:45:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:02:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:02:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1672,7 +1672,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"74a4365e"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-74a4365e"><!-- wp:kenta-blocks/button {"blockID":"0f59949c"} -->
-<div class="kb-button-wrapper kb-button-wrapper-0f59949c"><a class="wp-block-kenta-blocks-button kb-button kb-button-0f59949c kb-button-left" href=""><span>Become a Volunteer</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-0f59949c"><button class="wp-block-kenta-blocks-button kb-button kb-button-0f59949c kb-button-left" type="button"><span>Become a Volunteer</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->]]></content:encoded>
@@ -1680,8 +1680,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-15 07:47:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-15 07:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-15 08:52:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-15 08:52:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:03:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:03:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteers]]></wp:post_name>
@@ -1757,7 +1757,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"df776e13","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-df776e13"><!-- wp:kenta-blocks/button {"blockID":"d6e54b27","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-d6e54b27"><a class="wp-block-kenta-blocks-button kb-button kb-button-d6e54b27 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-d6e54b27"><button class="wp-block-kenta-blocks-button kb-button kb-button-d6e54b27 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1781,7 +1781,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"868b9f7c","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-868b9f7c"><!-- wp:kenta-blocks/button {"blockID":"d2025aae","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-d2025aae"><a class="wp-block-kenta-blocks-button kb-button kb-button-d2025aae kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-d2025aae"><button class="wp-block-kenta-blocks-button kb-button kb-button-d2025aae kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1805,7 +1805,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"d9119270","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-d9119270"><!-- wp:kenta-blocks/button {"blockID":"0a478106","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-0a478106"><a class="wp-block-kenta-blocks-button kb-button kb-button-0a478106 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-0a478106"><button class="wp-block-kenta-blocks-button kb-button kb-button-0a478106 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1829,7 +1829,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"f60f1d55","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f60f1d55"><!-- wp:kenta-blocks/button {"blockID":"7f7457f1","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-7f7457f1"><a class="wp-block-kenta-blocks-button kb-button kb-button-7f7457f1 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-7f7457f1"><button class="wp-block-kenta-blocks-button kb-button kb-button-7f7457f1 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
@@ -1855,7 +1855,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"aa3ce0b2","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-aa3ce0b2"><!-- wp:kenta-blocks/button {"blockID":"980832f0","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-980832f0"><a class="wp-block-kenta-blocks-button kb-button kb-button-980832f0 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-980832f0"><button class="wp-block-kenta-blocks-button kb-button kb-button-980832f0 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1879,7 +1879,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"d2fb1faf","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-d2fb1faf"><!-- wp:kenta-blocks/button {"blockID":"683d35a6","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-683d35a6"><a class="wp-block-kenta-blocks-button kb-button kb-button-683d35a6 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-683d35a6"><button class="wp-block-kenta-blocks-button kb-button kb-button-683d35a6 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1903,7 +1903,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"410b712d","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-410b712d"><!-- wp:kenta-blocks/button {"blockID":"b27d9930","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-b27d9930"><a class="wp-block-kenta-blocks-button kb-button kb-button-b27d9930 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-b27d9930"><button class="wp-block-kenta-blocks-button kb-button kb-button-b27d9930 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1927,7 +1927,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"471d6454","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-471d6454"><!-- wp:kenta-blocks/button {"blockID":"b58d2798","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-b58d2798"><a class="wp-block-kenta-blocks-button kb-button kb-button-b58d2798 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-b58d2798"><button class="wp-block-kenta-blocks-button kb-button kb-button-b58d2798 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
@@ -1953,7 +1953,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"fcbf0d7c","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-fcbf0d7c"><!-- wp:kenta-blocks/button {"blockID":"6b1997d2","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-6b1997d2"><a class="wp-block-kenta-blocks-button kb-button kb-button-6b1997d2 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-6b1997d2"><button class="wp-block-kenta-blocks-button kb-button kb-button-6b1997d2 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1977,7 +1977,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"085434f1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-085434f1"><!-- wp:kenta-blocks/button {"blockID":"2bc629d4","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-2bc629d4"><a class="wp-block-kenta-blocks-button kb-button kb-button-2bc629d4 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-2bc629d4"><button class="wp-block-kenta-blocks-button kb-button kb-button-2bc629d4 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -2001,7 +2001,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"ca54770f","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-ca54770f"><!-- wp:kenta-blocks/button {"blockID":"99a04d17","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-99a04d17"><a class="wp-block-kenta-blocks-button kb-button kb-button-99a04d17 kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-99a04d17"><button class="wp-block-kenta-blocks-button kb-button kb-button-99a04d17 kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -2025,7 +2025,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"74675a78","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-74675a78"><!-- wp:kenta-blocks/button {"blockID":"d52e202c","preset":"accent","width":{"desktop":"200px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-d52e202c"><a class="wp-block-kenta-blocks-button kb-button kb-button-d52e202c kb-button-left" href=""><span>Donate Now</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-d52e202c"><button class="wp-block-kenta-blocks-button kb-button kb-button-d52e202c kb-button-left" type="button"><span>Donate Now</span></button></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
@@ -2038,8 +2038,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-15 07:47:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-15 07:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-15 08:26:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-15 08:26:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:02:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:02:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[projects]]></wp:post_name>

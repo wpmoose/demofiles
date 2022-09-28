@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-25 08:43" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-28 06:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Storefront</title>
 	<link>https://kentatheme.com/storefront</link>
 	<description>Just another WooCommerce site</description>
-	<pubDate>Sun, 25 Sep 2022 08:43:23 +0000</pubDate>
+	<pubDate>Wed, 28 Sep 2022 06:21:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -1033,93 +1033,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://kentatheme.com/storefront/2022/09/25/hello-world/</link>
-		<pubDate>Sun, 25 Sep 2022 02:52:20 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://kentatheme.com/">Kenta Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 02:52:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 02:52:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 02:52:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 02:52:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2022-09-25 02:52:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2022-09-25 02:52:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://kentatheme.com/storefront/sample-page/</link>
-		<pubDate>Sun, 25 Sep 2022 02:52:20 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://kentatheme.com/storefront/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 02:52:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 02:52:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 02:52:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 02:52:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://kentatheme.com/storefront/woocommerce-placeholder/</link>
 		<pubDate>Sun, 25 Sep 2022 02:54:48 +0000</pubDate>
@@ -1320,169 +1233,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Refund and Returns Policy]]></title>
-		<link>https://kentatheme.com/storefront/?page_id=9</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/?page_id=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><b>This is a sample page.</b></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<h3>Overview</h3>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Our refund and returns policy lasts 30 days. If 30 days have passed since your purchase, we can’t offer you a full refund or exchange.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Several types of goods are exempt from being returned. Perishable goods such as food, flowers, newspapers or magazines cannot be returned. We also do not accept products that are intimate or sanitary goods, hazardous materials, or flammable liquids or gases.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Additional non-returnable items:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul>
-<li>Gift cards</li>
-<li>Downloadable software products</li>
-<li>Some health and personal care items</li>
-</ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>To complete your return, we require a receipt or proof of purchase.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Please do not send your purchase back to the manufacturer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>There are certain situations where only partial refunds are granted:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul>
-<li>Book with obvious signs of use</li>
-<li>CD, DVD, VHS tape, software, video game, cassette tape, or vinyl record that has been opened.</li>
-<li>Any item not in its original condition, is damaged or missing parts for reasons not due to our error.</li>
-<li>Any item that is returned more than 30 days after delivery</li>
-</ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<h2>Refunds</h2>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<b>Late or missing refunds</b>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you haven’t received a refund yet, first check your bank account again.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Then contact your credit card company, it may take some time before your refund is officially posted.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Next contact your bank. There is often some processing time before a refund is posted.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you’ve done all of this and you still have not received your refund yet, please contact us at {email address}.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<b>Sale items</b>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Only regular priced items may be refunded. Sale items cannot be refunded.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<h2>Exchanges</h2>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at {email address} and send your item to: {physical address}.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<h2>Gifts</h2>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If the item was marked as a gift when purchased and shipped directly to you, you’ll receive a gift credit for the value of your return. Once the returned item is received, a gift certificate will be mailed to you.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If the item wasn’t marked as a gift when purchased, or the gift giver had the order shipped to themselves to give to you later, we will send a refund to the gift giver and they will find out about your return.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<h2>Shipping returns</h2>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To return your product, you should mail your product to: {physical address}.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Depending on where you live, the time it may take for your exchanged product to reach you may vary.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you are returning more expensive items, you may consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<h2>Need help?</h2>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Contact us at {email} for questions related to refunds and returns.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 02:54:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 02:54:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[refund_returns]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[V-Neck T-Shirt]]></title>
 		<link>https://kentatheme.com/storefront/product/v-neck-t-shirt/</link>
@@ -2335,482 +2085,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[logo-1.jpg]]></title>
-		<link>https://kentatheme.com/storefront/?attachment_id=56</link>
-		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/logo-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2019-01-16 13:02:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-16 13:02:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>33</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/logo-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/01/logo-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:799;s:4:"file";s:18:"2019/01/logo-1.jpg";s:8:"filesize";i:139907;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:18:"logo-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16147;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"logo-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5876;}s:12:"medium_large";a:5:{s:4:"file";s:18:"logo-1-768x767.jpg";s:5:"width";i:768;s:6:"height";i:767;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56876;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:18:"logo-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16214;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:18:"logo-1-600x599.jpg";s:5:"width";i:600;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41258;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:18:"logo-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3353;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/logo-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pennant-1.jpg]]></title>
-		<link>https://kentatheme.com/storefront/?attachment_id=57</link>
-		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/pennant-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2019-01-16 13:02:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-16 13:02:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pennant-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>34</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/pennant-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/01/pennant-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:21:"2019/01/pennant-1.jpg";s:8:"filesize";i:56755;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:21:"pennant-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6926;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"pennant-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2582;}s:12:"medium_large";a:5:{s:4:"file";s:21:"pennant-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28247;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:21:"pennant-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6926;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:21:"pennant-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19857;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:21:"pennant-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1608;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/pennant-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://kentatheme.com/storefront/</link>
-		<pubDate>Sun, 25 Sep 2022 02:59:02 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/?page_id=58</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"6e6b3fd7","minHeight":{"desktop":"580px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg","attachment_id":66,"x":"0.03","y":"0.50"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-6e6b3fd7 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"398af95b","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-398af95b">Welcome</h1>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"5e171919","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5e171919">This is your home page which is what most visitors will see when they first visit your shop.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"344df6f3","background":{"color":"__INITIAL_VALUE__","type":"color"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-344df6f3 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"451e99f0","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-451e99f0">Cool Features That Make Us Sparkle</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"e79f9171","maxWidth":{"desktop":"544px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-e79f9171">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/section {"blockID":"9f0902aa","alignItems":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-9f0902aa kb-section"><!-- wp:kenta-blocks/column {"blockID":"67e88a53","width":{"desktop":"35%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-67e88a53"><div class="kb-column kb-column-67e88a53"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"f8f50e80","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-f8f50e80 kb-section"><!-- wp:kenta-blocks/column {"blockID":"4376415c","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-4376415c"><div class="kb-column kb-column-4376415c"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"3cc96a1e","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-3cc96a1e kb-section"><!-- wp:kenta-blocks/column {"blockID":"0035de9e","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-0035de9e"><div class="kb-column kb-column-0035de9e"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"796f88e6"} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-796f88e6"><!-- wp:kenta-blocks/icon-button {"blockID":"d767d7eb","preset":"accent"} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d767d7eb"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d767d7eb"><i class="fas fa-circle-user"></i></span></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"c303b68a","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-c303b68a"><div class="kb-column kb-column-c303b68a"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"add10189","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-add10189">Awesome Feature</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"8d22aa12"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-8d22aa12">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"b0360881","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-b0360881"><div class="kb-column kb-column-b0360881"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"da50c0df","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-da50c0df kb-section"><!-- wp:kenta-blocks/column {"blockID":"3bd52748","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-3bd52748"><div class="kb-column kb-column-3bd52748"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"9b889f93"} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9b889f93"><!-- wp:kenta-blocks/icon-button {"blockID":"f4834a61","preset":"accent"} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-f4834a61"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-f4834a61"><i class="fab fa-cc-mastercard"></i></span></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"d9a3c774","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-d9a3c774"><div class="kb-column kb-column-d9a3c774"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"8538db2d","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-8538db2d">Awesome Feature</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"0837946f"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-0837946f">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"f1ed84eb","width":{"desktop":"30%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-f1ed84eb"><div class="kb-column kb-column-f1ed84eb"><div class="kb-column-content"><!-- wp:kenta-blocks/image {"blockID":"178d1d9b","id":38,"sizeSlug":"full","cssFilter":{"enable":"no","blur":"0","brightness":"100","contrast":"100","saturate":"100","hue":"0"}} -->
-<figure class="wp-block-kenta-blocks-image kb-image kb-image-178d1d9b"><img src="https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/vnech-tee-blue-1.jpg" alt=""/></figure>
-<!-- /wp:kenta-blocks/image --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"ea63c3a8","width":{"desktop":"35%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-ea63c3a8"><div class="kb-column kb-column-ea63c3a8"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"9f290275","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-9f290275 kb-section"><!-- wp:kenta-blocks/column {"blockID":"dbc022b0","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-dbc022b0"><div class="kb-column kb-column-dbc022b0"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"d7d9dde5","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-d7d9dde5 kb-section"><!-- wp:kenta-blocks/column {"blockID":"842e7377","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-842e7377"><div class="kb-column kb-column-842e7377"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"89b95e7c"} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-89b95e7c"><!-- wp:kenta-blocks/icon-button {"blockID":"15bb4272","preset":"accent"} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-15bb4272"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-15bb4272"><i class="fas fa-cart-arrow-down"></i></span></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"14ec226e","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-14ec226e"><div class="kb-column kb-column-14ec226e"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"555a538f","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-555a538f">Awesome Feature</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"de1d729a"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-de1d729a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"335b7be6","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-335b7be6"><div class="kb-column kb-column-335b7be6"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"769ddb85","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-769ddb85 kb-section"><!-- wp:kenta-blocks/column {"blockID":"7d49b5cc","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7d49b5cc"><div class="kb-column kb-column-7d49b5cc"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"7c870203"} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-7c870203"><!-- wp:kenta-blocks/icon-button {"blockID":"ece47330","preset":"accent"} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-ece47330"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-ece47330"><i class="fas fa-hand-holding-heart"></i></span></div>
-<!-- /wp:kenta-blocks/icon-button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
-
-<!-- wp:kenta-blocks/column {"blockID":"042b262d","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-042b262d"><div class="kb-column kb-column-042b262d"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"01de15c2","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-01de15c2">Awesome Feature</h3>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"2e9cb920"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2e9cb920">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div>
-<!-- /wp:kenta-blocks/cover -->
-
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:kenta-blocks/heading {"blockID":"367055a1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-367055a1">New In</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:woocommerce/product-new {"rows":2,"stockStatus":["","instock","onbackorder"]} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:kenta-blocks/heading {"blockID":"6cc082e4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-6cc082e4">Shop By Category</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:woocommerce/product-category {"rows":2,"stockStatus":["","","instock","onbackorder"]} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:kenta-blocks/cover {"blockID":"27a7cc67","minHeight":{"desktop":"450px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg","attachment_id":66,"x":"0.06","y":"0.47"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlay":"no","align":"full"} -->
-<div class="wp-block-kenta-blocks-cover alignfull kb-cover-27a7cc67 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"aa304526","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-aa304526">Shop for what's best for you</h2>
-<!-- /wp:kenta-blocks/heading -->
-
-<!-- wp:kenta-blocks/paragraph {"blockID":"ce2a21e8","maxWidth":{"desktop":"558px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-ce2a21e8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<!-- /wp:kenta-blocks/paragraph -->
-
-<!-- wp:kenta-blocks/buttons {"blockID":"f09d8d23","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f09d8d23"><!-- wp:kenta-blocks/button {"blockID":"e4406b8b","hasIcon":"yes"} -->
-<div class="kb-button-wrapper kb-button-wrapper-e4406b8b"><a class="wp-block-kenta-blocks-button kb-button kb-button-e4406b8b kb-button-left" href="https://kentatheme.com/storefront/shop/"><i class="fas fa-store"></i><span>Shop Now</span></a></div>
-<!-- /wp:kenta-blocks/button --></div>
-<!-- /wp:kenta-blocks/buttons --></div></div>
-<!-- /wp:kenta-blocks/cover -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 02:59:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 02:59:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 08:41:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 08:41:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[site-container-style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[boxed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-container-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[disable-article-header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[disable-content-area-spacing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/storefront/2022/09/25/62/</link>
-		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/62/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 03:00:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 03:00:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[62]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://kentatheme.com/storefront/2022/09/25/63/</link>
-		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/63/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 03:00:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 03:00:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[63]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Account]]></title>
-		<link>https://kentatheme.com/storefront/2022/09/25/account/</link>
-		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 07:58:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 07:58:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 07:58:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[store-hero]]></title>
-		<link>https://kentatheme.com/storefront/home/store-hero/</link>
-		<pubDate>Sun, 25 Sep 2022 03:05:13 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-25 03:05:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-25 03:05:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-25 03:05:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-25 03:05:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[store-hero]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>58</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/09/store-hero-scaled.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1589;s:4:"file";s:30:"2022/09/store-hero-scaled.jpeg";s:8:"filesize";i:179717;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:23:"store-hero-300x186.jpeg";s:5:"width";i:300;s:6:"height";i:186;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5969;}s:5:"large";a:5:{s:4:"file";s:24:"store-hero-1024x635.jpeg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40978;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"store-hero-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2828;}s:12:"medium_large";a:5:{s:4:"file";s:23:"store-hero-768x477.jpeg";s:5:"width";i:768;s:6:"height";i:477;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25549;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"store-hero-1536x953.jpeg";s:5:"width";i:1536;s:6:"height";i:953;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79946;}s:9:"2048x2048";a:5:{s:4:"file";s:25:"store-hero-2048x1271.jpeg";s:5:"width";i:2048;s:6:"height";i:1271;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126492;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:23:"store-hero-300x300.jpeg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6934;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:23:"store-hero-600x372.jpeg";s:5:"width";i:600;s:6:"height";i:372;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17153;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:23:"store-hero-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1984;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:15:"store-hero.jpeg";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Belt]]></title>
 		<link>https://kentatheme.com/storefront/product/belt/</link>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
@@ -3309,6 +2583,482 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[logo-1.jpg]]></title>
+		<link>https://kentatheme.com/storefront/?attachment_id=56</link>
+		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/logo-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2019-01-16 13:02:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-16 13:02:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-1-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>33</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/logo-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/01/logo-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:799;s:4:"file";s:18:"2019/01/logo-1.jpg";s:8:"filesize";i:139907;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:18:"logo-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16147;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"logo-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5876;}s:12:"medium_large";a:5:{s:4:"file";s:18:"logo-1-768x767.jpg";s:5:"width";i:768;s:6:"height";i:767;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56876;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:18:"logo-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16214;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:18:"logo-1-600x599.jpg";s:5:"width";i:600;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41258;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:18:"logo-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3353;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/logo-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pennant-1.jpg]]></title>
+		<link>https://kentatheme.com/storefront/?attachment_id=57</link>
+		<pubDate>Wed, 16 Jan 2019 13:02:13 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/pennant-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2019-01-16 13:02:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-16 13:02:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-16 13:02:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pennant-1-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>34</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/pennant-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/01/pennant-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:21:"2019/01/pennant-1.jpg";s:8:"filesize";i:56755;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:21:"pennant-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6926;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"pennant-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2582;}s:12:"medium_large";a:5:{s:4:"file";s:21:"pennant-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28247;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:21:"pennant-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6926;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:21:"pennant-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19857;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:21:"pennant-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1608;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/pennant-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://kentatheme.com/storefront/</link>
+		<pubDate>Sun, 25 Sep 2022 02:59:02 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/?page_id=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"6e6b3fd7","minHeight":{"desktop":"580px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg","attachment_id":66,"x":"0.03","y":"0.50"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-6e6b3fd7 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"398af95b","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-398af95b">Welcome</h1>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"5e171919","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5e171919">This is your home page which is what most visitors will see when they first visit your shop.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"344df6f3","background":{"color":"__INITIAL_VALUE__","type":"color"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-344df6f3 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"451e99f0","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-451e99f0">Cool Features That Make Us Sparkle</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"e79f9171","maxWidth":{"desktop":"544px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-e79f9171">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/section {"blockID":"9f0902aa","alignItems":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-9f0902aa kb-section"><!-- wp:kenta-blocks/column {"blockID":"67e88a53","width":{"desktop":"35%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-67e88a53"><div class="kb-column kb-column-67e88a53"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"f8f50e80","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-f8f50e80 kb-section"><!-- wp:kenta-blocks/column {"blockID":"4376415c","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-4376415c"><div class="kb-column kb-column-4376415c"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"3cc96a1e","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-3cc96a1e kb-section"><!-- wp:kenta-blocks/column {"blockID":"0035de9e","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-0035de9e"><div class="kb-column kb-column-0035de9e"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"796f88e6"} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-796f88e6"><!-- wp:kenta-blocks/icon-button {"blockID":"d767d7eb","preset":"accent"} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d767d7eb"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d767d7eb"><i class="fas fa-circle-user"></i></span></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"c303b68a","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-c303b68a"><div class="kb-column kb-column-c303b68a"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"add10189","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-add10189">Awesome Feature</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"8d22aa12"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-8d22aa12">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"b0360881","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-b0360881"><div class="kb-column kb-column-b0360881"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"da50c0df","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-da50c0df kb-section"><!-- wp:kenta-blocks/column {"blockID":"3bd52748","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-3bd52748"><div class="kb-column kb-column-3bd52748"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"9b889f93"} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9b889f93"><!-- wp:kenta-blocks/icon-button {"blockID":"f4834a61","preset":"accent"} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-f4834a61"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-f4834a61"><i class="fab fa-cc-mastercard"></i></span></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"d9a3c774","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-d9a3c774"><div class="kb-column kb-column-d9a3c774"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"8538db2d","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-8538db2d">Awesome Feature</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"0837946f"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-0837946f">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"f1ed84eb","width":{"desktop":"30%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-f1ed84eb"><div class="kb-column kb-column-f1ed84eb"><div class="kb-column-content"><!-- wp:kenta-blocks/image {"blockID":"178d1d9b","id":38,"sizeSlug":"full","cssFilter":{"enable":"no","blur":"0","brightness":"100","contrast":"100","saturate":"100","hue":"0"}} -->
+<figure class="wp-block-kenta-blocks-image kb-image kb-image-178d1d9b"><img src="https://kentatheme.com/storefront/wp-content/uploads/sites/11/2019/01/vnech-tee-blue-1.jpg" alt=""/></figure>
+<!-- /wp:kenta-blocks/image --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"ea63c3a8","width":{"desktop":"35%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-ea63c3a8"><div class="kb-column kb-column-ea63c3a8"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"9f290275","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-9f290275 kb-section"><!-- wp:kenta-blocks/column {"blockID":"dbc022b0","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-dbc022b0"><div class="kb-column kb-column-dbc022b0"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"d7d9dde5","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-d7d9dde5 kb-section"><!-- wp:kenta-blocks/column {"blockID":"842e7377","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-842e7377"><div class="kb-column kb-column-842e7377"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"89b95e7c"} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-89b95e7c"><!-- wp:kenta-blocks/icon-button {"blockID":"15bb4272","preset":"accent"} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-15bb4272"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-15bb4272"><i class="fas fa-cart-arrow-down"></i></span></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"14ec226e","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-14ec226e"><div class="kb-column kb-column-14ec226e"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"555a538f","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-555a538f">Awesome Feature</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"de1d729a"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-de1d729a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"335b7be6","width":{"desktop":"100%","tablet":"50%","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-335b7be6"><div class="kb-column kb-column-335b7be6"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"769ddb85","wrap":"no","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-769ddb85 kb-section"><!-- wp:kenta-blocks/column {"blockID":"7d49b5cc","width":{"desktop":"96px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7d49b5cc"><div class="kb-column kb-column-7d49b5cc"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"7c870203"} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-7c870203"><!-- wp:kenta-blocks/icon-button {"blockID":"ece47330","preset":"accent"} -->
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-ece47330"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-ece47330"><i class="fas fa-hand-holding-heart"></i></span></div>
+<!-- /wp:kenta-blocks/icon-button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div></div>
+<!-- /wp:kenta-blocks/column -->
+
+<!-- wp:kenta-blocks/column {"blockID":"042b262d","width":{"desktop":"100%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-042b262d"><div class="kb-column kb-column-042b262d"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"01de15c2","markup":"h3","margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"6px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-01de15c2">Awesome Feature</h3>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"2e9cb920"} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-2e9cb920">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+<!-- /wp:kenta-blocks/paragraph --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- /wp:kenta-blocks/column --></div>
+<!-- /wp:kenta-blocks/section --></div></div>
+<!-- /wp:kenta-blocks/cover -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:kenta-blocks/heading {"blockID":"367055a1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-367055a1">New In</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:woocommerce/product-new {"rows":2,"stockStatus":["","instock","onbackorder"]} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:kenta-blocks/heading {"blockID":"6cc082e4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-6cc082e4">Shop By Category</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:woocommerce/product-category {"rows":2,"stockStatus":["","","instock","onbackorder"]} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:kenta-blocks/cover {"blockID":"27a7cc67","minHeight":{"desktop":"450px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg","attachment_id":66,"x":"0.06","y":"0.47"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlay":"no","align":"full"} -->
+<div class="wp-block-kenta-blocks-cover alignfull kb-cover-27a7cc67 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"aa304526","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<h2 class="wp-block-kenta-blocks-heading kb-heading kb-heading-aa304526">Shop for what's best for you</h2>
+<!-- /wp:kenta-blocks/heading -->
+
+<!-- wp:kenta-blocks/paragraph {"blockID":"ce2a21e8","maxWidth":{"desktop":"558px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-ce2a21e8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<!-- /wp:kenta-blocks/paragraph -->
+
+<!-- wp:kenta-blocks/buttons {"blockID":"f09d8d23","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f09d8d23"><!-- wp:kenta-blocks/button {"blockID":"e4406b8b","hasIcon":"yes"} -->
+<div class="kb-button-wrapper kb-button-wrapper-e4406b8b"><a class="wp-block-kenta-blocks-button kb-button kb-button-e4406b8b kb-button-left" href="https://kentatheme.com/storefront/shop/"><i class="fas fa-store"></i><span>Shop Now</span></a></div>
+<!-- /wp:kenta-blocks/button --></div>
+<!-- /wp:kenta-blocks/buttons --></div></div>
+<!-- /wp:kenta-blocks/cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 02:59:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 02:59:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-25 08:41:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-25 08:41:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[site-container-style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[boxed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-container-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[disable-article-header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[disable-content-area-spacing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/storefront/2022/09/25/62/</link>
+		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/62/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 03:00:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-25 03:00:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[62]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://kentatheme.com/storefront/2022/09/25/63/</link>
+		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/63/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 03:00:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-25 03:00:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[63]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Account]]></title>
+		<link>https://kentatheme.com/storefront/2022/09/25/account/</link>
+		<pubDate>Sun, 25 Sep 2022 03:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/2022/09/25/account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 07:58:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 03:00:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-25 07:58:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-25 07:58:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[store-hero]]></title>
+		<link>https://kentatheme.com/storefront/home/store-hero/</link>
+		<pubDate>Sun, 25 Sep 2022 03:05:13 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 03:05:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 03:05:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-25 03:05:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-25 03:05:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[store-hero]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://kentatheme.com/storefront/wp-content/uploads/sites/11/2022/09/store-hero-scaled.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/store-hero-scaled.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1589;s:4:"file";s:30:"2022/09/store-hero-scaled.jpeg";s:8:"filesize";i:179717;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:23:"store-hero-300x186.jpeg";s:5:"width";i:300;s:6:"height";i:186;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5969;}s:5:"large";a:5:{s:4:"file";s:24:"store-hero-1024x635.jpeg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40978;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"store-hero-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2828;}s:12:"medium_large";a:5:{s:4:"file";s:23:"store-hero-768x477.jpeg";s:5:"width";i:768;s:6:"height";i:477;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25549;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"store-hero-1536x953.jpeg";s:5:"width";i:1536;s:6:"height";i:953;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79946;}s:9:"2048x2048";a:5:{s:4:"file";s:25:"store-hero-2048x1271.jpeg";s:5:"width";i:2048;s:6:"height";i:1271;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126492;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:23:"store-hero-300x300.jpeg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6934;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:23:"store-hero-600x372.jpeg";s:5:"width";i:600;s:6:"height";i:372;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17153;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:23:"store-hero-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1984;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:15:"store-hero.jpeg";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-21 01:59" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-28 06:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lucas Agency</title>
 	<link>https://kentatheme.com/lucas-agency</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Wed, 21 Sep 2022 01:59:42 +0000</pubDate>
+	<pubDate>Wed, 28 Sep 2022 06:11:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -909,11 +909,11 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"bdae186b","justify":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-bdae186b"><!-- wp:kenta-blocks/button {"blockID":"152c4500","hasIcon":"yes"} -->
-<div class="kb-button-wrapper kb-button-wrapper-152c4500"><a class="wp-block-kenta-blocks-button kb-button kb-button-152c4500 kb-button-left" href=""><i class="fas fa-rocket"></i><span>Get Started</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-152c4500"><a class="wp-block-kenta-blocks-button kb-button kb-button-152c4500 kb-button-left" href="#"><i class="fas fa-rocket"></i><span>Get Started</span></a></div>
 <!-- /wp:kenta-blocks/button -->
 
 <!-- wp:kenta-blocks/button {"blockID":"567b5aea","hasIcon":"yes","preset":"invert"} -->
-<div class="kb-button-wrapper kb-button-wrapper-567b5aea"><a class="wp-block-kenta-blocks-button kb-button kb-button-567b5aea kb-button-left" href=""><i class="fas fa-circle-play"></i><span>Live Demo</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-567b5aea"><a class="wp-block-kenta-blocks-button kb-button kb-button-567b5aea kb-button-left" href="#"><i class="fas fa-circle-play"></i><span>Live Demo</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->
@@ -923,7 +923,7 @@
 <div class="wp-block-kenta-blocks-section kb-section-1e7f3e69 kb-section"><!-- wp:kenta-blocks/column {"blockID":"349b1383","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-349b1383"><div class="kb-column kb-column-349b1383"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"3c39b919","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-3c39b919"><!-- wp:kenta-blocks/icon-button {"blockID":"a6022518","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-a6022518"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-a6022518" href=""><i class="fas fa-bolt"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-a6022518"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-a6022518"><i class="fas fa-bolt"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons -->
 
@@ -939,7 +939,7 @@
 <!-- wp:kenta-blocks/column {"blockID":"54f047e6","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-54f047e6"><div class="kb-column kb-column-54f047e6"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"5a247419","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-5a247419"><!-- wp:kenta-blocks/icon-button {"blockID":"8e38568a","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-8e38568a"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-8e38568a" href=""><i class="fas fa-gem"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-8e38568a"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-8e38568a"><i class="fas fa-gem"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons -->
 
@@ -955,7 +955,7 @@
 <!-- wp:kenta-blocks/column {"blockID":"d5c5deb9","width":{"desktop":"33.33%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"shadow":{"enable":"no","horizontal":"0px","vertical":"0px","blur":"10px","spread":"0px","color":"rgba(0, 0, 0, 0.15)"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-d5c5deb9"><div class="kb-column kb-column-d5c5deb9"><div class="kb-column-content"><!-- wp:kenta-blocks/buttons {"blockID":"9ad85018","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"","right":"","bottom":"","left":""},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-9ad85018"><!-- wp:kenta-blocks/icon-button {"blockID":"bb5a0438","preset":"solid","buttonSize":{"desktop":"2.9em","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb5a0438"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb5a0438" href=""><i class="fas fa-archway"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb5a0438"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb5a0438"><i class="fas fa-archway"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons -->
 
@@ -1084,15 +1084,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"f9b0dc3c","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f9b0dc3c"><!-- wp:kenta-blocks/icon-button {"blockID":"b5a38b95","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b5a38b95"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b5a38b95" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b5a38b95"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b5a38b95"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"1245df37","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-1245df37"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-1245df37" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-1245df37"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-1245df37"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"bb4652f5","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb4652f5"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb4652f5" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bb4652f5"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bb4652f5"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1112,15 +1112,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"78949fd0","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-78949fd0"><!-- wp:kenta-blocks/icon-button {"blockID":"35f34428","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-35f34428"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-35f34428" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-35f34428"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-35f34428"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"6d631926","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6d631926"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6d631926" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6d631926"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6d631926"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"85a2321e","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-85a2321e"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-85a2321e" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-85a2321e"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-85a2321e"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1140,15 +1140,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"f772aef1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-f772aef1"><!-- wp:kenta-blocks/icon-button {"blockID":"2f99536f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-2f99536f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-2f99536f" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-2f99536f"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-2f99536f"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"abb07237","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-abb07237"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-abb07237" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-abb07237"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-abb07237"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"d10bcb55","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d10bcb55"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d10bcb55" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-d10bcb55"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-d10bcb55"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1168,15 +1168,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"a3a048e1","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a3a048e1"><!-- wp:kenta-blocks/icon-button {"blockID":"0a099142","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-0a099142"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-0a099142" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-0a099142"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-0a099142"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"bf901e58","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bf901e58"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bf901e58" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-bf901e58"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-bf901e58"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"55f60f8d","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-55f60f8d"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-55f60f8d" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-55f60f8d"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-55f60f8d"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1196,15 +1196,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"0911a1f6","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-0911a1f6"><!-- wp:kenta-blocks/icon-button {"blockID":"7b7e9112","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-7b7e9112"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-7b7e9112" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-7b7e9112"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-7b7e9112"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"b06c8174","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b06c8174"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b06c8174" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-b06c8174"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-b06c8174"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"6002708f","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6002708f"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6002708f" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6002708f"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6002708f"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1224,15 +1224,15 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"df072476","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-df072476"><!-- wp:kenta-blocks/icon-button {"blockID":"6802af9c","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6802af9c"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6802af9c" href=""><i class="fab fa-facebook"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-6802af9c"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-6802af9c"><i class="fab fa-facebook"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"5630870b","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-5630870b"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-5630870b" href=""><i class="fab fa-twitter"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-5630870b"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-5630870b"><i class="fab fa-twitter"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button -->
 
 <!-- wp:kenta-blocks/icon-button {"blockID":"4fb8bb05","preset":"solid","iconSize":{"desktop":"1rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"buttonSize":{"desktop":"2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-icon-button-wrapper kb-icon-button-wrapper-4fb8bb05"><a class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-4fb8bb05" href=""><i class="fab fa-linkedin"></i></a></div>
+<div class="kb-icon-button-wrapper kb-icon-button-wrapper-4fb8bb05"><span class="wp-block-kenta-blocks-icon-button kb-icon-button kb-icon-button-4fb8bb05"><i class="fab fa-linkedin"></i></span></div>
 <!-- /wp:kenta-blocks/icon-button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
@@ -1253,7 +1253,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"a0f058a7","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a0f058a7"><!-- wp:kenta-blocks/button {"blockID":"27d79e53","hasIcon":"yes","iconPosition":"right","width":{"desktop":"180px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->]]></content:encoded>
@@ -1261,8 +1261,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 12:26:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 12:26:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-15 01:32:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-15 01:32:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:10:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:10:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1373,7 +1373,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"380a3a6d"} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-380a3a6d"><!-- wp:kenta-blocks/button {"blockID":"828f836d","hasIcon":"yes","iconPosition":"right"} -->
-<div class="kb-button-wrapper kb-button-wrapper-828f836d"><a class="wp-block-kenta-blocks-button kb-button kb-button-828f836d kb-button-right" href=""><i class="fas fa-angle-right"></i><span>Learn More</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-828f836d"><a class="wp-block-kenta-blocks-button kb-button kb-button-828f836d kb-button-right" href="#"><i class="fas fa-angle-right"></i><span>Learn More</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
@@ -1462,7 +1462,7 @@
 
 <!-- wp:kenta-blocks/buttons {"blockID":"a0f058a7","justify":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-buttons kb-buttons kb-buttons-a0f058a7"><!-- wp:kenta-blocks/button {"blockID":"27d79e53","hasIcon":"yes","iconPosition":"right","width":{"desktop":"180px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href=""><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
+<div class="kb-button-wrapper kb-button-wrapper-27d79e53"><a class="wp-block-kenta-blocks-button kb-button kb-button-27d79e53 kb-button-right" href="#"><i class="fas fa-arrow-right-long"></i><span>Contact Us</span></a></div>
 <!-- /wp:kenta-blocks/button --></div>
 <!-- /wp:kenta-blocks/buttons --></div></div>
 <!-- /wp:kenta-blocks/cover -->]]></content:encoded>
@@ -1470,8 +1470,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 13:59:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 13:59:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:44:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:44:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 06:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 06:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
