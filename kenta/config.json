@@ -217,7 +217,7 @@
             }
         },
         "storefront": {
-            "name": "Storefront",
+            "name": "Kenta Storefront",
             "preview": "https://kentatheme.com/storefront",
             "screenshot": "screenshot.webp",
             "dummy": {
@@ -226,7 +226,7 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Storefront",
+              "blogname": "Kenta Storefront",
               "page_on_front": "Home",
               "kenta_blocks_sync_theme": "yes"
             },
@@ -258,7 +258,7 @@
             }
         },
         "storefront-dark": {
-            "name": "Storefront Dark",
+            "name": "Kenta Storefront Dark",
             "preview": "https://kentatheme.com/storefront-dark",
             "screenshot": "screenshot.webp",
             "dummy": {
@@ -267,7 +267,7 @@
                 "widgets": "widgets.wie"
             },
             "core": {
-              "blogname": "Storefront Dark",
+              "blogname": "Kenta Storefront Dark",
               "page_on_front": "Home",
               "kenta_blocks_sync_theme": "yes"
             },
