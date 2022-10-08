@@ -95,6 +95,51 @@
                 }
             }
         },
+        "personal-blog-and-shop": {
+            "name": "Personal Blog & Shop",
+            "premium": true,
+            "preview": "https://kentatheme.com/personal-blog-and-shop",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Karen Lowe",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_menu_2": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "blog",
+                "ecommerce",
+                "portfolio"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "woocommerce": {
+                    "name": "WooCommerce",
+                    "slug": "woocommerce/woocommerce.php"
+                }
+            }
+        },
         "lucas-agency": {
             "name": "Lucas Agency",
             "preview": "https://kentatheme.com/lucas-agency",
@@ -136,6 +181,43 @@
                 }
             }
         },
+        "norris-portfolio": {
+            "name": "Norris Portfolio",
+            "premium": true,
+            "preview": "https://kentatheme.com/norris-portfolio",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Norris",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "portfolio"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "creative-agency": {
             "name": "Creative Agency",
             "premium": true,
@@ -163,43 +245,6 @@
                 "all",
                 "business",
                 "non-profit"
-            ],
-            "pagebuilder": [
-                "all",
-                "gutenberg"
-            ],
-            "plugins": {
-                "kenta-blocks": {
-                    "name": "Kenta Blocks",
-                    "slug": "kenta-blocks/kenta-blocks.php"
-                }
-            }
-        },
-        "norris-portfolio": {
-            "name": "Norris Portfolio",
-            "premium": true,
-            "preview": "https://kentatheme.com/norris-portfolio",
-            "screenshot": "screenshot.webp",
-            "dummy": {
-                "customizer": "customizer.dat",
-                "content": "content.xml",
-                "widgets": "widgets.wie"
-            },
-            "core": {
-              "blogname": "Norris",
-              "page_on_front": "Home",
-              "kenta_blocks_sync_theme": "yes"
-            },
-            "customizer": {
-                "nav_menu_locations": {
-                    "kenta_header_el_menu_1": "Primary Menu",
-                    "kenta_header_el_collapsable_menu": "Primary Menu",
-                    "kenta_footer_el_menu": "Primary Menu"
-                }
-            },
-            "category": [
-                "all",
-                "portfolio"
             ],
             "pagebuilder": [
                 "all",
