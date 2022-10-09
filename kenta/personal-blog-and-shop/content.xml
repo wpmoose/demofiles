@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-10-08 08:28" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-09 08:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Karen Lowe</title>
 	<link>https://kentatheme.com/personal-blog-and-shop</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Sat, 08 Oct 2022 08:28:45 +0000</pubDate>
+	<pubDate>Sun, 09 Oct 2022 08:11:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -859,7 +859,7 @@
 <div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-efb7d489"><p>Hi! My name is</p></div>
 <!-- /wp:kenta-blocks/paragraph -->
 
-<!-- wp:kenta-blocks/heading {"blockID":"d1027366","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-100)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<!-- wp:kenta-blocks/heading {"blockID":"d1027366","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-color)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-d1027366"><h1>Karen Lowe</h1></div>
 <!-- /wp:kenta-blocks/heading -->
 
@@ -929,13 +929,13 @@
 <!-- /wp:kenta-blocks/section --></div></div>
 <!-- /wp:kenta-blocks/cover -->
 
-<!-- wp:kenta-blocks/heading {"blockID":"1b5769a4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-100)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"48px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<!-- wp:kenta-blocks/heading {"blockID":"1b5769a4","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-color)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"48px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-1b5769a4"><h2>new arrivals</h2></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:woocommerce/handpicked-products {"columns":4,"products":[117,125,124,130]} /-->
 
-<!-- wp:kenta-blocks/heading {"blockID":"b5a0757d","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-100)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"48px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<!-- wp:kenta-blocks/heading {"blockID":"b5a0757d","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"cormorant-sc","fontSize":{"desktop":"2.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__","textTransform":""},"shadow":{"enable":"yes","horizontal":"0px","vertical":"0.75em","blur":"0px","spread":"0px","color":"var(\u002d\u002dkb-base-color)","inset":"yes"},"background":{"gradient":"linear-gradient(135deg,rgb(255,226,89) 0%,rgb(255,167,81) 100%)","type":"gradient","color":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"48px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-b5a0757d"><h2>Latest Blogs</h2></div>
 <!-- /wp:kenta-blocks/heading -->
 
@@ -996,8 +996,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-07 06:57:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-07 06:57:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-08 08:26:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-08 08:26:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-09 08:10:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-09 08:10:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
