@@ -27,7 +27,7 @@
             "core": {
               "blogname": "Kenta Agency",
               "page_on_front": "Home",
-              "page_for_posts": "Blogs",
+              "page_for_posts": "Blog",
               "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {
