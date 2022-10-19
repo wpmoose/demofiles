@@ -15,6 +15,45 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "kenta-agency": {
+            "name": "Kenta Agency",
+            "preview": "https://kentatheme.com/kenta-agency",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Kenta Agency",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Header Menu #1",
+                    "kenta_header_el_menu_2": "Header Menu #2",
+                    "kenta_header_el_collapsable_menu": "Header Menu#1",
+                    "kenta_footer_el_menu": "Footer Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "kenta-business": {
             "name": "Kenta Business",
             "preview": "https://kentatheme.com/kenta-business",
