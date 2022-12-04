@@ -48,9 +48,9 @@
                 "gutenberg"
             ],
             "plugins": {
-                "kenta-blocks": {
-                    "name": "Kenta Blocks",
-                    "slug": "kenta-blocks/kenta-blocks.php"
+                "kenta-blocks-premium": {
+                    "name": "Kenta Blocks Premium",
+                    "slug": "kenta-blocks-premium/kenta-blocks.php"
                 }
             }
         },
