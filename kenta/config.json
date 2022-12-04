@@ -15,6 +15,45 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "kallias": {
+            "name": "Kallias",
+            "premium": true,
+            "preview": "https://kentatheme.com/kallias",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Kallias",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_menu_2": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Footer Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "aurora": {
             "name": "Kenta Aurora",
             "preview": "https://kentatheme.com/aurora",
