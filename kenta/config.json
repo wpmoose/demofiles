@@ -15,6 +15,54 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "medical": {
+            "name": "Medicare",
+            "premium": true,
+            "preview": "https://kentatheme.com/medical",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Medicare",
+              "page_on_front": "Home",
+              "page_for_posts": "News",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_menu_2": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "mailchimp-for-wp": {
+                    "name": "Mailchimp for WordPress",
+                    "slug": "mailchimp-for-wp/wp-mailchimp-for-wp.php"
+                },
+                "kenta-blocks-premium": {
+                    "name": "Kenta Blocks Premium",
+                    "slug": "kenta-blocks-premium/kenta-blocks.php"
+                }
+            }
+        },
         "gutt-agency": {
             "name": "Gutt Agency",
             "premium": true,
