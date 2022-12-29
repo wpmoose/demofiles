@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-22 10:03" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-29 09:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Lucas Agency</title>
 	<link>https://kentatheme.com/lucas-agency</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Tue, 22 Nov 2022 10:03:12 +0000</pubDate>
+	<pubDate>Thu, 29 Dec 2022 09:07:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -85,7 +85,7 @@
 	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[products]]></wp:term_slug><wp:term_name><![CDATA[Products]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[tim-van-der-kuip-CPs2X8JYmS8-unsplash]]></title>
@@ -1651,11 +1651,11 @@
 <!-- /wp:kenta-blocks/spacer -->
 
 <!-- wp:kenta-blocks/heading {"blockID":"9dbf388e","markup":"h1","maxWidth":{"desktop":"565px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"inherit","fontSize":{"desktop":"2.75rem","tablet":"2rem","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":{"desktop":"1.25","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textTransform":"uppercase"},"margin":{"desktop":{"linked":false,"top":"24px","right":"0px","bottom":"24px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-9dbf388e">Contact us</h1>
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h1 kb-heading-9dbf388e"><h1>Contact us</h1></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:kenta-blocks/paragraph {"blockID":"28e1f09c","maxWidth":{"desktop":"522px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"48px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-28e1f09c">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups</p>
+<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-28e1f09c"><p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups</p></div>
 <!-- /wp:kenta-blocks/paragraph -->
 
 <!-- wp:kenta-blocks/spacer {"blockID":"3176aaea","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
@@ -1666,42 +1666,40 @@
 <!-- wp:kenta-blocks/section {"blockID":"3b8e817f","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-section kb-section-3b8e817f kb-section"><!-- wp:kenta-blocks/column {"blockID":"cbcaeb80","width":{"desktop":"50%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-cbcaeb80"><div class="kb-column kb-column-cbcaeb80"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"d9faec22","markup":"h3"} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-d9faec22">Get In Touch</h3>
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h3 kb-heading-d9faec22"><h3>Get In Touch</h3></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:kenta-blocks/paragraph {"blockID":"cc6a7687"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc6a7687">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc6a7687"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
 <!-- /wp:kenta-blocks/paragraph -->
 
 <!-- wp:list -->
-<ul><li>Phone: +1 123 456 789</li><li>Mail: support@example.com</li><li>Address: 180 Road, Bio, Brazil</li></ul>
+<ul><!-- wp:list-item -->
+<li>Phone: +1 123 456 789</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Mail: support@example.com</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Address: 180 Road, Bio, Brazil</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
 
 <!-- wp:kenta-blocks/column {"blockID":"7ad48365","width":{"desktop":"50%","tablet":"100%","mobile":"__INITIAL_VALUE__"},"background":{"color":"#fdefef","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":false,"top":"24px","right":"24px","bottom":"0px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-7ad48365"><div class="kb-column kb-column-7ad48365"><div class="kb-column-content"><!-- wp:shortcode -->
-[contact-form-7 id="75" title="Contact form"]
+[contact-form-7 id="75" title="Lucas Contact form"]
 <!-- /wp:shortcode --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section -->
-
-<!-- wp:html -->
-<style>
-.prose-kenta label {
-width: 100%;
-}
-input[type="submit"] {
-justify-content: center;
-width: 100%;
-}
-</style>
-<!-- /wp:html -->]]></content:encoded>
+<!-- /wp:kenta-blocks/section -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 14:00:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 14:00:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:55:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:55:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 09:07:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 09:07:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1853,25 +1851,33 @@ width: 100%;
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Contact form]]></title>
+		<title><![CDATA[Lucas Contact form]]></title>
 		<link>https://kentatheme.com/lucas-agency/?post_type=wpcf7_contact_form&#038;p=75</link>
 		<pubDate>Wed, 14 Sep 2022 14:22:05 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/lucas-agency/?post_type=wpcf7_contact_form&#038;p=75</guid>
 		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name] </label>
+		<content:encoded><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
 
-<label> Your email
-    [email* your-email] </label>
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
 
-<label> Subject
-    [text* your-subject] </label>
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
 
-<label> Your message (optional)
-    [textarea your-message] </label>
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
 
+<div class="kenta-full-width-submit">
 [submit "Submit"]
+</div>
+</div>
 1
 [_site_title] "[your-subject]"
 [_site_title] <wordpress@kentatheme.com>
@@ -1927,8 +1933,8 @@ Please enter a telephone number.]]></content:encoded>
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-14 14:22:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-14 14:22:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-14 14:48:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-14 14:48:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 09:07:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 09:07:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -1940,19 +1946,27 @@ Please enter a telephone number.]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name] </label>
+		<wp:meta_value><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
 
-<label> Your email
-    [email* your-email] </label>
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
 
-<label> Subject
-    [text* your-subject] </label>
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
 
-<label> Your message (optional)
-    [textarea your-message] </label>
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
 
-[submit "Submit"]]]></wp:meta_value>
+<div class="kenta-full-width-submit">
+[submit "Submit"]
+</div>
+</div>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>

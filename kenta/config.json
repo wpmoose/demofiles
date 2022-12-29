@@ -183,6 +183,10 @@
                 "gutenberg"
             ],
             "plugins": {
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                },
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"

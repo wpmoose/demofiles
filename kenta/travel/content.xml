@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-28 06:18" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-29 09:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Travel</title>
 	<link>https://kentatheme.com/travel</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Wed, 28 Sep 2022 06:18:49 +0000</pubDate>
+	<pubDate>Thu, 29 Dec 2022 09:10:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -74,7 +74,7 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[]]></title>
@@ -1344,7 +1344,7 @@
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"54d940f3","minHeight":{"desktop":"410px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"globalColor":{"initial":"var(\u002d\u002dkb-base-color)"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/travel/wp-content/uploads/sites/10/2022/09/ashim-d-silva-WeYamle9fDM-unsplash.jpg","attachment_id":91,"x":"0.06","y":"0.53"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlayBackground":{"color":"rgba(38,46,43,0.45)","type":"color"},"align":"full"} -->
 <div class="wp-block-kenta-blocks-cover alignfull kb-cover-54d940f3 kb-cover kb-cover-has-overlay"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"895f39c9","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"encode-sans-semi-expanded","fontSize":{"desktop":"2.75rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"700","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<h1 class="wp-block-kenta-blocks-heading kb-heading kb-heading-895f39c9">Contact Us</h1>
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h1 kb-heading-895f39c9"><h1>Contact Us</h1></div>
 <!-- /wp:kenta-blocks/heading --></div></div>
 <!-- /wp:kenta-blocks/cover -->
 
@@ -1355,50 +1355,48 @@
 <!-- wp:kenta-blocks/section {"blockID":"77ae0a1e"} -->
 <div class="wp-block-kenta-blocks-section kb-section-77ae0a1e kb-section"><!-- wp:kenta-blocks/column {"blockID":"119c3e5d","width":{"desktop":"50%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-119c3e5d"><div class="kb-column kb-column-119c3e5d"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"29ee8442","markup":"h3"} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-29ee8442">Find Us</h3>
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h3 kb-heading-29ee8442"><h3>Find Us</h3></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:kenta-blocks/paragraph {"blockID":"cc6a7687"} -->
-<p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc6a7687">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-cc6a7687"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
 <!-- /wp:kenta-blocks/paragraph -->
 
 <!-- wp:list -->
-<ul><li>Phone: +1 123 456 789</li><li>Mail: support@example.com</li><li>Address: 180 Road, Bio, Brazil</li></ul>
+<ul><!-- wp:list-item -->
+<li>Phone: +1 123 456 789</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Mail: support@example.com</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Address: 180 Road, Bio, Brazil</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
 
 <!-- wp:kenta-blocks/column {"blockID":"3164b455","width":{"desktop":"50%","tablet":"100%","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-3164b455"><div class="kb-column kb-column-3164b455"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"3eb8b050","markup":"h3"} -->
-<h3 class="wp-block-kenta-blocks-heading kb-heading kb-heading-3eb8b050">Get in touch</h3>
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h3 kb-heading-3eb8b050"><h3>Get in touch</h3></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:shortcode -->
-[contact-form-7 id="88" title="Contact form 1"]
+[contact-form-7 id="88" title="Kenta Travel Contact form"]
 <!-- /wp:shortcode --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
 <!-- /wp:kenta-blocks/section -->
 
 <!-- wp:spacer {"height":"48px"} -->
 <div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:html -->
-<style>
-.prose-kenta label {
-width: 100%;
-}
-input[type="submit"] {
-justify-content: center;
-width: 200px;
-}
-</style>
-<!-- /wp:html -->]]></content:encoded>
+<!-- /wp:spacer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-19 12:04:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-19 12:04:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-21 01:42:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-21 01:42:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 09:10:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 09:10:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1548,27 +1546,37 @@ width: 200px;
 										<category domain="wp_theme" nicename="kenta"><![CDATA[kenta]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Contact form 1]]></title>
+		<title><![CDATA[Kenta Travel Contact form]]></title>
 		<link>https://kentatheme.com/travel/?post_type=wpcf7_contact_form&#038;p=88</link>
 		<pubDate>Wed, 21 Sep 2022 01:34:38 +0000</pubDate>
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/travel/?post_type=wpcf7_contact_form&#038;p=88</guid>
 		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name] </label>
+		<content:encoded><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
 
-<label> Your email
-    [email* your-email] </label>
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
 
-<label> Subject
-    [text* your-subject] </label>
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
 
-<label> Your message (optional)
-    [textarea your-message] </label>
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
 
+<div class="kenta-full-width-submit">
 [submit "Submit"]
+</div>
+</div>
+1
 [_site_title] "[your-subject]"
 [_site_title] <wordpress@kentatheme.com>
+[_site_admin_email]
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -1577,24 +1585,23 @@ Message Body:
 
 -- 
 This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[_site_admin_email]
 Reply-To: [your-email]
 
-0
-0
+
+
 
 [_site_title] "[your-subject]"
 [_site_title] <wordpress@kentatheme.com>
+[your-email]
 Message Body:
 [your-message]
 
 -- 
 This e-mail was sent from a contact form on [_site_title] ([_site_url])
-[your-email]
 Reply-To: [_site_admin_email]
 
-0
-0
+
+
 Thank you for your message. It has been sent.
 There was an error trying to send your message. Please try again later.
 One or more fields have an error. Please check and try again.
@@ -1606,13 +1613,23 @@ This field has a too short input.
 There was an unknown error uploading the file.
 You are not allowed to upload files of this type.
 The uploaded file is too large.
-There was an error uploading the file.]]></content:encoded>
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-21 01:34:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-21 01:34:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-21 01:34:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-21 01:34:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 09:10:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 09:10:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -1624,42 +1641,50 @@ There was an error uploading the file.]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name] </label>
+		<wp:meta_value><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
 
-<label> Your email
-    [email* your-email] </label>
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
 
-<label> Subject
-    [text* your-subject] </label>
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
 
-<label> Your message (optional)
-    [textarea your-message] </label>
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
 
-[submit "Submit"]]]></wp:meta_value>
+<div class="kenta-full-width-submit">
+[submit "Submit"]
+</div>
+</div>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:4:"body";s:163:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:163:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:4:"body";s:105:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
