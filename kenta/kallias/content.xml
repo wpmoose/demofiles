@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-04 06:59" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-29 08:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kallias</title>
 	<link>https://kentatheme.com/kallias</link>
 	<description></description>
-	<pubDate>Sun, 04 Dec 2022 06:59:24 +0000</pubDate>
+	<pubDate>Thu, 29 Dec 2022 08:54:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -864,7 +864,7 @@
 <div class="wp-block-kenta-blocks-spacer kb-spacer-83099f8d kb-spacer" aria-hidden="true"></div>
 <!-- /wp:kenta-blocks/spacer -->
 
-<!-- wp:kenta-blocks/cover {"blockID":"461775f6","background":{"color":"var(\u002d\u002dkb-base-200)","type":"color"},"overlay":"no","align":"full"} -->
+<!-- wp:kenta-blocks/cover {"blockID":"461775f6","contentWidth":{"desktop":"768px","tablet":"768px","mobile":"576px"},"background":{"color":"var(\u002d\u002dkb-base-200)","type":"color"},"overlay":"no","align":"full"} -->
 <div class="wp-block-kenta-blocks-cover alignfull kb-cover-461775f6 kb-cover"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/spacer {"blockID":"ab5b5d23","height":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-spacer kb-spacer-ab5b5d23 kb-spacer" aria-hidden="true"></div>
 <!-- /wp:kenta-blocks/spacer -->
@@ -873,51 +873,53 @@
 <p class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-b6edc39d" id="contact">Contact Us</p>
 <!-- /wp:kenta-blocks/paragraph -->
 
-<!-- wp:kenta-blocks/heading {"blockID":"76f582e3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":"__INITIAL_VALUE__","variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"12px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<!-- wp:kenta-blocks/heading {"blockID":"76f582e3","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":"__INITIAL_VALUE__","variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-76f582e3"><h2>Love to hear from you</h2></div>
 <!-- /wp:kenta-blocks/heading -->
 
-<!-- wp:kenta-blocks/section {"blockID":"cfb6d4e3"} -->
-<div class="wp-block-kenta-blocks-section kb-section-cfb6d4e3 kb-section"><!-- wp:kenta-blocks/column {"blockID":"749f74cc","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-749f74cc"><div class="kb-column kb-column-749f74cc"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"d6e46a5b","alignItems":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"__INITIAL_VALUE__","type":"color"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-d6e46a5b kb-section"><!-- wp:kenta-blocks/column {"blockID":"aea3b414","width":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-aea3b414"><div class="kb-column kb-column-aea3b414"><div class="kb-column-content"><!-- wp:kenta-blocks/icon {"blockID":"7eb7e2f3","iconSize":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"iconColor":{"initial":"var(\u002d\u002dkb-primary-color)","hover":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-icon kb-icon kb-icon-7eb7e2f3"><div class="kb-icon-wrap"><i class="fas fa-location-dot"></i></div></div>
-<!-- /wp:kenta-blocks/icon --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
+<!-- wp:kenta-blocks/section {"blockID":"3ce8a457","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-section kb-section-3ce8a457 kb-section"><!-- wp:kenta-blocks/column {"blockID":"bb8ed54d","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-bb8ed54d"><div class="kb-column kb-column-bb8ed54d"><div class="kb-column-content"><!-- wp:kenta-blocks/row {"blockID":"c1d70f55","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-row kb-row-c1d70f55 kb-row"><div class="kb-row-inner-container"><!-- wp:kenta-blocks/icon {"blockID":"ba1bb0d9","iconSize":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"iconColor":{"initial":"var(\u002d\u002dkb-primary-color)","hover":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-icon kb-icon kb-icon-ba1bb0d9"><div class="kb-icon-wrap"><i class="fas fa-location-dot"></i></div></div>
+<!-- /wp:kenta-blocks/icon -->
 
-<!-- wp:kenta-blocks/column {"blockID":"3d2b2bad","width":{"desktop":"70%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-3d2b2bad"><div class="kb-column kb-column-3d2b2bad"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"a13d2052","markup":"h4","typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"0px","bottom":"12px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h4 kb-heading-a13d2052"><h4>Our Localtion</h4></div>
+<!-- wp:kenta-blocks/stack {"blockID":"f97f64f0","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-stack kb-stack-f97f64f0 kb-stack"><div class="kb-stack-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"1d1087b1","markup":"h4","typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h4 kb-heading-1d1087b1"><h4>Our Localtion</h4></div>
 <!-- /wp:kenta-blocks/heading -->
 
-<!-- wp:kenta-blocks/paragraph {"blockID":"fd7014d6","margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-fd7014d6"><p>664 Paucek Lock, Fayburgh</p></div>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- wp:kenta-blocks/paragraph {"blockID":"1d36ba95","margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-1d36ba95"><p>664 Paucek Lock, Fayburgh</p></div>
+<!-- /wp:kenta-blocks/paragraph --></div></div>
+<!-- /wp:kenta-blocks/stack --></div></div>
+<!-- /wp:kenta-blocks/row --></div></div></div>
 <!-- /wp:kenta-blocks/column -->
 
-<!-- wp:kenta-blocks/column {"blockID":"24f668ba","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-24f668ba"><div class="kb-column kb-column-24f668ba"><div class="kb-column-content"><!-- wp:kenta-blocks/section {"blockID":"959e8e9f","alignItems":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"__INITIAL_VALUE__","type":"color"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-section kb-section-959e8e9f kb-section"><!-- wp:kenta-blocks/column {"blockID":"bfedaa75","width":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-bfedaa75"><div class="kb-column kb-column-bfedaa75"><div class="kb-column-content"><!-- wp:kenta-blocks/icon {"blockID":"d98f6ea7","iconSize":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"iconColor":{"initial":"var(\u002d\u002dkb-primary-color)","hover":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-icon kb-icon kb-icon-d98f6ea7"><div class="kb-icon-wrap"><i class="fas fa-envelope"></i></div></div>
-<!-- /wp:kenta-blocks/icon --></div></div></div>
-<!-- /wp:kenta-blocks/column -->
+<!-- wp:kenta-blocks/column {"blockID":"029ab744","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"background":{"color":"var(\u002d\u002dkb-base-color)","type":"color"},"radius":{"desktop":{"linked":true,"top":"4px","right":"4px","bottom":"4px","left":"4px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"padding":{"desktop":{"linked":true,"top":"24px","right":"24px","bottom":"24px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-029ab744"><div class="kb-column kb-column-029ab744"><div class="kb-column-content"><!-- wp:kenta-blocks/row {"blockID":"abf2d88e","gap":{"desktop":"24px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-row kb-row-abf2d88e kb-row"><div class="kb-row-inner-container"><!-- wp:kenta-blocks/icon {"blockID":"7569087a","iconSize":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"iconColor":{"initial":"var(\u002d\u002dkb-primary-color)","hover":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-icon kb-icon kb-icon-7569087a"><div class="kb-icon-wrap"><i class="fas fa-envelope"></i></div></div>
+<!-- /wp:kenta-blocks/icon -->
 
-<!-- wp:kenta-blocks/column {"blockID":"95a34bec","width":{"desktop":"70%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-95a34bec"><div class="kb-column kb-column-95a34bec"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"4c0300f9","markup":"h4","typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"0px","bottom":"12px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h4 kb-heading-4c0300f9"><h4>Email</h4></div>
+<!-- wp:kenta-blocks/stack {"blockID":"d3e90095","gap":{"desktop":"0px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-stack kb-stack-d3e90095 kb-stack"><div class="kb-stack-inner-container"><!-- wp:kenta-blocks/heading {"blockID":"b937bc54","markup":"h4","typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"1.2rem","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"6px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h4 kb-heading-b937bc54"><h4>Email</h4></div>
 <!-- /wp:kenta-blocks/heading -->
 
-<!-- wp:kenta-blocks/paragraph {"blockID":"e31bc272","margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
-<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-e31bc272"><p>contact@yourdomain.com</p></div>
-<!-- /wp:kenta-blocks/paragraph --></div></div></div>
-<!-- /wp:kenta-blocks/column --></div>
-<!-- /wp:kenta-blocks/section --></div></div></div>
+<!-- wp:kenta-blocks/paragraph {"blockID":"5e0cdd80","margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-5e0cdd80"><p>contact@yourdomain.com</p></div>
+<!-- /wp:kenta-blocks/paragraph --></div></div>
+<!-- /wp:kenta-blocks/stack --></div></div>
+<!-- /wp:kenta-blocks/row --></div></div></div>
 <!-- /wp:kenta-blocks/column --></div>
 <!-- /wp:kenta-blocks/section -->
+
+<!-- wp:kenta-blocks/group {"blockID":"4bc7e4da","padding":{"desktop":{"linked":true,"top":"12px","right":"12px","bottom":"12px","left":"12px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-kenta-blocks-group kb-group-4bc7e4da kb-group"><div class="kb-group-inner-container"><!-- wp:contact-form-7/contact-form-selector {"id":123,"title":"Kallias Contact Form"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="123" title="Kallias Contact Form"]</div>
+<!-- /wp:contact-form-7/contact-form-selector --></div></div>
+<!-- /wp:kenta-blocks/group -->
 
 <!-- wp:kenta-blocks/spacer {"blockID":"771966b6","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-spacer kb-spacer-771966b6 kb-spacer" aria-hidden="true"></div>
@@ -927,8 +929,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2022-12-03 10:33:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-12-03 10:33:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-04 06:36:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-04 06:36:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 08:52:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 08:52:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1766,6 +1768,156 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#faq]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Kallias Contact Form]]></title>
+		<link>https://kentatheme.com/kallias/?post_type=wpcf7_contact_form&#038;p=123</link>
+		<pubDate>Thu, 29 Dec 2022 08:40:59 +0000</pubDate>
+		<dc:creator><![CDATA[kenta]]></dc:creator>
+		<guid isPermaLink="false">https://kentatheme.com/kallias/?post_type=wpcf7_contact_form&#038;p=123</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
+
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
+
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
+
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
+
+<div class="kenta-full-width-submit">
+[submit "Submit"]
+</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@kentatheme.com>
+[_site_admin_email]
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@kentatheme.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date><![CDATA[2022-12-29 08:40:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-12-29 08:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 08:41:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 08:41:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<div class="kenta-cf">
+<div class="kenta-inner-label">
+<label for="your-name"> Your name </label>[text* your-name autocomplete:name id:your-name]
+</div>
+
+<div class="kenta-inner-label">
+<label for="your-email"> Your email </label>[email* your-email autocomplete:email id:your-email]
+</div>
+
+<div class="kenta-inner-label">
+<label for="subject"> Subject</label>[text* your-subject id:subject] 
+</div>
+
+<div class="kenta-inner-label">
+<label for="message"> Your message</label>[textarea your-message id:message]
+</div>
+
+<div class="kenta-full-width-submit">
+[submit "Submit"]
+</div>
+</div>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:163:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:40:"[_site_title] <wordpress@kentatheme.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
