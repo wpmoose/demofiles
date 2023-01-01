@@ -8,6 +8,7 @@
         "ecommerce": "eCommerce",
         "non-profit": "Non Profit",
         "portfolio": "Portfolio",
+        "one-page": "One Page",
         "others": "Others"
     },
     "pagebuilders": {
@@ -15,6 +16,50 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "cloud-service": {
+            "name": "Cloud Service",
+            "premium": true,
+            "preview": "https://kentatheme.com/cloud-service",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Cloud Service",
+              "page_on_front": "Home",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_header_el_menu_2": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit",
+                "one-page"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "kenta-blocks-premium": {
+                    "name": "Kenta Blocks Premium",
+                    "slug": "kenta-blocks-premium/kenta-blocks.php"
+                }
+            }
+        },
         "medical": {
             "name": "Medicare",
             "premium": true,
@@ -132,7 +177,8 @@
             "category": [
                 "all",
                 "business",
-                "non-profit"
+                "non-profit",
+                "one-page"
             ],
             "pagebuilder": [
                 "all",
@@ -422,7 +468,8 @@
             },
             "category": [
                 "all",
-                "portfolio"
+                "portfolio",
+                "one-page"
             ],
             "pagebuilder": [
                 "all",
@@ -690,7 +737,8 @@
             "category": [
                 "all",
                 "others",
-                "portfolio"
+                "portfolio",
+                "one-page"
             ],
             "pagebuilder": [
                 "all",
