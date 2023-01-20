@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-01-20 08:25" -->
+	<!-- generator="WordPress/6.1.1" created="2023-01-20 08:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Online Business</title>
 	<link>https://kentatheme.com/online-business</link>
 	<description>Boost Your Online Business With Kenta</description>
-	<pubDate>Fri, 20 Jan 2023 08:25:18 +0000</pubDate>
+	<pubDate>Fri, 20 Jan 2023 08:33:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -1607,7 +1607,7 @@
 <!-- /wp:kenta-blocks/section --></div></div>
 <!-- /wp:kenta-blocks/cover -->
 
-<!-- wp:kenta-blocks/cover {"blockID":"3f15da67","background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/architecture/wp-content/uploads/sites/21/2023/01/section-bg.jpg","attachment_id":24},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"var(\u002d\u002dkb-base-color)","gradient":"linear-gradient(67deg,#dfe9f3 0%,white 100%)"},"overlay":"no","padding":{"desktop":{"linked":false,"top":"68px","right":"24px","bottom":"68px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"align":"full"} -->
+<!-- wp:kenta-blocks/cover {"blockID":"3f15da67","background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/online-business/wp-content/uploads/sites/22/2023/01/section-bg.jpg","attachment_id":37},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"var(\u002d\u002dkb-base-color)","gradient":"linear-gradient(67deg,#dfe9f3 0%,white 100%)"},"overlay":"no","padding":{"desktop":{"linked":false,"top":"68px","right":"24px","bottom":"68px","left":"24px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"align":"full"} -->
 <div class="wp-block-kenta-blocks-cover alignfull kb-cover-3f15da67 kb-cover" id="contact"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/section {"blockID":"e612caa0","align":"wide"} -->
 <div class="wp-block-kenta-blocks-section alignwide kb-section-e612caa0 kb-section"><!-- wp:kenta-blocks/column {"blockID":"59400cf3","width":{"desktop":"50%","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-column kb-column-wrapper kb-column-wrapper-59400cf3"><div class="kb-column kb-column-59400cf3"><div class="kb-column-content"><!-- wp:kenta-blocks/heading {"blockID":"e8f96529","textAlign":{"desktop":"left","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":"__INITIAL_VALUE__","variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"uppercase"},"margin":{"desktop":{"linked":false,"top":"0px","right":"0px","bottom":"24px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
@@ -1662,8 +1662,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2023-01-20 03:56:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-01-20 03:56:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-20 07:07:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-20 07:07:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-20 08:33:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-20 08:33:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
