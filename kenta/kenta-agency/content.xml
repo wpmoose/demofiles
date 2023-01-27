@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-15 09:33" -->
+	<!-- generator="WordPress/6.1.1" created="2023-01-27 07:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kenta Agency</title>
 	<link>https://kentatheme.com/kenta-agency</link>
 	<description>Just another Kenta Sites site</description>
-	<pubDate>Thu, 15 Dec 2022 09:33:49 +0000</pubDate>
+	<pubDate>Fri, 27 Jan 2023 07:03:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -859,7 +859,7 @@
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"e9f74b4e","minHeight":{"desktop":"520px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"globalColor":{"initial":"var(\u002d\u002dkb-base-color)"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/kenta-agency/wp-content/uploads/sites/15/2022/10/StockSnap_NJP1LFA6EW.jpg","attachment_id":145,"x":"0.03","y":"0.29"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlayBackground":{"gradient":"linear-gradient(135deg,rgba(8,38,92,0.7) 3%,rgba(196,215,245,0.05) 100%)","type":"gradient","color":"rgba(0,0,0,0.08)"},"align":"full"} -->
+		<content:encoded><![CDATA[<!-- wp:kenta-blocks/cover {"blockID":"e9f74b4e","minHeight":{"desktop":"520px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"globalColor":{"initial":"var(\u002d\u002dkb-base-color)"},"background":{"image":{"source":{"media_type":"image","url":"https://kentatheme.com/kenta-agency/wp-content/uploads/sites/15/2022/10/StockSnap_NJP1LFA6EW.jpg","attachment_id":145,"x":"0.03","y":"0.29"},"repeat":"no-repeat","size":"cover","attachment":"scroll","color":"#ccc"},"type":"image","color":"__INITIAL_VALUE__"},"overlayOpacity":{"desktop":"0.88","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"overlayBackground":{"gradient":"linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%)","type":"gradient","color":"rgba(0,0,0,0.08)"},"align":"full"} -->
 <div class="wp-block-kenta-blocks-cover alignfull kb-cover-e9f74b4e kb-cover kb-cover-has-overlay"><div class="kb-cover-inner-container"><!-- wp:kenta-blocks/spacer {"blockID":"de1620cf","height":{"desktop":"48px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-spacer kb-spacer-de1620cf kb-spacer" aria-hidden="true"></div>
 <!-- /wp:kenta-blocks/spacer -->
@@ -1118,8 +1118,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-19 02:45:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-19 02:45:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-15 09:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-15 09:30:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-27 06:58:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-27 06:58:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
