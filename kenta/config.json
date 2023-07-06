@@ -16,6 +16,49 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+		"digital-agency": {
+            "name": "Digital Agency",
+            "premium": true,
+            "preview": "https://kentatheme.com/digital-agency",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Digital Agency",
+              "page_on_front": "Home",
+              "page_for_posts": "Blog",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Header Menu #1",
+                    "kenta_header_el_menu_2": "Header Menu #1",
+                    "kenta_header_el_collapsable_menu": "Collapsable Menu",
+                    "kenta_footer_el_menu": "Footer Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "kenta-blocks-premium": {
+                    "name": "Kenta Blocks Premium",
+                    "slug": "kenta-blocks-premium/kenta-blocks.php"
+                }
+            }
+        },
 		"kenta-magazine": {
             "name": "Magazine",
             "premium": true,
