@@ -16,6 +16,49 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "yoga-coach": {
+            "name": "Yoga Coach",
+            "preview": "https://kentatheme.com/yoga-coach",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Yoga Coach",
+              "page_on_front": "Home",
+              "page_for_posts": "Courses",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Header Menu 1",
+                    "kenta_header_el_menu_2": "Header Menu 2",
+                    "kenta_header_el_collapsable_menu": "Collapsable Menu",
+                    "kenta_footer_el_menu": "Footer Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "non-profit"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "mailchimp-for-wp": {
+                    "name": "Mailchimp for WordPress",
+                    "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+                },
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
 		"digital-agency": {
             "name": "Digital Agency",
             "premium": true,
