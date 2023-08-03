@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-08-03 00:44" -->
+	<!-- generator="WordPress/6.2.2" created="2023-08-03 02:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kenta Fast Blog</title>
 	<link>https://kentatheme.com/fast-blog</link>
 	<description>Just Another WordPress Site</description>
-	<pubDate>Thu, 03 Aug 2023 00:44:09 +0000</pubDate>
+	<pubDate>Thu, 03 Aug 2023 02:48:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -1157,8 +1157,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="birds"><![CDATA[Birds]]></category>
-		<category domain="post_tag" nicename="birds"><![CDATA[Birds]]></category>
+										<category domain="post_tag" nicename="birds"><![CDATA[Birds]]></category>
+		<category domain="category" nicename="birds"><![CDATA[Birds]]></category>
 		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
@@ -1192,8 +1192,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="deer"><![CDATA[Deer]]></category>
-		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
+		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[125]]></wp:meta_value>
@@ -1224,8 +1224,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="birds"><![CDATA[Birds]]></category>
-		<category domain="post_tag" nicename="birds"><![CDATA[Birds]]></category>
+										<category domain="post_tag" nicename="birds"><![CDATA[Birds]]></category>
+		<category domain="category" nicename="birds"><![CDATA[Birds]]></category>
 		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
@@ -1259,8 +1259,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="squirrel"><![CDATA[squirrel]]></category>
-		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
+		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[127]]></wp:meta_value>
@@ -1306,8 +1306,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="deer"><![CDATA[Deer]]></category>
-		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
+		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[128]]></wp:meta_value>
@@ -1353,8 +1353,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="cat"><![CDATA[Cat]]></category>
-		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 		<category domain="post_tag" nicename="wildlife"><![CDATA[Wildlife]]></category>
+		<category domain="category" nicename="wildlife"><![CDATA[Wildlife]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[129]]></wp:meta_value>
