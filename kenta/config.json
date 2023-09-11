@@ -16,6 +16,53 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "kenta-digital-shop": {
+            "name": "Fast Blog",
+            "preview": "https://kentatheme.com/kenta-digital-shop",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Kenta Shop",
+              "page_on_front": "Home",
+              "page_for_posts": "Blog",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Header Menu #1",
+                    "kenta_header_el_menu_2": "Header Menu #2",
+                    "kenta_header_el_collapsable_menu": "Collapsable Menu",
+                    "kenta_footer_el_menu": "Footer Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "ecommerce"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "contact-form-7": {
+                    "name": "Contact Form 7",
+                    "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "woocommerce": {
+                    "name": "WooCommerce",
+                    "slug": "woocommerce/woocommerce.php"
+                },
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "fast-blog": {
             "name": "Fast Blog",
             "preview": "https://kentatheme.com/fast-blog",
