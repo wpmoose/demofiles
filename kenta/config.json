@@ -16,6 +16,45 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "travel-journal": {
+            "name": "Travel Journal",
+            "preview": "https://kentatheme.com/travel-journal",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Travel Journal",
+              "page_on_front": "Home",
+              "page_for_posts": "Blog",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "portfolio",
+                "others"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                }
+            }
+        },
         "artistic-blog-premium": {
             "name": "Artistic Blog Premium",
             "premium": true,
