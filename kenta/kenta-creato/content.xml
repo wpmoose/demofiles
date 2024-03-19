@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-03-12 02:38" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-19 02:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kenta Creato</title>
 	<link>https://kentatheme.com/kenta-creato</link>
 	<description></description>
-	<pubDate>Tue, 12 Mar 2024 02:38:08 +0000</pubDate>
+	<pubDate>Tue, 19 Mar 2024 02:36:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -137,11 +137,7 @@
 <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"textAlign":"center","backgroundColor":"kenta-primary","textColor":"white","style":{"spacing":{"padding":{"left":"var:preset|spacing|60","right":"var:preset|spacing|60"}},"border":{"radius":"100px","width":"0px","style":"none"},"typography":{"letterSpacing":"1px","textTransform":"capitalize","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"className":"is-style-fill","fontSize":"kenta-font-small"} -->
 <div class="wp-block-button has-custom-font-size is-style-fill has-kenta-font-small-font-size" style="font-style:normal;font-weight:600;letter-spacing:1px;text-transform:capitalize"><a class="wp-block-button__link has-white-color has-kenta-primary-background-color has-text-color has-background has-link-color has-text-align-center wp-element-button" href="#" style="border-style:none;border-width:0px;border-radius:100px;padding-right:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">Get Started</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:spacer {"height":"120px"} -->
-<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}}} -->
@@ -196,8 +192,8 @@
 
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60);padding-top:0;padding-bottom:0"><!-- wp:group {"layout":{"type":"constrained","contentSize":"720px"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"kenta-font-large"} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60);padding-top:0;padding-bottom:0"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"720px"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"kenta-font-large"} -->
 <h2 class="wp-block-heading has-text-align-center has-kenta-font-large-font-size" style="margin-top:0;margin-bottom:0">Our Services</h2>
 <!-- /wp:heading -->
 
@@ -206,8 +202,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:cover {"url":"https://kentatheme.com/kenta-creato/wp-content/uploads/sites/34/2024/03/service-01.jpg","id":82,"dimRatio":40,"overlayColor":"black","minHeight":430,"minHeightUnit":"px","contentPosition":"bottom center","style":{"border":{"radius":"16px"},"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover has-custom-content-position is-position-bottom-center" style="border-radius:16px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:430px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-82" alt="" src="https://kentatheme.com/kenta-creato/wp-content/uploads/sites/34/2024/03/service-01.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"white","fontSize":"kenta-font-small"} -->
 <p class="has-text-align-left has-white-color has-text-color has-link-color has-kenta-font-small-font-size" style="font-style:normal;font-weight:700">Awesome Service</p>
@@ -259,8 +255,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
 <h2 class="wp-block-heading">Donec massa sapien faucibus et. Arcu cursus vitae congue mauris.</h2>
 <!-- /wp:heading -->
@@ -299,8 +295,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":89,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"32px"}},"className":"is-style-default"} -->
 <figure class="wp-block-image size-full has-custom-border is-style-default"><img src="https://kentatheme.com/kenta-creato/wp-content/uploads/sites/34/2024/03/section-02.jpg" alt="" class="wp-image-89" style="border-radius:32px;aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
@@ -513,8 +509,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-07 08:40:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-07 08:40:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-12 02:37:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-12 02:37:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-19 02:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-19 02:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
