@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-13 07:01" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-22 03:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kenta Breeze</title>
 	<link>https://kentatheme.com/kenta-breeze</link>
 	<description></description>
-	<pubDate>Tue, 13 Aug 2024 07:01:51 +0000</pubDate>
+	<pubDate>Thu, 22 Aug 2024 03:34:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
