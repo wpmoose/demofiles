@@ -28,7 +28,7 @@
             "core": {
               "blogname": "Kenta Ciela",
               "page_on_front": "Home",
-              "page_for_posts": "Blog",
+              "page_for_posts": "Blogs",
               "kenta_blocks_sync_theme": "yes"
             },
             "customizer": {

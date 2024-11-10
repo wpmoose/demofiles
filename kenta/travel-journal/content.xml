@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.2" created="2023-12-05 05:00" -->
+	<!-- generator="WordPress/6.6.2" created="2024-11-10 09:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Travel Journal</title>
 	<link>https://kentatheme.com/travel-journal</link>
 	<description></description>
-	<pubDate>Tue, 05 Dec 2023 05:00:30 +0000</pubDate>
+	<pubDate>Sun, 10 Nov 2024 09:11:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://kentatheme.com/</wp:base_site_url>
@@ -67,7 +67,7 @@
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 		<item>
 		<title><![CDATA[about-featured]]></title>
@@ -769,65 +769,80 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Thomasemoge]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[dsadsadas@mail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[172.71.94.223]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-12-31 23:19:21]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-12-31 23:19:21]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Удобный сервис с объявлениями <a href="https://t.me/akordaru" rel="nofollow ugc">квартир в новостройках Ташкента</a> с готовым ремонтом, в ипотеку, рассрочку, аренда или продажа с актуальными ценами. 
+ 
+Теперь вы точно знаете сервис в котором можно <a href="https://www.instagram.com/akordauz/" rel="nofollow ugc">купить квартиру в Ташкенте</a>, <a href="http://businesspark.uz/" rel="nofollow ugc">купить недвижимость в Ташкенте</a>, продажа квартир, куплю-продам жилье недорого, цены. Найдите любую недвижимость по Узбекистану. Занимайтесь недвижимостью не выходя из дома. Выбирайте лучшее. Ведущий поисковик <a href="https://t.me/akordauz" rel="nofollow ugc">недвижимость в Ташкенте</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[RobertSilia]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mailscucmber222@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[172.68.244.181]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-03-18 19:50:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-03-18 19:50:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Best cucmber ever <a href="https://cucumber222.com" rel="nofollow ugc">cucumber</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_author><![CDATA[uk Pornstar]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[harlankolios@live.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://fpcom.co.kr/bbs/board.php?bo_table=free&amp;wr_id=874606</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[172.71.246.109]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-04-05 20:44:51]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-04-05 20:44:51]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[20 Tips To Help You Be More Successful At Kayleigh Wanless Pornstar uk 
+Pornstar]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>5</wp:comment_id>
+			<wp:comment_author><![CDATA[starporn]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[drewmacvitie@yahoo.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://championsleage.review/wiki/5_Killer_Quora_Questions_On_Best_Pornstars_Website</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[162.158.94.192]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-05-01 13:25:26]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-05-01 13:25:26]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[See What Starporn Tricks The Celebs Are Making Use Of starporn]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[cutest Pornstars]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[larhondamcbride@libero.it]]></wp:comment_author_email>
+			<wp:comment_author_url>https://funsilo.date/wiki/What_Is_Uk_Pornstar_And_Why_Is_Everyone_Dissing_It</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[162.158.86.106]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-06-29 05:57:34]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-06-29 05:57:34]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[5 Killer Quora Answers On Cutest Pornstars cutest Pornstars]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://kentatheme.com/travel-journal/?page_id=2</link>
-		<pubDate>Tue, 05 Dec 2023 02:04:18 +0000</pubDate>
-		<dc:creator><![CDATA[kenta]]></dc:creator>
-		<guid isPermaLink="false">https://kentatheme.com/travel-journal/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://kentatheme.com/travel-journal/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-05 02:04:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-05 02:04:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 02:12:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 02:12:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1701742332]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://kentatheme.com/travel-journal/</link>
@@ -835,9 +850,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[kenta]]></dc:creator>
 		<guid isPermaLink="false">https://kentatheme.com/travel-journal/?page_id=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/hero-background.jpg","id":48,"hasParallax":true,"dimRatio":50,"overlayColor":"black","minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full","style":{"elements":{"link":{"color":{"text":"#ffffff"}},"heading":{"color":{"text":"#ffffff"}}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-parallax has-link-color" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-48 has-parallax" style="background-position:50% 50%;background-image:url(https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/hero-background.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:kenta-blocks/heading {"blockID":"5464b0c4","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"68px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":{"desktop":"1.5","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textTransform":"capitalize"}} -->
-<div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h1 kb-heading-5464b0c4"><h1 class="">Explore the Colorful World</h1></div>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/hero-background.jpg","id":48,"hasParallax":true,"dimRatio":50,"overlayColor":"black","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","align":"full","style":{"elements":{"link":{"color":{"text":"#ffffff"}},"heading":{"color":{"text":"#ffffff"}}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-parallax has-link-color" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim"></span><div class="wp-block-cover__image-background wp-image-48 has-parallax" style="background-position:50% 50%;background-image:url(https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/hero-background.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:kenta-blocks/heading {"blockID":"5464b0c4","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"68px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":{"desktop":"1.5","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textTransform":"capitalize"},"align":"wide"} -->
+<div class="wp-block-kenta-blocks-heading alignwide kb-heading kb-heading-h1 kb-heading-5464b0c4"><h1 class="">Explore the Colorful World</h1></div>
 <!-- /wp:kenta-blocks/heading -->
 
 <!-- wp:kenta-blocks/paragraph {"blockID":"a433a648","maxWidth":{"desktop":"800px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"rgba(255,255,255,0.7)","link-initial":"__INITIAL_VALUE__","link-hover":"__INITIAL_VALUE__"},"typography":{"family":"__INITIAL_VALUE__","fontSize":{"desktop":"20px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"0px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
@@ -851,8 +866,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
-<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:column -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":38,"width":"98px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
 <figure class="wp-block-image size-full is-resized is-style-default"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/feature-01.png" alt="" class="wp-image-38" style="width:98px"/></figure>
 <!-- /wp:image -->
@@ -866,7 +881,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#"><a href="http://localhost:8888/#">View →</a></a></p>
+<p><a href="#"></a><a href="http://localhost:8888/#">View →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -884,7 +899,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#"><a href="http://localhost:8888/#">View →</a></a></p>
+<p><a href="#"></a><a href="http://localhost:8888/#">View →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -902,7 +917,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#"><a href="http://localhost:8888/#">View →</a></a></p>
+<p><a href="#"></a><a href="http://localhost:8888/#">View →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -920,14 +935,14 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#"><a href="http://localhost:8888/#">View →</a></a></p>
+<p><a href="#"></a><a href="http://localhost:8888/#">View →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"kenta-base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:media-text {"mediaId":52,"mediaLink":"https://kentatheme.com/travel-journal/home/section-01/","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/section-01.jpg" alt="" class="wp-image-52 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:kenta-blocks/heading {"blockID":"60316211","typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"28px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:media-text {"align":"wide","mediaId":52,"mediaLink":"https://kentatheme.com/travel-journal/home/section-01/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/section-01.jpg" alt="" class="wp-image-52 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:kenta-blocks/heading {"blockID":"60316211","typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"28px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-60316211"><h2 class="">The best experience of your travel</h2></div>
 <!-- /wp:kenta-blocks/heading -->
 
@@ -936,16 +951,16 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"20px"}},"className":"is-style-outline"} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontSize":"20px"}}} -->
 <div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:20px"><a class="wp-block-button__link wp-element-button" href="#">Learn More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"kenta-base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:media-text {"mediaPosition":"right","mediaId":53,"mediaLink":"https://kentatheme.com/travel-journal/home/section-02/","mediaType":"image"} -->
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:kenta-blocks/heading {"blockID":"f648e618","typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"28px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"kenta-base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":53,"mediaLink":"https://kentatheme.com/travel-journal/home/section-02/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:kenta-blocks/heading {"blockID":"f648e618","typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"28px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-f648e618"><h2 class="">The best experience of your travel</h2></div>
 <!-- /wp:kenta-blocks/heading -->
 
@@ -954,15 +969,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"20px"}},"className":"is-style-outline"} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontSize":"20px"}}} -->
 <div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:20px"><a class="wp-block-button__link wp-element-button" href="#">Learn More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/section-02.jpg" alt="" class="wp-image-53 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:kenta-blocks/heading {"blockID":"5fc97112","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-5fc97112"><h2 class="">Popular Destinations</h2></div>
 <!-- /wp:kenta-blocks/heading -->
@@ -972,8 +987,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:kenta-blocks/paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:cover {"url":"https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/destination-01.jpg","id":34,"dimRatio":30,"minHeight":390,"minHeightUnit":"px","contentPosition":"bottom center","isDark":false,"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"radius":"12px"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center has-white-color has-text-color has-link-color" style="border-radius:12px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:390px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-34" alt="" src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/destination-01.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":49,"width":"24px","sizeSlug":"full","linkDestination":"none"} -->
@@ -1063,8 +1078,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"}}},"backgroundColor":"kenta-base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"kenta-base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-kenta-base-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:kenta-blocks/heading {"blockID":"6c818ba9","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-6c818ba9"><h2 class="">Great Gallery</h2></div>
 <!-- /wp:kenta-blocks/heading -->
@@ -1074,31 +1089,31 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:kenta-blocks/paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:gallery {"columns":3,"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-3 is-cropped"><!-- wp:image {"id":43,"sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:gallery {"columns":3,"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-3 is-cropped"><!-- wp:image {"lightbox":{"enabled":true},"id":43,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/gallery-01.jpg" alt="" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":44,"sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:image {"lightbox":{"enabled":true},"id":44,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/gallery-02.jpg" alt="" class="wp-image-44"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":45,"sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:image {"lightbox":{"enabled":true},"id":45,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/gallery-03.jpg" alt="" class="wp-image-45"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":46,"sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:image {"lightbox":{"enabled":true},"id":46,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/gallery-04.jpg" alt="" class="wp-image-46"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":47,"sizeSlug":"large","linkDestination":"none"} -->
+<!-- wp:image {"lightbox":{"enabled":true},"id":47,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/gallery-05.jpg" alt="" class="wp-image-47"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:kenta-blocks/heading {"blockID":"c3d2f888","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"24px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-c3d2f888"><h2 class="">Voice Of Subscribers</h2></div>
 <!-- /wp:kenta-blocks/heading -->
@@ -1108,9 +1123,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:kenta-blocks/paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"borderColor":"kenta-base-300","backgroundColor":"kenta-base"} -->
-<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"fontFamily":"lisubosa"} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"backgroundColor":"kenta-base","borderColor":"kenta-base-300"} -->
+<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"fontFamily":"lisubosa","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group has-lisubosa-font-family"><!-- wp:image {"id":54,"width":"48px","height":"48px","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded is-no-margin-top is-no-margin-bottom"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded is-no-margin-top is-no-margin-bottom"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/subscriber.jpg" alt="" class="wp-image-54" style="object-fit:cover;width:48px;height:48px"/></figure>
 <!-- /wp:image -->
@@ -1131,8 +1146,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"borderColor":"kenta-base-300","backgroundColor":"kenta-base"} -->
-<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"fontFamily":"lisubosa"} -->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"backgroundColor":"kenta-base","borderColor":"kenta-base-300"} -->
+<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"fontFamily":"lisubosa","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group has-lisubosa-font-family"><!-- wp:image {"id":54,"width":"48px","height":"48px","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded is-no-margin-top is-no-margin-bottom"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded is-no-margin-top is-no-margin-bottom"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/subscriber.jpg" alt="" class="wp-image-54" style="object-fit:cover;width:48px;height:48px"/></figure>
 <!-- /wp:image -->
@@ -1153,8 +1168,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"borderColor":"kenta-base-300","backgroundColor":"kenta-base"} -->
-<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"fontFamily":"lisubosa"} -->
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"width":"1px"}},"backgroundColor":"kenta-base","borderColor":"kenta-base-300"} -->
+<div class="wp-block-column has-border-color has-kenta-base-300-border-color has-kenta-base-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"fontFamily":"lisubosa","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group has-lisubosa-font-family"><!-- wp:image {"id":54,"width":"48px","height":"48px","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded is-no-margin-top is-no-margin-bottom"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded is-no-margin-top is-no-margin-bottom"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/subscriber.jpg" alt="" class="wp-image-54" style="object-fit:cover;width:48px;height:48px"/></figure>
 <!-- /wp:image -->
@@ -1177,8 +1192,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"overlayColor":"kenta-base-300","align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}},"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-kenta-accent-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--50)"><span aria-hidden="true" class="wp-block-cover__background has-kenta-base-300-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"align":"center","id":51,"width":"58px","sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:cover {"overlayColor":"kenta-base-300","isUserOverlayColor":true,"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}},"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-kenta-accent-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--50)"><span aria-hidden="true" class="wp-block-cover__background has-kenta-base-300-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":51,"width":"58px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/quote.png" alt="" class="wp-image-51" style="width:58px"/></figure>
 <!-- /wp:image -->
 
@@ -1186,7 +1201,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-kenta-blocks-paragraph kb-paragraph kb-paragraph-11c04566"><p class="">Lorem ipsum is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century for use in a type specimen book.</p></div>
 <!-- /wp:kenta-blocks/paragraph -->
 
-<!-- wp:image {"align":"center","id":54,"width":"68px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded is-no-margin-bottom "} -->
+<!-- wp:image {"id":54,"width":"68px","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded is-no-margin-bottom "} -->
 <figure class="wp-block-image aligncenter size-full is-resized is-style-rounded is-no-margin-bottom"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/subscriber.jpg" alt="" class="wp-image-54" style="width:68px"/></figure>
 <!-- /wp:image -->
 
@@ -1198,8 +1213,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-05 02:11:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-05 02:11:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 03:53:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 03:53:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-11-10 09:06:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-10 09:06:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1275,12 +1290,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:kenta-blocks/paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"align":"center","id":31,"width":"1024px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:image {"id":31,"width":"1024px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/about-featured.jpg" alt="" class="wp-image-31" style="width:1024px;height:auto"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|70"},"padding":{"right":"var:preset|spacing|70","left":"var:preset|spacing|70","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
-<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--70)"><!-- wp:column -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|70"},"padding":{"right":"var:preset|spacing|70","left":"var:preset|spacing|70","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--70)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:kenta-blocks/row {"blockID":"36776aaf","alignItems":{"desktop":"flex-start","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"gap":{"desktop":"24px","tablet":"12px","mobile":"12px"}} -->
 <div class="wp-block-kenta-blocks-row kb-row-36776aaf kb-row"><div class="kb-row-inner-container"><!-- wp:kenta-blocks/image {"blockID":"73f91221","id":51,"sizeSlug":"full","width":{"desktop":"68px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"margin":{"desktop":{"linked":true,"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"className":"shrink-0"} -->
 <figure class="wp-block-kenta-blocks-image kb-image kb-image-73f91221 shrink-0"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/quote.png" alt=""/></figure>
@@ -1317,7 +1332,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:cover {"overlayColor":"kenta-base-300","align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
+<!-- wp:cover {"overlayColor":"kenta-base-300","isUserOverlayColor":true,"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull has-kenta-accent-color has-text-color has-link-color"><span aria-hidden="true" class="wp-block-cover__background has-kenta-base-300-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|40","left":"0"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--40);padding-left:0"><!-- wp:kenta-blocks/heading {"blockID":"1ea9c8fe","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"typography":{"family":"paytone-one","fontSize":{"desktop":"36px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-1ea9c8fe"><h2 class="">Add Your Call to Action Here</h2></div>
@@ -1328,12 +1343,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:kenta-blocks/paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"fontSize":"ktj-font-large"} -->
+<!-- wp:buttons {"fontSize":"ktj-font-large","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons has-custom-font-size has-ktj-font-large-font-size"><!-- wp:button {"style":{"typography":{"fontSize":"18px"}}} -->
 <div class="wp-block-button has-custom-font-size" style="font-size:18px"><a class="wp-block-button__link wp-element-button">Get Started</a></div>
 <!-- /wp:button -->
 
-<!-- wp:button {"style":{"typography":{"fontSize":"18px"}},"className":"is-style-outline"} -->
+<!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontSize":"18px"}}} -->
 <div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:18px"><a class="wp-block-button__link wp-element-button">Learn More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
@@ -1342,8 +1357,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-05 02:12:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-05 02:12:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 04:50:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 04:50:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-11-10 09:08:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-10 09:08:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1381,8 +1396,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center has-text-color" style="color:#fefefe;padding-bottom:var(--wp--preset--spacing--80);min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-33" alt="" src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/contact-header.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:kenta-blocks/post-title {"blockID":"13a75db7","markup":"h1","textAlign":{"desktop":"center","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"color":{"initial":"#fefefe","link-initial":"#ffffff","link-hover":"#ffffff"},"typography":{"family":"paytone-one","fontSize":{"desktop":"48px","tablet":"1rem","mobile":"1rem"},"variant":"400","lineHeight":"1.5"},"isLink":"no"} /--></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:media-text {"mediaId":50,"mediaLink":"https://kentatheme.com/travel-journal/home/map/","mediaType":"image","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}},"spacing":{"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"textColor":"kenta-accent"} -->
-<div class="wp-block-media-text is-stacked-on-mobile has-kenta-accent-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--80);margin-bottom:var(--wp--preset--spacing--80)"><figure class="wp-block-media-text__media"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/map.jpg" alt="" class="wp-image-50 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
+<!-- wp:media-text {"align":"wide","mediaId":50,"mediaLink":"https://kentatheme.com/travel-journal/home/map/","mediaType":"image","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}},"spacing":{"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"textColor":"kenta-accent"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-kenta-accent-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--80);margin-bottom:var(--wp--preset--spacing--80)"><figure class="wp-block-media-text__media"><img src="https://kentatheme.com/travel-journal/wp-content/uploads/sites/33/2023/12/map.jpg" alt="" class="wp-image-50 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:kenta-blocks/heading {"blockID":"e2fd7dd7","typography":{"family":"paytone-one","fontSize":{"desktop":"27px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"}} -->
 <div class="wp-block-kenta-blocks-heading kb-heading kb-heading-h2 kb-heading-e2fd7dd7"><h2 class="">Want to share your story?</h2></div>
 <!-- /wp:kenta-blocks/heading -->
@@ -1401,7 +1416,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p><strong>Phone</strong>: +1-123-456-7890</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"kenta-base","iconColorValue":"var(\u002d\u002dkenta-base-color)","iconBackgroundColorValue":"var(\u002d\u002dkenta-accent-color)","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"0","right":"0"}}},"className":"has-icon-color is-style-default"} -->
+<!-- wp:social-links {"iconColor":"kenta-base","iconColorValue":"var(\u002d\u002dkenta-base-color)","iconBackgroundColorValue":"var(\u002d\u002dkenta-accent-color)","className":"has-icon-color is-style-default","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"0","right":"0"}}}} -->
 <ul class="wp-block-social-links has-icon-color has-icon-background-color is-style-default" style="margin-top:var(--wp--preset--spacing--30);margin-right:0;margin-bottom:var(--wp--preset--spacing--30);margin-left:0"><!-- wp:social-link {"url":"#","service":"wordpress"} /-->
 
 <!-- wp:social-link {"url":"#","service":"x"} /-->
@@ -1413,7 +1428,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:cover {"overlayColor":"kenta-base-200","minHeight":200,"minHeightUnit":"px","align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
+<!-- wp:cover {"overlayColor":"kenta-base-200","isUserOverlayColor":true,"minHeight":200,"minHeightUnit":"px","align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|kenta-accent"}}}},"textColor":"kenta-accent","layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull has-kenta-accent-color has-text-color has-link-color" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-kenta-base-200-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-center" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:kenta-blocks/heading {"blockID":"bb021506","typography":{"family":"paytone-one","fontSize":{"desktop":"27px","tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"},"variant":"__INITIAL_VALUE__","lineHeight":"__INITIAL_VALUE__","textTransform":"capitalize"},"margin":{"desktop":{"linked":false,"top":"0px","right":"auto","bottom":"27px","left":"auto"},"tablet":"__INITIAL_VALUE__","mobile":"__INITIAL_VALUE__"}} -->
@@ -1427,7 +1442,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"20px"}},"className":"is-style-fill"} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill","style":{"typography":{"fontSize":"20px"}}} -->
 <div class="wp-block-button has-custom-font-size is-style-fill" style="font-size:20px"><a class="wp-block-button__link wp-element-button" href="#">Subscribe Today →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -1438,8 +1453,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-05 02:12:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-05 02:12:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 04:51:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 04:51:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-11-10 09:07:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-10 09:07:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
