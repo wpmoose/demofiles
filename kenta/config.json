@@ -1,6 +1,6 @@
 {
     "slug": "kenta",
-    "homepage": "https://kentatheme.com/pricing/?utm_source=starter-site-screen&utm_medium=buy-now-link&utm_campaign=kenta-pricing",
+    "homepage": "https://kentatheme.com/pricing/?utm_source=kenta-starter-site-screen&utm_medium=buy-now-link&utm_campaign=kenta-pricing",
     "categories": {
         "all": "All",
         "blog": "Blog",
@@ -16,6 +16,62 @@
         "gutenberg": "Gutenberg"
     },
     "demos": {
+        "kenta-flow": {
+            "name": "Kenta Flow",
+            "mixed": true,
+            "preview": "https://kentatheme.com/kenta-flow",
+            "screenshot": "screenshot.webp",
+            "dummy": {
+                "customizer": "customizer.dat",
+                "content": "content.xml",
+                "widgets": "widgets.wie"
+            },
+            "core": {
+              "blogname": "Kenta Flow",
+              "page_on_front": "Home",
+              "page_for_posts": "Blogs",
+              "kenta_blocks_sync_theme": "yes"
+            },
+            "customizer": {
+                "nav_menu_locations": {
+                    "kenta_header_el_menu_1": "Primary Menu",
+                    "kenta_footer_el_menu": "Primary Menu",
+                    "kenta_header_el_collapsable_menu": "Primary Menu"
+                }
+            },
+            "category": [
+                "all",
+                "business",
+                "portfolio",
+                "others"
+            ],
+            "pagebuilder": [
+                "all",
+                "gutenberg"
+            ],
+            "plugins": {
+                "kenta-blocks": {
+                    "name": "Kenta Blocks",
+                    "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
+                }
+            },
+            "premium-plugins": {
+                "kenta-companion-premium": {
+                    "upsell": "https://kentatheme.com/pricing/?utm_source=kenta-starter-site-screen&utm_medium=recommend&utm_campaign=kenta-pricing",
+                    "name": "Kenta Companion Premium",
+                    "slug": "kenta-companion-premium/kenta-companion.php"
+                },
+                "plover-kit-premium": {
+                    "upsell": "https://wpplover.com/plugins/plover-kit/?utm_source=kenta-starter-site-screen&utm_medium=recommend&utm_campaign=kenta-pricing",
+                    "name": "Plover Kit Premium",
+                    "slug": "plover-kit-premium/plover-kit.php"
+                }
+            }
+        },
         "kenta-ciela": {
             "name": "Kenta Ciela",
             "preview": "https://kentatheme.com/kenta-ciela",
@@ -230,6 +286,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -277,6 +337,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -314,6 +378,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -357,6 +425,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -400,6 +472,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -439,6 +515,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -487,6 +567,10 @@
                 "woocommerce": {
                     "name": "WooCommerce",
                     "slug": "woocommerce/woocommerce.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -530,6 +614,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -573,6 +661,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -617,6 +709,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -661,6 +757,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -709,6 +809,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -752,6 +856,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -796,6 +904,10 @@
                 "kenta-blocks-premium": {
                     "name": "Kenta Blocks Premium",
                     "slug": "kenta-blocks-premium/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -840,6 +952,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -879,6 +995,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -920,6 +1040,10 @@
                 "contact-form-7": {
                     "name": "Contact Form 7",
                     "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -959,6 +1083,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1004,6 +1132,10 @@
                 "woocommerce": {
                     "name": "WooCommerce",
                     "slug": "woocommerce/woocommerce.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1045,6 +1177,10 @@
                 "contact-form-7": {
                     "name": "Contact Form 7",
                     "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1083,6 +1219,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1122,6 +1262,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1165,6 +1309,10 @@
                 "contact-form-7": {
                     "name": "Contact Form 7",
                     "slug": "contact-form-7/wp-contact-form-7.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1206,6 +1354,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1247,6 +1399,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1281,6 +1437,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1317,6 +1477,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         },
@@ -1352,6 +1516,10 @@
                 "kenta-blocks": {
                     "name": "Kenta Blocks",
                     "slug": "kenta-blocks/kenta-blocks.php"
+                },
+                "plover-kit": {
+                    "name": "Plover Kit",
+                    "slug": "plover-kit/plover-kit.php"
                 }
             }
         }
