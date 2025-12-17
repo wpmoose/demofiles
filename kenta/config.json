@@ -59,7 +59,7 @@
                     "slug": "plover-kit/plover-kit.php"
                 }
             },
-            "premium-plugins": {
+            "premiumPlugins": {
                 "kenta-companion-premium": {
                     "upsell": "https://kentatheme.com/pricing/?utm_source=kenta-starter-site-screen&utm_medium=recommend&utm_campaign=kenta-pricing",
                     "name": "Kenta Companion Premium",
