@@ -61,12 +61,12 @@
             },
             "premiumPlugins": {
                 "kenta-companion-premium": {
-                    "upsell": "https://kentatheme.com/pricing/?utm_source=kenta-starter-site-screen&utm_medium=recommend&utm_campaign=kenta-pricing",
+                    "upsell": "https://kentatheme.com/pricing/?utm_source=kenta-starter-sites&utm_medium=recommend&utm_campaign=kenta-pricing",
                     "name": "Kenta Companion Premium",
                     "slug": "kenta-companion-premium/kenta-companion.php"
                 },
                 "plover-kit-premium": {
-                    "upsell": "https://wpplover.com/plugins/plover-kit/?utm_source=kenta-starter-site-screen&utm_medium=recommend&utm_campaign=kenta-pricing",
+                    "upsell": "https://wpplover.com/plugins/plover-kit/?utm_source=kenta-starter-sites&utm_medium=recommend&utm_campaign=kenta-pricing",
                     "name": "Plover Kit Premium",
                     "slug": "plover-kit-premium/plover-kit.php"
                 }
